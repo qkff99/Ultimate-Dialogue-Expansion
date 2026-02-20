@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>                                                                                                                              
+	<string id="st_eat_medkit_cry_1"><text>Ха... аптечка... живой, сука.</text></string>
+	<string id="st_eat_medkit_cry_2"><text>Бля! Еще жгут нужен!</text></string>
+	<string id="st_eat_medkit_cry_3"><text>Не я один с медом, мразь.</text></string>
+	<string id="st_eat_medkit_cry_4"><text>Угх... крови до хрена... бинты...</text></string>
+	<string id="st_eat_medkit_cry_5"><text>А-а-а! Это моя кровь! Аптечку, блять!</text></string>
+	<string id="st_eat_medkit_cry_6"><text>Я так просто не сдохну, урод!</text></string>
+	<string id="st_eat_medkit_cry_7"><text>Ты выбил у меня последнюю аптечку... труп твой раздену.</text></string>
+	<string id="st_eat_medkit_cry_8"><text>Давай, давай! Еще морфин нужен!</text></string>
+	<string id="st_eat_medkit_cry_9"><text>Черт... кевлар в лохмотья.</text></string>
+	<string id="st_eat_medkit_cry_10"><text>Если выживу, медика расцелую.</text></string>
+	<string id="st_eat_medkit_cry_11"><text>Бинты сюда, быстро!</text></string>
+	<string id="st_eat_medkit_cry_12"><text>Ага... лутаные таблетки все же пригодились.</text></string>
+	<string id="st_eat_medkit_cry_13"><text>Ммф... страховка это не покроет.</text></string>
+	<string id="st_eat_medkit_cry_14"><text>Еще укол... еще укол...</text></string>
+	<string id="st_eat_medkit_cry_15"><text>Не последняя была аптечка. Я еще в деле, падла.</text></string>
+	<string id="st_eat_medkit_cry_16"><text>Унф... бинтуюсь. Если б ты умел целиться - я б сдох.</text></string>
+	<string id="st_eat_medkit_cry_17"><text>Ингх! Еще аптечку! Эта пустая!</text></string>
+	<string id="st_eat_medkit_cry_18"><text>А-а-а! Мм... спасибо морфию...</text></string>
+	<string id="st_eat_medkit_cry_19"><text>Этим меня не уложить, щенок.</text></string>
+	<string id="st_eat_medkit_cry_20"><text>ААА! Кровища... аптечку, аптечку!</text></string>
+	<string id="st_eat_medkit_cry_21"><text>Думаешь, я тут истеку? Хер тебе.</text></string>
+	<string id="st_eat_medkit_cry_22"><text>Броня держит... пока держит...</text></string>
+	<string id="st_eat_medkit_cry_23">
+    <text>Ха... зажал рану. Сегодня не дохну.</text>
+</string>
+<string id="st_eat_medkit_cry_24">
+    <text>Тсс... не терять башку... давай, аптечка.</text>
+</string>
+<string id="st_eat_medkit_cry_25">
+    <text>Кровь тормознулась... но чуть не откинулся.</text>
+</string>
+<string id="st_eat_medkit_cry_26">
+    <text>Щас щипанет... и дальше в бой.</text>
+</string>
+<string id="st_eat_medkit_cry_27">
+    <text>Последняя аптечка... только бы сработала.</text>
+</string>
+<string id="st_eat_medkit_cry_28">
+    <text>Бля, горю весь. Бинт, живо.</text>
+</string>
+<string id="st_eat_medkit_cry_29">
+    <text>Хорошо, что взял запасную. Рано мне падать.</text>
+</string>
+<string id="st_eat_medkit_cry_30">
+    <text>Бывало и хуже... но шатаюсь уже. Подлатай!</text>
+</string>
+<string id="st_eat_medkit_cry_31">
+    <text>Бинты мокрые, похер. Идем дальше.</text>
+</string>
+<string id="st_eat_medkit_cry_32">
+    <text>Кровь стихает... может выкарабкаюсь.</text>
+</string>
+<string id="st_eat_medkit_cry_33">
+    <text>Последний морфий... как же больно, сука.</text>
+</string>
+<string id="st_eat_medkit_cry_34">
+    <text>Соберись, блять, иначе тут и ляжешь.</text>
+</string>
+<string id="st_eat_medkit_cry_35">
+    <text>Зашей как есть, остальное вывезу.</text>
+</string>
+<string id="st_eat_medkit_cry_36">
+    <text>Боль адская... но без аптечки был бы труп.</text>
+</string>
+<string id="st_eat_medkit_cry_37">
+    <text>Рана глубокая... но я упрямее.</text>
+</string>
+<string id="st_eat_medkit_cry_38">
+    <text>Заживет не сразу, но я еще дерусь.</text>
+</string>
+<string id="st_eat_medkit_cry_39">
+    <text>Кровь унял, но не думай что сдался.</text>
+</string>
+<string id="st_eat_medkit_cry_40">
+    <text>Одним бинтом не обойдется... но я не встану на колени.</text>
+</string>
+<string id="st_eat_medkit_cry_41">
+    <text>Норм, держит. Херово, но живой.</text>
+</string>
+<string id="st_eat_medkit_cry_42">
+    <text>Кишки орут, а я дышу. Уже плюс.</text>
+</string>
+<string id="st_eat_medkit_cry_43">
+    <text>Попал мощно... но меня не снял.</text>
+</string>
+<string id="st_eat_medkit_cry_44">
+    <text>Ха! Думал конец? Хрен там.</text>
+</string>
+<string id="st_eat_medkit_cry_45"><text>Ай, блять, больно.</text></string>
+<string id="st_eat_medkit_cry_46"><text>Да ну нахер! Это тир, что ли?</text></string>
+<string id="st_eat_medkit_cry_47"><text>АРГХ! Заплатишь за это!</text></string>
+<string id="st_eat_medkit_cry_48"><text>Неплохо. Но этого мало, чтобы меня добить.</text></string>
+<string id="st_eat_medkit_cry_49"><text>Сука... жжет. Случайно попал, щенок.</text></string>
+<string id="st_eat_medkit_cry_50"><text>Хех, в баре и похуже прилетало.</text></string>
+<string id="st_eat_medkit_cry_51"><text>Зона меня грызет, теперь и ты? В очередь.</text></string>
+<string id="st_eat_medkit_cry_52"><text>Это у тебя стрельба? Слепой пес точнее.</text></string>
+<string id="st_eat_medkit_cry_53"><text>Ладно, зацепил... второй раз не выйдет.</text></string>
+<string id="st_eat_medkit_cry_54"><text>Опять кровлю. Обычный день в Зоне.</text></string>
+<string id="st_eat_medkit_cry_55"><text>Ай, ублюдок! Щас покажу, что такое боль.</text></string>
+<string id="st_eat_medkit_cry_56"><text>Это че, тренировка по мишени? Теперь моя очередь.</text></string>
+<string id="st_eat_medkit_cry_57"><text>Я тут не сдохну. Точно не здесь.</text></string>
+<string id="st_eat_medkit_cry_58"><text>Ты в грудь целишься? Любитель, блять.</text></string>
+<string id="st_eat_medkit_cry_59"><text>Латай быстро, эти твари ждать не будут.</text></string>
+<string id="st_eat_medkit_cry_60"><text>Сам виноват, расслабился. Больше не повторю.</text></string>
+<string id="st_eat_medkit_cry_61"><text>Еще один шрам в коллекцию.</text></string>
+<string id="st_eat_medkit_cry_62"><text>Живой? Отлично. Теперь я отвечаю.</text></string>
+<string id="st_eat_medkit_cry_63"><text>Аптечка на донышке... надо дожать бой.</text></string>
+<string id="st_eat_medkit_cry_64"><text>Это что было, предупредительный? Старайся лучше.</text></string>
+<string id="st_eat_medkit_cry_65"><text>Первая кровь? Посмотрим, кто смеяться будет в конце.</text></string>
+<string id="st_eat_medkit_cry_66"><text>Я все еще на ногах. Маловато для меня.</text></string>
+<string id="st_eat_medkit_cry_67"><text>Фартовый выстрел. Повтори-ка.</text></string>
+<string id="st_eat_medkit_cry_68"><text>Бля, еще дыра в куртке! Ты знаешь цену шмота?</text></string>
+<string id="st_eat_medkit_cry_69"><text>Заебало кровить. Кончаем это.</text></string>
+<string id="st_eat_medkit_cry_70"><text>Дышу и стреляю. Готовься.</text></string>
+<string id="st_eat_medkit_cry_71"><text>Ладно, понял тебя. Теперь слушай меня.</text></string>
+<string id="st_eat_medkit_cry_72"><text>Аргх! Отлично, еще синяк на память.</text></string>
+<string id="st_eat_medkit_cry_73"><text>Зона била сильнее. Ты шум фоновый.</text></string>
+<string id="st_eat_medkit_cry_74"><text>После этого мне нужно три стопки.</text></string>
+<string id="st_eat_medkit_cry_75"><text>Ты меня уже бесишь. Закрываем вопрос.</text></string>
+<string id="st_eat_medkit_cry_76"><text>Хех, мимо жизненно важных. Повезло тебе.</text></string>
+<string id="st_eat_medkit_cry_77"><text>Думаешь, я боюсь? Тащи еще.</text></string>
+<string id="st_eat_medkit_cry_78"><text>Ха, таким калибром меня не уронишь.</text></string>
+<string id="st_eat_medkit_cry_79"><text>Угх, опять в то же место?!</text></string>
+<string id="st_eat_medkit_cry_80"><text>Ай! Все, теперь это личное.</text></string>
+<string id="st_eat_medkit_cry_81"><text>Гордишься попаданием? Давай еще раз.</text></string>
+<string id="st_eat_medkit_cry_82"><text>Хех, ты только злишь меня сильнее.</text></string>
+<string id="st_eat_medkit_cry_83"><text>Это все? Удиви меня хоть раз.</text></string>
+<string id="st_eat_medkit_cry_84"><text>Просто царапина... но болит как пиздец.</text></string>
+<string id="st_eat_medkit_cry_85"><text>Думал, Зона закалит. Ага, конечно.</text></string>
+<string id="st_eat_medkit_cry_86"><text>Аптечка не магия, но сойдет. Пошли.</text></string>
+<string id="st_eat_medkit_cry_87"><text>Уф! Как псевдогигант пнул.</text></string>
+<string id="st_eat_medkit_cry_88"><text>Это не конец. Залатаюсь и вернусь.</text></string>
+<string id="st_eat_medkit_cry_89"><text>Ну и хрень. Сейчас сравняем счет.</text></string>
+<string id="st_eat_medkit_cry_90"><text>Тихо... отдышусь... и ты труп.</text></string>
+<string id="st_eat_medkit_cry_91"><text>Мутанты били больнее. Ты не особенный.</text></string>
+<string id="st_eat_medkit_cry_92"><text>Стою, дышу. Твой ход, клоун.</text></string>
+<string id="st_eat_medkit_cry_93"><text>Не в органы попал. Спасибо, косой.</text></string>
+<string id="st_eat_medkit_cry_94"><text>Шрам останется... если выберусь.</text></string>
+<string id="st_eat_medkit_cry_95"><text>В укрытие надо. Потом покажу класс.</text></string>
+<string id="st_eat_medkit_cry_96"><text>Смелый, да? Пальнул в меня - теперь отвечай.</text></string>
+<string id="st_eat_medkit_cry_97"><text>Сегодня Зона навалила все сразу... а я все еще тут.</text></string>
+<string id="st_eat_medkit_cry_98"><text>Ой, мило. Думаешь, победил? Хер.</text></string>
+<string id="st_eat_medkit_cry_99"><text>Латай быстрее... это только начало.</text></string>
+<string id="st_eat_medkit_cry_100"><text>Прекрасно, теперь я как решето.</text></string>
+<string id="st_eat_medkit_cry_101"><text>Только поцарапал. Хочешь глубже - попробуй.</text></string>
+<string id="st_eat_medkit_cry_102"><text>Думал, этого хватит? Новичок.</text></string>
+<string id="st_eat_medkit_cry_103"><text>Я еще не закончил. Пожалеешь.</text></string>
+<string id="st_eat_medkit_cry_104"><text>Это все? Рекруты и то лучше стреляют.</text></string>
+<string id="st_eat_medkit_cry_105"><text>Да-да, больно. Щас твоя смена.</text></string>
+<string id="st_eat_medkit_cry_106"><text>Зона умеет ставить на место...</text></string>
+<string id="st_eat_medkit_cry_107"><text>Фух! Броня спасла, но боль адская.</text></string>
+<string id="st_eat_medkit_cry_108"><text>Чуть башку не снес... почти.</text></string>
+<string id="st_eat_medkit_cry_109"><text>Кровь идет, но и я иду.</text></string>
+<string id="st_eat_medkit_cry_110"><text>Вывезу. Смотри внимательно.</text></string>
+<string id="st_eat_medkit_cry_111"><text>Ха, все? Кабан больнее врезает.</text></string>
+<string id="st_eat_medkit_cry_112"><text>Все, я злой. Лучше б тебе не видеть мой подъем.</text></string>
+<string id="st_eat_medkit_cry_113"><text>Хороший выстрел... для салаги.</text></string>
+<string id="st_eat_medkit_cry_114"><text>Сука! Ты об этом пожалеешь.</text></string>
+<string id="st_eat_medkit_cry_115"><text>Броня на соплях. Надо кончать быстро.</text></string>
+<string id="st_eat_medkit_cry_116"><text>Сегодня Зона проверяет меня на прочность.</text></string>
+<string id="st_eat_medkit_cry_117"><text>Аргх! В следующий раз целься гуманнее, мразь.</text></string>
+<string id="st_eat_medkit_cry_118"><text>Так меня не снять. Надо лучше.</text></string>
+<string id="st_eat_medkit_cry_119"><text>Это все? Комар в болоте кусает больнее.</text></string>
+<string id="st_eat_medkit_cry_120"><text>Молись, чтобы я тебя после бинтов не нашел.</text></string>
+<string id="st_eat_medkit_cry_121"><text>С аптечкой или без - бой доведу до конца.</text></string>
+<string id="st_eat_medkit_cry_122"><text>Угх... сегодня Зона меня не заберет.</text></string>
+<string id="st_eat_medkit_cry_123"><text>Хех, пока еще целый. Почти.</text></string>
+<string id="st_eat_medkit_cry_124"><text>Я тут не помру! Слышишь? Не тут!</text></string>
+<string id="st_eat_medkit_cry_125"><text>Ну давай, это все? Закрываем вопрос.</text></string>
+<string id="st_eat_medkit_cry_126"><text>Бля, опять кровь... но я дышу.</text></string>
+<string id="st_eat_medkit_cry_127"><text>Думаешь, страшно? Я в Зоне и похуже видал.</text></string>
+<string id="st_eat_medkit_cry_128"><text>Аргх! Броня спасла, но еле-еле.</text></string>
+<string id="st_eat_medkit_cry_129"><text>Латай, латай... держим линию.</text></string>
+<string id="st_eat_medkit_cry_130"><text>Этот прилет будет долго ныть. Верну долг.</text></string>
+<string id="st_eat_medkit_cry_131"><text>Надо брать аренду за дырки от пуль.</text></string>
+<string id="st_eat_medkit_cry_132"><text>Аптечка не чудо, но лучше чем труп.</text></string>
+<string id="st_eat_medkit_cry_133"><text>Это весь твой максимум? Скучно.</text></string>
+<string id="st_eat_medkit_cry_134"><text>Фартануло тебе. Второго не будет.</text></string>
+<string id="st_eat_medkit_cry_135"><text>Все, заебал! Заканчиваем.</text></string>
+<string id="st_eat_medkit_cry_136"><text>Сегодня Зона меня не спишет.</text></string>
+<string id="st_eat_medkit_cry_137"><text>Отлично, еще один шрам. Благодарочка.</text></string>
+<string id="st_eat_medkit_cry_138"><text>Да, попал. И что? Я стою.</text></string>
+<string id="st_eat_medkit_cry_139"><text>Броня сыпется. Надо решать быстро.</text></string>
+<string id="st_eat_medkit_cry_140"><text>Щас поднимусь - тебе не понравится.</text></string>
+<string id="st_eat_medkit_cry_141"><text>Еще один день, еще одна пуля.</text></string>
+<string id="st_eat_medkit_cry_142"><text>Больше патронов бери, если хочешь меня снять.</text></string>
+<string id="st_eat_medkit_cry_143"><text>Я пережил аномалии, а ты кто такой?</text></string>
+<string id="st_eat_medkit_cry_144"><text>Морфий пошел... наконец-то могу думать.</text></string>
+<string id="st_eat_medkit_cry_145"><text>Фентанил... жжет по венам, но шевелюсь.</text></string>
+<string id="st_eat_medkit_cry_146"><text>Спасибо тому, кто придумал морфий. Больно все равно.</text></string>
+<string id="st_eat_medkit_cry_147"><text>Вколол стим. Держись, блять.</text></string>
+<string id="st_eat_medkit_cry_148"><text>Зонные обезболы - почти как жевать стекло.</text></string>
+<string id="st_eat_medkit_cry_149"><text>Укололся и молюсь. Такая тут медицина.</text></string>
+<string id="st_eat_medkit_cry_150"><text>Стим пашет, а руки все равно трясет.</text></string>
+<string id="st_eat_medkit_cry_151"><text>Черный рынок, херово качество... зато живой.</text></string>
+<string id="st_eat_medkit_cry_152"><text>Вогнал дозу. Грудь горит, но я не сдох.</text></string>
+<string id="st_eat_medkit_cry_153"><text>Морфий глушит боль, башку ведет... фокус!</text></string>
+<string id="st_eat_medkit_cry_154"><text>Выживу - завяжу с этой дрянью. Наверное.</text></string>
+<string id="st_eat_medkit_cry_155"><text>Адреналин в вену. Ну давай, работай.</text></string>
+<string id="st_eat_medkit_cry_156"><text>Только бы шприц не просрочен... инфекции мне не хватало.</text></string>
+<string id="st_eat_medkit_cry_157"><text>Фентанил жмет жестко... только не вырубиться.</text></string>
+<string id="st_eat_medkit_cry_158"><text>Таблы что-то делают... но кровь все еще идет.</text></string>
+<string id="st_eat_medkit_cry_159"><text>Что в этом уколе, блять? Горит все внутри.</text></string>
+<string id="st_eat_medkit_cry_160"><text>Медстим или паленое говно? Узнаю через минуту.</text></string>
+<string id="st_eat_medkit_cry_161"><text>Хер вам, больше самогон на раны не лью.</text></string>
+<string id="st_eat_medkit_cry_162"><text>Обезбол, морфий, адреналин... коктейль выживания.</text></string>
+<string id="st_eat_medkit_cry_163"><text>У зонной химии побочки дикие, но жить хочется.</text></string>
+<string id="st_eat_medkit_cry_164"><text>Адреналин поднял, а в башке молоток.</text></string>
+<string id="st_eat_medkit_cry_165"><text>Что я себе вколол?! Вены как в огне!</text></string>
+<string id="st_eat_medkit_cry_166"><text>Что бы там ни было в шприце - я на ногах.</text></string>
+<string id="st_eat_medkit_cry_167"><text>Кровь притихла... спасибо морфию и изоленте.</text></string>
+<string id="st_eat_medkit_cry_168"><text>Этот стим как молния шарахнул. Но лучше, чем истечь.</text></string>
+<string id="st_eat_medkit_cry_169"><text>Если обезбол не врубит скоро - сорвусь нахрен.</text></string>
+<string id="st_eat_medkit_cry_170"><text>Фентанил работает... и я уже слишком ватный.</text></string>
+<string id="st_eat_medkit_cry_171"><text>Зонная химия - лотерея. Но это мой шанс.</text></string>
+<string id="st_eat_medkit_cry_172"><text>На вкус дерьмо, зато работает.</text></string>
+<string id="st_eat_medkit_cry_173"><text>Стим дал второй ветер... надолго ли?</text></string>
+<string id="st_eat_medkit_cry_174"><text>Лекарства тащат на пределе... я по швам.</text></string>
+<string id="st_eat_medkit_cry_175"><text>Спасибо боевой химии. Без нее я труп.</text></string>
+
+</string_table>

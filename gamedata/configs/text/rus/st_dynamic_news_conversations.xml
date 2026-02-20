@@ -1,0 +1,2539 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+
+
+
+<!-------------------------------- Loner Conversations ---------------------------------->
+<string id="st_dyn_news_loner_conversation_msg_1">
+    <text>Обещали двадцать тысяч за эту работу. Вернулся, а мне дали шесть и похлопали по плечу. Козлы все эти вшивые паразиты.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_1_1">
+    <text>Сам виноват. Зарплата честной кажется — значит, ловушка. Слишком хорошо звучит — значит, развел.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_1_2">
+    <text>И ты позволил им это сойти с рук? Ты сам часть проблемы.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_1_3">
+    <text>Им дают дерьмо, а ты на добавку просишь. Жалости от меня не жди.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_1">
+    <text>Сидорович опять нас обдирает как липку. Цены у него просто непомерные!</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_1_1">
+    <text>А что нового? Эта жаба ещё с первого дня сталкеров на деньги сажает.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_1_2">
+    <text>Попробуй перекупщиков с черного рынка. Они работают тихо, а иногда и недорого.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_1_3">
+    <text>Спрос и предложение, приятель. Смельчаков, кто сюда тащит товары, раз-два и обчелся.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_1_4">
+    <text>Ну хотя бы он жив и торгует. Лучше, чем получить пулю за кучу металлолома.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_2">
+    <text>Всё патроны, а аптечку нужно — кто на обмен?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_2_1">
+    <text>Патроны на аптечки? Чёрт, конечно, делись, только жадничай нечего, а то пальну.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_2_2">
+    <text>Бинты кончаются, но шприцы с морфием есть. По-честному разделим?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_2_3">
+    <text>Запасы на исходе — кинь пару магазинов 5.45, чтобы груз весомее был.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_2_4">
+    <text>Интересное предложение. Согласен, но с условием: отблагодаришь, когда мне понадобятся глаза на патрулях.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_3">
+    <text>Услышал, есть покупатель на инфу о маршрутах патрулирования — есть карты какие-нибудь?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_3_1">
+    <text>Карты где-то завалялись. Смени мне снайперку и лишние магазины на неё.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_3_2">
+    <text>Поговори с крысой Сидоровичем за стойкой. Он слухами торгует, а не игрушками.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_3_3">
+    <text>Карты устаревают после каждого выброса. Лучше сам разведай.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_3_4">
+    <text>Я не картограф, но если аптечку за схему наброска восточного фланга — готово дело.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_4">
+    <text>Видел барахольщика, электрическими гранатами торгует. Стоит ли рискнуть?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_4_1">
+    <text>Электрогранаты? Это самосожжение током. Лучше держаться обычных фугасов.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_4_2">
+    <text>Использовал разок — они живность до холода морозят. Звери, однако.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_4_3">
+    <text>От сырости коротят. Лучше оставь их в покое.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_4_4">
+    <text>Конечно, бери пару. В темном бункере ничего не ценится так высоко, как вспышка молнии.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_5">
+    <text>Нужны патроны .45 ACP. Отдам два свежих антирадиация.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_5_1">
+    <text>Сделка. Встретимся у разбитой машины севернее Ростова. Я один.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_5_2">
+    <text>Антирады на пули? Жаль, что ты об этом пожалеешь, когда с тебя кожа слезет.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_6">
+    <text>Кто трофеи мутантов берет? Свежие когти химеры есть.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_6_1">
+    <text>Сахаров за образцы платит. Попробуй зайти к нему.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_6_2">
+    <text>Долговцы «стену ужасов» у Баррикады строят, им сгодится.</text>
+</string>
+
+<!-- Humor Conversations Adapted for Loners -->
+<string id="st_dyn_news_loner_conversation_msg_7">
+    <text>Детектор не умолкает — либо я на куш наехал, либо нас обоих сейчас зажарят.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_7_1">
+    <text>Вероятно, оба. В этом болоте либо богатым умрешь, либо нищим.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_7_2">
+    <text>Пнуть иногда помогает больше, чем детекторы.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_7_3">
+    <text>Может, он просто внимания просит, как и мы все.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_7_4">
+    <text>Тишина — это когда дерьмо уже летит в тебя. Наслаждайся шумом, пока он есть.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_8">
+    <text>Развёл бандита недавно — заставил босиком идти. Лучшее шоу в Зоне.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_8_1">
+    <text>Лишь палец оторвать надо было, без толку в грязь вжиматься.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_8_2">
+    <text>Отлично. Может, в следующий раз он не будет тыкать своим ржавым Макаровом.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_8_3">
+    <text>Надеюсь, на стекло наступит. Босая справедливость.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_8_4">
+    <text>Здесь милосердие не в чести. Лучше оставить его живым, чем марать пулю.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_9">
+    <text>Разлил водку в грязь — отличный старт дня получился.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_9_1">
+    <text>Поздравляю, ты только что удобрил единственную «культуру» в Зоне.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_9_2">
+    <text>Пей грязную водку — это характер закаляет.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_9_3">
+    <text>Ну, хотя бы грязь стерильная.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_9_4">
+    <text>Лучше, чем патроны потерять, я думаю.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_10">
+    <text>Сандали развалились посреди рейда за лутом — в этой дикой Зоне.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_10_1">
+    <text>Бери скотч — или поскользнешься в собственной крови.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_10_2">
+    <text>Ботинки дольше прослужат, если не топтаться по трупам ногами.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_10_3">
+    <text>Совет профи: носи ботинки мёртвого сталкера, ни в коем случае не свои.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_10_4">
+    <text>Поздравляю — босиком и ни с чем. Добро пожаловать в Зону.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_11">
+    <text>Съел мяса неизвестного происхождения — теперь желудок кувырки делает.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_11_1">
+    <text>Секретный яд «мяса загадки» — наслаждайся трипом.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_11_2">
+    <text>В следующий раз готовь дважды или делай рагу из мутанта.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_11_3">
+    <text>Водка всё лечит — если только сама раньше не убьёт.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_11_4">
+    <text>Ну хотя бы теперь не с голоду помрёшь.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_12">
+    <text>Кто знает, как сломанную фильтрующую маску починить? Скотч — не вариант.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_12_1">
+    <text>Если скотч не помогает, значит, ты скотча недостаточно используешь.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_12_2">
+    <text>Наведай кибернетиков — у них в руках старые запчасти чудеса творят.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_12_3">
+    <text>Просто новую найди на трупе. Лёгкие скажут спасибо.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_12_4">
+    <text>Кофейные фильтры в крайнем случае тоже работают — только дыши не глубоко.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_13">
+    <text>Батарейка в ПНВ села — есть способы её оживить?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_13_1">
+    <text>Поменяй на новые из трофеев, либо ячейки из дохлых счётчиков Гейгера вытащи.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_13_2">
+    <text>Заряди на генераторе — если такой вообще найдёшь, да так, чтобы не спалить.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_13_3">
+    <text>Смастерить солнечную зарядку из хлама — стоит попробовать.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_13_4">
+    <text>Или забей на ПНВ и учись видеть в темноте глазами.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_14">
+    <text>Ствол АК заклинило — есть быстрые способы почистить?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_14_1">
+    <text>Используй рубашку и бензин — лучше, чем ничего.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_14_2">
+    <text>Ёршик и раствор для чистки от торговцев химией творят чудеса.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_14_3">
+    <text>Чистка ствола — это стальная вата и усердие, никаких хитростей.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_14_4">
+    <text>Забей на чистку — смени ствол и молись.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_15">
+    <text>Оптика болтается — как крепёж затянуть?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_15_1">
+    <text>Бери ключ — крути, пока треск не прекратится.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_15_2">
+    <text>Застрял? Тихонько постуки резиновым молотком — за линзой следи.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_15_3">
+    <text>Фиксатор резьбы на винты капни — держаться будут.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_15_4">
+    <text>Или скотчем замотай — он всё чинит.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_16">
+    <text>Блок питания КПК сгорел — карты бесполезны. Можно починить?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_16_1">
+    <text>Предохранитель смени, если сможешь найти.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_16_2">
+    <text>Мост из проводов спаять — нужна твёрдая рука.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_16_3">
+    <text>Поменяй на рабочий или ходи слепым.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_16_4">
+    <text>Ориентируйся по ориентирам и солнцу — КПК это роскошь.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_17">
+    <text>Ребята, слышали, что с отрядом Юры в Красном лесу случилось?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_17_1">
+    <text>Нашли их стоящими в идеальном кругу, словно статуи. Милосердия в Зоне не существует.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_17_2">
+    <text>Дело рук Контроллера. Несчастные, наверное, друг друга и перебили.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_17_3">
+    <text>Красный лес никого не щадит. Надо было держаться подальше.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_18">
+    <text>Что случилось с тем стажёром, который поклялся добраться до Янтаря за неделю?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_18_1">
+    <text>Нашёл его КПК на первом КПП. Судя по всему, не повезло парню.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_18_2">
+    <text>Зона быстро гордецов смиряет.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_18_3">
+    <text>Ещё один мечтатель, ставший кормом для мутантов. История, как старик рассказывал.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_19">
+    <text>Обратите внимание на странных птиц. Все летят на юг.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_19_1">
+    <text>Звери сдвиги чувствуют. Лучше собираться и валить.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_19_2">
+    <text>В прошлый раз так было, выбросы днями шли.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_19_3">
+    <text>Птицы лучше любого детектора предупреждают.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_20">
+    <text>Детектор странно вел себя возле старого завода. Кто-нибудь из смельчаков проверит?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_20_1">
+    <text>Вероятно, просто металлолом. Радиация не стоит того.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_20_2">
+    <text>Может быть артефакт. Я разделю 60 на 40, если проводишь.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_20_3">
+    <text>Последний парень вернулся матерясь. Жесткий отказ.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_21">
+    <text>Плоти вчера ночью у нашего тайника шлялись. Унесли половину снаряжения, пока мы их не прогнали.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_21_1">
+    <text>Они наглели становятся. Оглядывайся чаще.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_21_2">
+    <text>Ну хотя бы рагу из них сварили можно.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_21_3">
+    <text>Я друзей этим тварям терял. Держи ухо востро.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_22">
+    <text>В бункере нашёл премиальную водку. На вкус — как спасение после недель поедания тормозной жидкости.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_22_1">
+    <text>Счастливая ублюдочная ты душа. Мне только плесень от сухпайков досталась.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_22_2">
+    <text>Поделишься глотком за патроны? Я на мели.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_22_3">
+    <text>Зона даже хорошую траву отравляет. Сначала понюхай, потом пей.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_23">
+    <text>Думаю, меня кто-то преследует. Одна и та же тень уже третий день.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_23_1">
+    <text>Доверяй интуиции. Лучше перестраховаться, чем сдохнуть.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_23_2">
+    <text>Может, призрак. Они любят одиночек.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_23_3">
+    <text>Зона мозги пудрит. Продолжай двигаться.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_24">
+    <text>Вспомнишь старика Василия? Сегодня нашел его мертвым.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_24_1">
+    <text>Василь был неуязвимым. Оказывается, нет.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_24_2">
+    <text>Зона всех забирает в итоге. Даже легенд.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_24_3">
+    <text>Он это место лучше всех знал. Обидно.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_25">
+    <text>Комбинезон что-то скулит, предупреждая о радиации, а детектор спокоен. Сбой системы?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_25_1">
+    <text>Электроника возле полей психики горит. Ищи Контроллеров.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_25_2">
+    <text>Скорее всего, дорожки сгорели. Зона технику к завтраку пожирает.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_25_3">
+    <text>Доверяй Гейгеру, а не костюму. Костюмы врут.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_26">
+    <text>Начался выброс, а я на открытой местности. Есть укрытия рядом с Цементным заводом?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_26_1">
+    <text>Подземные туннели с восточной стороны. Остерегайся снорков.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_26_2">
+    <text>Поздно уже. Если это читаешь позже — значит, выжил.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_26_3">
+    <text>Бетонная труба в 200 метрах севернее. Тесно, но дышать есть чем.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_27">
+    <text>Собирал мусор несколько дней — оказался обломком фары. Черт.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_27_1">
+    <text>Зона любит над нами подшутить. Бывает.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_27_2">
+    <text>Ну хотя бы не погиб, как Дмитрий, гоняясь за этим.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_27_3">
+    <text>Три дня впустую, но ты жив. Слава богу.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_28">
+    <text>Кто-нибудь знает, что с отрядом Скара случилось? Они на связь не выходят.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_28_1">
+    <text>Радио молчит. Может, помехи.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_28_2">
+    <text>Скара легко не сдается. Дай время.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_28_3">
+    <text>Два часа здесь равны двум годам. Начинай волноваться.</text>
+</string>
+
+<string id="st_dyn_news_loner_conversation_msg_29">
+    <text>Парень спросил о безопасных путях через аномалии. Скажи ему?</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_29_1">
+    <text>Малек быстро учится. Лучше от тебя, чем на болтах.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_29_2">
+    <text>Безопасных путей нет, есть менее опасные. Ну и болты, конечно.</text>
+</string>
+<string id="st_dyn_news_loner_conversation_resp_29_3">
+    <text>Скажи ему молиться и ползти медленно. У нас работает.</text>
+</string>
+
+
+<!-- Duty  Conversations -->
+<string id="st_dyn_news_dolg_conversation_msg_1">
+    <text>Нужно усилить патрулирование у Баррикад. Мутанты слишком часто прорываются сквозь блокпост.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_1_1">
+    <text>Согласен. прошлой ночью мы потеряли двух ветеранов от этих кровососов.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_1_2">
+    <text>Если мы не перекроем сектор, пострадают гражданские.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_1_3">
+    <text>Я организую группы.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_2">
+    <text>Данные разведки: ячейка «Свободы» засекла наши маршруты. Возможен удар на следующей неделе.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_2_1">
+    <text>Маршруты конвоев перебросим через Чистое поле. Меньше укрытий для засад.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_2_2">
+    <text>Вышлите разведывательные дроны в 04:00. Воздушного дозора они не ждут.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_2_3">
+    <text>Доложить командованию — подготовить группу быстрого реагирования к немедленному дежурству.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_3">
+    <text>Поставки в Росток задерживаются — небо затянуло, риск заклинивания капсулы.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_3_1">
+    <text>Захватите точку приземления, оборудуйте укрытием из мешков с песком. Держите радиосвязь.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_3_2">
+    <text>Отправлю инженеров — они расчистят лёд и приведут пусковую в норму.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_3_3">
+    <text>Усильте патрули. В таких условиях ошибки недопустимы.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_4">
+    <text>Обнаружены новые артефакты возле старой электростанции. Возможно, они нестабильны.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_4_1">
+    <text>Группа специалистов по артефактам выдвигается. Очистите периметр от гражданских.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_4_2">
+    <text>Развернуть сети безопасности вокруг аномальной зоны. Вход посторонним запрещён.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_4_3">
+    <text>Согласовать с Чистым Небом протоколы безопасного извлечения.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_5">
+    <text>Несчастный случай. Один раненый боец, сильное облучение.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_5_1">
+    <text>Немедленно в медбункер. Готовить дезинфекционную камеру.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_5_2">
+    <text>Зафиксировать инцидент. Нужно скорректировать маршруты в зонах аномалий.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_5_3">
+    <text>Убедитесь, что вся документация заполнена верно.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_6">
+    <text>Цель замечена у локомотивного депо. Оперативник Свободы.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_6_1">
+    <text>Устроить блокпост на секторе Танго. Никого внутрь и наружу.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_6_2">
+    <text>Снайперы на крышах. Огонь открывать только после подтверждения цели.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_6_3">
+    <text>Держите информацию в секрете. Нам нужно видеть каждый путь отхода.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_7">
+    <text>Поступила радиопередача: гражданский конвой исчез возле Сектора 12.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_7_1">
+    <text>Выслать поисковую группу с броней. Никого не бросать.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_7_2">
+    <text>Связаться с медиками. Подготовить полевую сортировку.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_7_3">
+    <text>Остерегайтесь ловушек бандитов. Сначала дроны.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_8">
+    <text>Логи связи показывают психоимпульс вблизи контрольной точки Альфа.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_8_1">
+    <text>Вывести все группы немедленно. Пси-операции непредсказуемы.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_8_2">
+    <text>Активировать массивы пси-защиты. Безопасность превыше всего.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_8_3">
+    <text>Координаты Лога. Проанализируем на предмет аномальных паттернов.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_9">
+    <text>Резервные машины снабжения были атакованы на рассвете — потери половины боезапаса.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_9_1">
+    <text>Запросить аварийный запас со Склада 3.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_9_2">
+    <text>Усилить эскорт. Транспорт не ходит в одиночку.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_9_3">
+    <text>Подать отчёт об инциденте. Выявить слабые места.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_10">
+    <text>Спутник показывает несанкционированный летающий объект вблизи периметра Зоны.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_10_1">
+    <text>Поднять расчёты ПВО. Не открывать огонь без разрешения.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_10_2">
+    <text>Визуальное опознание. Могут быть наёмные подрядчики.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_10_3">
+    <text>Тревога Штабу. Готовить дипломатические каналы.</text>
+</string>
+
+
+<string id="st_dyn_news_dolg_conversation_msg_11">
+    <text>Высокие пси-отклонения в районе скопления Тета-9.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_11_1">
+    <text>Раздать снаряжение с пси-защитой всем патрулям.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_11_2">
+    <text>Сообщить учёным — подготовить гаджеты для сдерживания.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_11_3">
+    <text>Установить запретную зону.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_12">
+    <text>Отчёты с поля: усиленная стрельба у старого моста.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_12_1">
+    <text>Задействовать снайперский расчёт. Нулевая терпимость к угрозам.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_12_2">
+    <text>Заблокировать пути подхода. Вынудить отступить.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_12_3">
+    <text>Использовать тепловизоры. Тьма их не скроет.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_13">
+    <text>Медотчёты: случаи лучевой болезни удвоились возле Восточного рудника.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_13_1">
+    <text>Выдать антирадиационные наборы и чаще менять личный состав.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_13_2">
+    <text>Заблокировать заражённые сектора. Без исключений.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_13_3">
+    <text>Занести данные в лог и передать учёным для исследований дезактивации.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_14">
+    <text>Грузовой дрон A7 вышел из-под контроля. Последний сигнал в Секторе 5.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_14_1">
+    <text>Инициировать самоликвидацию. Уничтожить дрон, если восстановление невозможно.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_14_2">
+    <text>Отслеживать сигнал. Возможно, перехват Чистым Небом.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_14_3">
+    <text>Восстановить логи данных — утечка данных недопустима.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_15">
+    <text>Штаб запрашивает список всех активных патрулей в радиусе 10 км.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_15_1">
+    <text>Собираю информацию — сейчас отправлю командованию.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_15_2">
+    <text>Рекомендую добавить две группы западнее КПП Браво.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_15_3">
+    <text>Убедитесь, что техника заправлена. Задержек быть не должно.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_16">
+    <text>Входящий запрос эвакуации: гражданский учёный ранен возле лаборатории 13.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_16_1">
+    <text>Отправить вертолёт — очистить зону призёма.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_16_2">
+    <text>Обеспечить воздушное прикрытие. Вокруг аномалии.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_16_3">
+    <text>Подготовить допрос. Нам нужны сведения от этого учёного.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_17">
+    <text>Снимки со спутника: новая подземная структура под Сектором 8.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_17_1">
+    <text>Группа разведки на рассвете. Взять ползательное снаряжение.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_17_2">
+    <text>Отметить на карте. Может быть бункер врага.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_17_3">
+    <text>Согласовать с подрывниками по поводу стабильности туннелей.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_18">
+    <text>Финансовый аудит: траты ресурсов Долга на личное снаряжение превысили бюджет в этом квартале.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_18_1">
+    <text>Предоставьте оправдание. Сохранённые жизни стоят этих затрат.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_18_2">
+    <text>Опять за свой счёт? Блин.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_18_3">
+    <text>Чёрт, там и мои сбavings.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_19">
+    <text>Сообщения о предателях, передающих инфу Свободе. Расследование идет.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_19_1">
+    <text>Заблокировать внутренние каналы связи. Утечки неприемлемы.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_19_2">
+    <text>Допросить подозреваемых контактов. Никакого милосердия.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_19_3">
+    <text>Сменить пароли и защитить каналы.</text>
+</string>
+
+<string id="st_dyn_news_dolg_conversation_msg_20">
+    <text>Высокие пси-показания в районе скопления аномалий Тета-9.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_20_1">
+    <text>Раздать снаряжение с пси-защитой всем патрулям.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_20_2">
+    <text>Уведомить исследователей — подготовить средства сдерживания.</text>
+</string>
+<string id="st_dyn_news_dolg_conversation_resp_20_3">
+    <text>Установить запретную зону.</text>
+</string>
+
+<!----------------------------------------------------------- Freedom  Conversations -->
+<string id="st_dyn_news_freedom_conversation_msg_1">
+    <text>Военные слишком сильно давят. Скоро превратят Зону в крепость.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_1_1">
+    <text>Пусть попробуют. Мы покажем им, кто на самом деле владеет этими руинами.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_1_2">
+    <text>Больше КПП — только больше взяток. Мы проскользнём.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_1_3">
+    <text>У меня на мушке их маршруты патрулей. Мы будем на шаг впереди.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_2">
+    <text>Тревога всем командам! Массивные пси-излучения на восточном складе Юпитера. Чувствую, будто детский сад для Контроллеров.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_2_1">
+    <text>Подтверждаю. Мой детектор орет, но помехи говорят об артефактах. Что-то новое зарыто в этой куче.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_2_2">
+    <text>Патрули Долга ставят блоки в 500 метрах. «Для нашей безопасности». Бред — они хотят первыми набить карманы!</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_2_3">
+    <text>Типичные псы Долга. С чего это им стала важна безопасность? Помните, что они сделали на Горелой?</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_2_4">
+    <text>Отправим их баррикады к чёрту. У меня есть самодельные пси-блокаторы. Кто сумасшедший enough побежать со мной?</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_3">
+    <text>Осторожно: Бандиты атаковали наш медрейс возле моста в болотах. Потеряли антибиотики и наборы крови.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_3_1">
+    <text>Эти паразиты! Нога Костёра гноится — ему эти лекарства нужны СЕЙЧАС.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_3_2">
+    <text>Проверь тайник Свободы за Яновым. Там должны быть аварийные запасы.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_3_3">
+    <text>Уже проверяли. Только пустые шприцы остались. Гребаные мародёры даже контейнер не закрыли.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_3_4">
+    <text>У меня есть две ампулы антибиотиков. Забирай. Оплата не нужна — мы так не работаем.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_4">
+    <text>Нашел «Огненный шар», приросший к мертвой руке новичка возле Цирка. Забрать?</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_4_1">
+    <text>Господи. Ещё один, кто подумал, что артефакты — это игрушки. Оставь — это теперь могильный камень.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_4_2">
+    <text>Но показания энергии зашкаливают! Мы можем узнать, почему он сросся намертво.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_4_3">
+    <text>Учиться на осквернении? Мы не Долг. Пометить тело для Экологов, если любопытно.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_4_4">
+    <text>Компромисс: сфотографируй узор слияния, забрось болтами место. Знания без кражи.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_5">
+    <text>Отчёт болотной группы: Снорки теперь охотятся стаями. Видел, как трое организовали засаду у церкви.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_5_1">
+    <text>Невозможно. Снорки — одиночки. Уверен, это не просто пиршество?</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_5_2">
+    <text>Уверен. Один выгнал меня на двух других, прятавшихся под водой — тактическое поведение.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_5_3">
+    <text>Зона ускоряет мутации. На прошлой неделе слепые псы начали лазать по деревьям в Красном лесу.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_5_4">
+    <text>Фига. Загрузи сырое видео на наш публичный сервер. Каждый сталкер заслуживает правды.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_6">
+    <text>Бронеколонна Долга движется к КПП Янова — шесть экзоскелетов, два РПГ.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_6_1">
+    <text>Из-за артефактов? Пусть идут. У нас есть пси-блоки и преимущество высоты.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_6_2">
+    <text>Отменить — они думают, мы напали на их патруль возле депо.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_6_3">
+    <text>Бред. Мы всю ночь картографировали аномалии. Скажите им проверить логи Монолита.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_6_4">
+    <text>Воринин передаёт: «Верните наших людей, или мы сожжём ваш аванпост».</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_7">
+    <text>Тестовое радио Свободы через 10 минут! У кого сегодня основной сегмент?</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_7_1">
+    <text>У меня — рассказываю, как конфискованные Долгом артефакты попадают на чёрный рынок.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_7_2">
+    <text>Оставь это на среду. Сегодня: обход армейских КПП через канализацию.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_7_3">
+    <text>Добавь предупреждение — кровососы в секторе Трубы вчера высосали двух вольных сталкеров.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_7_4">
+    <text>Закончить цитатой Стрелка: «Зона принадлежит тем, кто ходит по ней, а не тем, кто строит клетки».</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_8">
+    <text>Подтверждено: Наёмники украли наш прототип излучателя из лаборатории Юпитер. Выслеживаем к Мёртвому городу.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_8_1">
+    <text>Этот излучатель нарушает поля Выжигателя! Они продадут его тому, кто больше заплатит.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_8_2">
+    <text>Собрать группу перехвата. Приоритет: техника цела. Вторично: без свидетелей.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_8_3">
+    <text>Раз они убили трёх учёных, это уже не кража — это война.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_9">
+    <text>ЧРЕЗВЫЧАЙНО: Электрошторм формируется над Сектором 13 от эпицентра.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_9_1">
+    <text>Чёрт. Там мы хранили резонансный массив. Кто-то его активировал?</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_9_2">
+    <text>Хуже: Долг пытался разобрать его. Теперь перегруз.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_9_3">
+    <text>Эти идиоты! Собирайте группу немедленно.</text>
+</string>
+
+
+<string id="st_dyn_news_freedom_conversation_msg_10">
+    <text>Последний груз с едой уничтожен псевдогигантами. Три дня пайков осталось.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_10_1">
+    <text>Открыть общую кухню для ВСЕХ сталкеров. Без проверок ID Свободы.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_10_2">
+    <text>Это опустошит склады за часы! Нужно приоритет отдать своим.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_10_3">
+    <text>Бред про иерархию! Делитесь или становитесь Долгом. Я отдам свой тайник.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_11">
+    <text>Докладывают о кроте в наших рядах, скачущем инфу Долгу. Нужно глаза везде.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_11_1">
+    <text>Теперь все подозреваемые? Превратим базу в комнату смехов. Отличное прикрытие для настоящих шпионов.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_11_2">
+    <text>Поставим ловушку, сольём фальшивые координаты или что-то в этом роде.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_11_3">
+    <text>Паранойя не поможет. Нужны доказательства, следить за подозрительными, пока не ошибутся, потом тихо убрать.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_12">
+    <text>Разведка сообщает, что новая блокада Долга севера Ростока мощнее, чем думали. У них есть пулемётные гнёзда.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_12_1">
+    <text>Нужна диверсия, устроить ложную тревогу аномалий у старой мельницы, чтобы отвлечь.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_12_2">
+    <text>Или пробраться через дренажные туннели под путями. Минимум охраны ночью.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_12_3">
+    <text>Должен быть способ получше.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_13">
+    <text>Команда обслуживания на электростанции нашла скрытый архив — карты старых военных тайников.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_13_1">
+    <text>Наконец-то реальные сокровища. Отправить небольшую группу с лёгким грузом — скорость важнее огневой мощи.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_13_2">
+    <text>Стоп — эти карты могут быть приманкой. Долг известен подложными следами.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_13_3">
+    <text>Сверить с данными Экологов. Если аномалии совпадают — это легально.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_14">
+    <text>Местные сталкеры поймали заблудшего кровососа и приковали в подвале церкви. Использовать как приманку?</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_14_1">
+    <text>Гуманность не наши методы? Нам нужны данные целыми. Наблюдать издалека, потом отпустить.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_14_2">
+    <text>Приманка идеальна, но живой кровосос непредсказуем. Потеряем людей, прежде чем узнаем что-то.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_14_3">
+    <text>Компромисс: усыпить, записать поведение под контролируемым пси-полем. Без жертв.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_15">
+    <text>Странный дождь превращается в кислоту возле Янтаря. Несколько сталкеров сообщают о ожогах на открытой коже.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_15_1">
+    <text>Собирать образцы немедленно. Если сможем нейтрализовать дождь, обеспечим безопасный проход.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_15_2">
+    <text>Посоветовать всем оставаться под укрытием. Это не стоит риска жизней ради любопытства.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_15_3">
+    <text>Собрать старые фильтрующие маски из лаборатории. Распределить до следующего ливня.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_16">
+    <text>Знамя новой фракции замечено возле Агропрома. Они заявляют себя как наёмные искатели артефактов.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_16_1">
+    <text>Нанять их против Долга. Две волки дерутся, трья забирает всё.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_16_2">
+    <text>Они обернутся против нас, когда цена упадёт. Лучше держать их на расстоянии.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_16_3">
+    <text>Разведать их базу. Если они в отчаянии, мы можем перекупить крупные находки.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_17">
+    <text>Следы химеры найдены западнее Лиманска. Две существа движутся тандемом — беспрецедентно.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_17_1">
+    <text>Плохие новости. Избегать района и перенаправить конвой снабжения через канал.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_17_2">
+    <text>Или заманить их на электрическое поле возле радара. Возможно, проредит их ряды.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_17_3">
+    <text>Отметить место световыми снарядами. Пусть охотники Долга разберутся с мутантными кошмарами.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_18">
+    <text>Голос в открытом эфире утверждает, что он «Стрелок». Говорит, что масштабное событие скоро в 04:00.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_18_1">
+    <text>Если это действительно он, готовимся. Удвоить дежурства и запитать все пси-щиты.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_18_2">
+    <text>Может быть ловушка. Передать фальшивое «все чисто» и смотреть, кто отреагирует в 04:00.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_18_3">
+    <text>Связаться с Экологами по показаниям аномалий. Если сигнал настоящий, у нас будет время эвакуироваться.</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_19">
+    <text>Налёт на склад вчера дал экспериментальные патроны — бронебойные с пси-наконечниками.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_19_1">
+    <text>Протестировать на герметичном контейнере. Если работают, меняем тактику — никаких засад.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_19_2">
+    <text>Опасная технология. Хранить подальше от жилых помещений, пока не узнаем эффект на людей.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_19_3">
+    <text>Последний звонок: Квартальный сброс Свободы на складе Черная на рассвете. Добровольцы?</text>
+</string>
+
+<string id="st_dyn_news_freedom_conversation_msg_20">
+    <text>Я в деле. Отправь координаты и точку сбора. Я прочищу маршрут.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_20_1">
+    <text>Нужно больше медиков на этот забег. В прошлый раз трое ранены.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_20_2">
+    <text>Лучше отправить скрытную группу. Нет смысла объявлять, что мы пополняем запасы.</text>
+</string>
+<string id="st_dyn_news_freedom_conversation_resp_20_3">
+    <text>Разведка доложила о пси-активности в секторе D сегодня. Держитесь дистанции.</text>
+</string>
+
+<!--------------------------------------------- Military  Conversations -->
+<string id="st_dyn_news_army_conversation_msg_1">
+    <text>Принял. Перехожу на позицию Браво для наблюдения.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_1_1">
+    <text>Товарищ капитан, эти аномалии могут выкосить весь отряд.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_1_2">
+    <text>Выставим датчики движения и держимся вне радиуса.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_1_3">
+    <text>Армейский конвой в пути с зимним снаряжением — прибытие в 14:30. Проверить протокол доставки по прибытии.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_2">
+    <text>Средства зарезервированы. Офицер снабжения готов в зоне высадки.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_2_1">
+    <text>Запросить обновление времени прибытия через 30 минут для синхронизации команды разгрузки.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_2_2">
+    <text>Понял. Тщательно проверим манифест до выпуска товаров.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_2_3">
+    <text>Подтвердить охрану конвоя и очистку маршрута.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_2_4">
+    <text>Патруль разведки засёк несанкционированную активность ополчения возле маршрутов снабжения Тёмной Долины.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_3">
+    <text>Рекомендую выслать команду разведки для мониторинга и доклада о силе группировки.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_3_1">
+    <text>Устроить наблюдательный пост на хребте для постоянного наблюдения?</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_3_2">
+    <text>Увеличить частоту патрулей на главной магистрали для сдерживания вторжений.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_3_3">
+    <text>Подрядчики отремонтировали радиомассив, но сообщили об чрезмерном износе панелей.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_4">
+    <text>Заказать замену панелей через логистику; ожидаемая доставка через 72 часа.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_4_1">
+    <text>Запросить подробный отчёт об обслуживании перед одобрением дальнейших работ.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_4_2">
+    <text>Авторизовать ограниченные операции до прибытия запчастей; продлить смены для компенсации.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_4_3">
+    <text>Данные разведки указывают на запланированный налёт на склад — подготовить периметр обороны.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_5">
+    <text>Авторизовать превентивный развёртывание для защиты склада.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_5_1">
+    <text>Установить дроны наблюдения на ночь для подтверждения угрозы.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_5_2">
+    <text>Координировать команды реагирования для быстрого перехвата.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_5_3">
+    <text>Топливный конвой застрял в узком месте — нужна оценка маршрута.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_6">
+    <text>Выслать инженеров для расчистки препятствий и открытия маршрута.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_6_1">
+    <text>Авторизовать временное изменение маршрута через второстепенную дорогу; обновить конвой ASAP.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_6_2">
+    <text>Удерживать позицию и установить оборонительный периметр до подтверждения чистоты маршрута.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_6_3">
+    <text>Полевые медики запрашивают дополнительные единицы крови для сортировочной станции завтра.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_7">
+    <text>Выделить 100 единиц из резерва и запланировать пополнение.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_7_1">
+    <text>Предложить половину сейчас; остаток зависит от отчётов об использовании к концу дня.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_7_2">
+    <text>Отказать в дополнительных единицах; посоветовать использовать плазмозаменители до прибытия запасов.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_7_3">
+    <text>Файлы зарплаты показывают дубликаты записей — финансам нужно разъяснение перед выплатой.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_8">
+    <text>Поручить административной группе проверить записи; удержать выплату до решения.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_8_1">
+    <text>Одобрить базовую зарплату; удержать бонусы до проверки.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_8_2">
+    <text>Связаться с командирами подразделений для оправдания дублирующихся требований.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_8_3">
+    <text>Нарушение сети обнаружено ночью. Подписи черного хода соответствуют предыдущему вторжению.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_9">
+    <text>Изолировать поражённые узлы и исправить уязвимости немедленно.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_9_1">
+    <text>Подать фальшивые логи в системы-ловушки и отследить атакующего.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_9_2">
+    <text>Запросить поддержку киберподразделения для мер контрвторжения.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_9_3">
+    <text>Навигационное учение запланировано на 06:00 завтра. Упор на ночные операции и режим радиомолчания.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_10">
+    <text>Все группы проинструктированы; компасы и ПНВ выданы.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_10_1">
+    <text>Рекомендую добавить модуль городской местности на секторе V.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_10_2">
+    <text>Подтвердить точку эвакуации раненых и координаты медэвакуации.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_10_3">
+    <text>Подозрительное движение обнаружено возле старого бункера Янтаря. Возможен скан разведки.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_11">
+    <text>Выслать разведку для наблюдения и отчёта до вступления.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_11_1">
+    <text>Увеличить частоту сканирования датчиков в этом секторе.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_11_2">
+    <text>Координировать с группой разминирования в случае аномальных устройств.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_11_3">
+    <text>Ярлыки ящиков с патронами не соответствуют манифесту. Подозрение на ошибку маршрутизации.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_12">
+    <text>Удержать ящик и проверить серийные номера с журналами арсенала.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_12_1">
+    <text>Открыть образец ящика для ручной проверки.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_12_2">
+    <text>Уведомить штаб снабжения о расхождении и ждать инструкций.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_12_3">
+    <text>Базовое радио запрашивает интервью с командиром для сегмента морали.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_13">
+    <text>Одобрить заранее записанное сообщение, выделяющее достижения подразделения.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_13_1">
+    <text>Почему не прямая трансляция?</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_13_2">
+    <text>Отклонить; риск утечки оперативных данных.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_13_3">
+    <text>Команда очистки очистила стоки, но оставила кучи заражённой почвы.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_14">
+    <text>Приказать немедленно вывозить почву на место безопасного хранения.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_14_1">
+    <text>Запросить отчёт об экологическом воздействии.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_14_2">
+    <text>Запланировать дезактивацию почвы с поддержкой сапёров.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_14_3">
+    <text>Сообщения о несанкционированных группах возле КПП Эхо — напряжение растёт.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_15">
+    <text>Усилить КПП и проверить личность всех путников.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_15_1">
+    <text>Развернуть средства нелетального контроля толпы при необходимости.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_15_2">
+    <text>Инициировать радиомолчание для предотвращения координации между несанкционированными группами.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_15_3">
+    <text>Нехватка топлива может повлиять на эвакуацию раненых. Требуются альтернативные планы.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_16">
+    <text>Перераспределить топливо из некритических транспортных средств немедленно.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_16_1">
+    <text>Приоритет медэвакуации над рутинным транспортом.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_16_2">
+    <text>Координировать со штабом логистики для экстренного сброса топлива.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_16_3">
+    <text>Команда датчиков обнаружила новые показания аномалий — требуется калибровка.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_17">
+    <text>Запланировать сеанс калибровки на секторе V завтра утром.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_17_1">
+    <text>Отправить техническую команду на место с наборами калибровки.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_17_2">
+    <text>Перекрестно проверить данные с центральной лабораторией перед полевым развёртыванием.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_17_3">
+    <text>Логи КПП отметили фальшивые ID, использованные персоналом. Требуется расследование.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_18">
+    <text>Задержать держателей и проверить личность в штабе.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_18_1">
+    <text>Обновить протоколы сканирования ID с биометрическим резервом.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_18_2">
+    <text>Аудит логов КПП на предмет дальнейших аномалий.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_18_3">
+    <text>Конвой покидает сектор Гамма в 09:00 — детали эскорта ожидаются.</text>
+</string>
+
+<string id="st_dyn_news_army_conversation_msg_19">
+    <text>Назначить два отделения пехоты для близкого эскорта.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_19_1">
+    <text>Обеспечить наблюдение БПЛА на всем маршруте.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_19_2">
+    <text>Подтвердить точку пополнения боеприпасов в середине маршрута.</text>
+</string>
+<string id="st_dyn_news_army_conversation_resp_19_3">
+    <text>Мы калибровали детектор, под старым заводом скрытая лаборатория.</text>
+</string>
+
+<!-- Clear Sky  Conversations -->
+<string id="st_dyn_news_csky_conversation_msg_1">
+    <text>Если под землей, артефакты будут зашкаливать.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_1_1">
+    <text>Я отмечу на карте. Входим на рассвете.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_1_2">
+    <text>Смотрите на меры безопасности. Место было военного класса.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_1_3">
+    <text>Пси-показания растут возле «Плачущей» аномалии. Возможен новый кластер артефактов.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_2">
+<text>Развернуть мобильные подавители. Последний выброс гарпунил нашу технику на несколько дней.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_2_1">
+<text>Я подготовлю грави-сканер. Если это «Вспышка», нужны протоколы сдерживания.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_2_2">
+<text>Помните '07 год? Те пси-кластеры сожрали три детектора. Действуйте осторожно.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_2_3">
+<text>Снайперы-ренегады замечены у затопленной церкви. Они целются в мусорщиков.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_3">
+<text>Ребята Кравченко. Они нас высосут сухими, если мы не ответим.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_3_1">
+<text>Установить ловушки-аномалии на северной тропе. Пусть Зона разбирается с ними.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_3_2">
+<text>Лебедев не любит перенаправлять ресурсы... но мы уже потеряли слишком многих.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_3_3">
+<text>Батареи аномалий на 12%. Кто использовал последний заряд без записи?</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_4">
+<text>Проверить южный бункер. Видел, как Петренко прятал их для «критических исследований».</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_4_1">
+<text>Я обменяю артефакты Сидоровичу, если мы в отчаянии. Его цены преступны, однако.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_4_2">
+<text>Вот почему нам нужно починить солнечную батарею. Полагаться на генераторы — самоубийство.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_4_3">
+<text>Тушка псевдогиганта в кислотном тумане. Что-то разорвало её на куски... не пули.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_5">
+<text>Химера. Отследить кровавый след, пока дождь не смыл.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_5_1">
+<text>Собрать образцы тканей! Мутагенные свойства могут быть зашкаливающими.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_5_2">
+<text>Заблокировать ворота периметра. Если эта охота рядом с базой, мы сидящие утки.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_5_3">
+<text>Выброс прогнозируется через 90 минут. Все группы немедленно возвращаются на Болота.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_6">
+<text>Застрял возле серных источников! Запрашу резервную эвакуацию.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_6_1">
+<text>Сейсмические данные соответствуют паттернам '12. Это будет как минимум категория 4.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_6_2">
+<text>Боже, только не это. Усилите двери бункера на этот раз!</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_6_3">
+<text>Найден кластер «Золотой рыбки» в электрической аномалии. Показания 700% чистоты.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_7">
+<text>Не радуйтесь рано. Последние «чистые» артефакты прожгли свинцовые контейнеры.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_7_1">
+<text>Экологи заплатят за это состояние. Наконец-то починим водные фильтры.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_7_2">
+<text>Используйте керамические щипцы и тройную защиту. Один статический разряд может зажарить нас всех.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_7_3">
+<text>Патрули Долга переходят в наш сектор. «Проверяем бандитов», говорят.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_8">
+<text>Пусть их. Лучше, чем ренегады разведывают нашу оборону.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_8_1">
+<text>Чушь. Они браконьерствуют. Установить датчики движения на тайник Гамма.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_8_2">
+<text>Помните о перемирии. Но если они тронут палатку исследований — сбивайте.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_8_3">
+<text>Вспышка лучевой болезни в казарме 3. Инициированы протоколы карантина.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_9">
+<text>Запасы водки исчерпаны. Нужны антирадиации СРОЧНО.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_9_1">
+<text>Опять заражённая вода? Я же предупреждал о трубах!</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_9_2">
+<text>Готовить дез-душ. И кто-нибудь проверьте эти чёртовы счётчики Гейгера!</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_9_3">
+<text>Группа Альфа просрочила из Красного леса. Последняя передача упоминала... искажения.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_10">
+<text>Не искажения. Поля Контроллеров. Они погибли.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_10_1">
+<text>Возьму отряд СЕВА. Мы им должны поисково-спасательную операцию.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_10_2">
+<text>Лебедев запретил вылазки в лес после последнего инцидента. К черту приказы.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_10_3">
+<text>Модифицировал детектор для отслеживания пси-призраков. Тестирую возле кладбища сегодня ночью.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_11">
+<text>Наконец-то! Если это сработает, мы сможем предсказывать источники выбросов.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_11_1">
+<text>Бери лишние батареи. Кладбищенские аномалии высасывают заряд как вампиры.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_11_2">
+<text>Только не будите полтергейстов. Последний, кто пробовал, всё ещё дёргается.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_11_3">
+<text>Конвой в Янтарь атакован. Потеряна партия лекарств.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_12">
+<text>Бандиты или Монолит? В любом случае, мы в беде без антибиотиков.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_12_1">
+<text>Спрошу Экологов о помощи. Они нам обязаны за данные об артефактах.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_12_2">
+<text>Забудь о дипломатии. Ударим по их тайнику на старом заводе сегодня ночью.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_12_3">
+<text>Найден журнал лаборатории до Коллапса. Упоминания о «Нарушениях Ноосферы» в секторе G7.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_13">
+<text>Там, где исчез Стрелок... Совпадение?</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_13_1">
+<text>Сканировать на остаточные пси-волны. Если О-Сознание оставило эхо...</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_13_2">
+<text>Не гоняйся за призраками. Мы едва пережили выброс на прошлой неделе.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_13_3">
+<text>Ренегады прорвали южную проволоку. Нужны добровольцы для ремонта.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_14">
+<text>Заминировать прорыв «пружинками». Они не ждут активных аномалий.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_14_1">
+<text>Я прикрою с вышки. Любой в синем получает пулю.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_14_2">
+<text>Делайте быстро. Кровососы охотятся возле прорыва в сумерках.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_14_3">
+<text>Спутник показывает целый рентгеновский детектор в затонувшей барже.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_15">
+<text>Это довоенная техника! Мы можем увеличить радиус сканирования на 300%.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_15_1">
+<text>Баржа затоплена радиоактивной водой. Нужны герметичные костюмы.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_15_2">
+<text>Остерегайтесь снорков-мутантов. Они гнездятся в таких обломках.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_15_3">
+<text>Лебедев отменил проект антенны. Говорит, ресурсы идут на оборону.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_16">
+<text>Он неправ. Без связи мы слепы во время выбросов.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_16_1">
+<text>Делай тихо. У меня есть запчасти спрятанные у генератора.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_16_2">
+<text>Помнишь, что случилось с Марковым, когда он усомнился в приказах? Брось это.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_16_3">
+<text>Кислотный туман смещается к базе. Эвакуировать лишних в бункер.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_17">
+<text>Герметизировать вентшахты! В прошлый раз это разъело корпус реактора.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_17_1">
+<text>Это погода или аномалия? Чувствуется... намеренно.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_17_2">
+<text>Сначала захватите контейнеры с артефактами. Коррозия убивает поля сдерживания.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_17_3">
+<text>Новичок упал в обморок во время учения с аномалиями. Слишком много водки прошлой ночью?</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_18">
+<text>Заставь его чистить био-сканеры. Это отрезвит его.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_18_1">
+<text>Или отправь собирать медузы возле лагеря ренегатов. Огненное крещение.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_18_2">
+<text>Мы все были зелеными. Только держи его подальше от электрааномалий.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_18_3">
+<text>Обнаружено поле временной искажения возле дуба. Часы идут на 40% медленнее внутри.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_19">
+<text>Наконец-то! Доказательство временных аномалий. Готовь записывающую технику!</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_19_1">
+<text>НЕ входить. Помните, что случилось с Экологами на Юпитере?</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_19_2">
+<text>Брось болт. Если он стареет/гниет, у нас золотая шахта данных.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_19_3">
+<text>Сегодня 8 лет со штурма ЧАЭС. Зажгите свечу в 21:00.</text>
+</string>
+
+<string id="st_dyn_news_csky_conversation_msg_20">
+<text>За павших. Мы несем факел, который они уронили.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_20_1">
+<text>Они умерли ради знаний. Мы чтим их выживанием.</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_20_2">
+<text>...и тем, что эта жертва была не напрасна. *поднимает фляжку*</text>
+</string>
+<string id="st_dyn_news_csky_conversation_resp_20_3">
+<text>Конвой Долга разбит возле КПП! Оружие и патроны просто валяются в грязи, сука!</text>
+</string>
+
+
+<!------------------------------------------------------- Bandits  Conversations -->
+<string id="st_dyn_news_bandit_conversation_msg_1">
+<text>ПКС мой! Кто тронет — зарежу.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_1_1">
+<text>Забирайте быстро, пока фанатики Монолита не появились. Или хуже... подмога Долга.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_1_2">
+<text>Оставьте аптечки. Наверняка отравлены эти чистоплюсы.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_1_3">
+<text>Поставили «детектор аномалий» на Свалке. Зелёные платят 500 рублей за сломанный КПК.</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_2">
+<text>ХА! Подкинуть «освящённый артефакт» (камни) за?? наличные.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_2_1">
+<text>Если будут ноеть — стреляйте. Бесплатное снаряжение тоже дело.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_2_2">
+<text>Только не шарьте у клиентов Сида. Он нас живьём сдерёт.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_2_3">
+<text>Наёмники шныряют по Тёмной Долине. Кто, к чёрту, оставил ворота открытыми?</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_3">
+<text>Не моя смена. Спроси Бориса. Он был пьяный в хлам на посту.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_3_1">
+<text>Засада в туннеле. Украдем их игрушки НАТО.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_3_2">
+<text>Неа, спрячь хороший лут. Они уйдут, увидев наше «гостеприимство».</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_3_3">
+<text>Кровосос в депо! Уже двоих съел. Кто-нибудь разберётся с ним!</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_4">
+<text>Закройте дверь. Заморите голодом. Проблема решена.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_4_1">
+<text>Брось новичка как приманку. Стреляем, пока ест. Легко.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_4_2">
+<text>Подожги здание. Кому вообще нужны припасы?</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_4_3">
+<text>Василий продал наш тайник Свободе! Найдите this traitorous sukablyad!</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_5">
+<text>Оставьте тело в болотах. Снорки его переработают.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_5_1">
+<text>Я знаю, где девка его прячется. Заговорит... или заплатит.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_5_2">
+<text>Забудь о мести. Украдем дерьмо Свободы обратно. Двойная прибыль!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_5_3">
+<text>ВОДКИ НЕТ. Это чертовый позор.</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_6">
+<text>Налеть на аванпост Долга. Они конфисковали нашу последнюю партию.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_6_1">
+<text>Пей антифриз как в 08-м. На вкус хуже, но пьянеешь быстрее!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_6_2">
+<text>Обменяй артефакты у Сида. Его запасы бесконечны... за правильную цену.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_6_3">
+<text>Сталкер с Гауссом прихрамывает через Агропром. Слабый как котёнок.</text>
+</string>
+
+
+<string id="st_dyn_news_bandit_conversation_msg_7">
+<text>Гаусс? Теперь мой. Встретимся на стройке.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_7_1">
+<text>Может быть приманка. Снайперы на крыше, если это ловушка.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_7_2">
+<text>Сначала в ноги. Веселее, когда они ползают.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_7_3">
+<text>Призраки на заводе снова. Слышу шёпот у печи.</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_8">
+<text>Разлей водку по полу. Духи любят бесплатные выпивки.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_8_1">
+<text>Это просто снорки в вентиляции. Опять. Игнорируй.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_8_2">
+<text>Ставлю 500 рублей, что это шпионы Свободы. Выдымим их!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_8_3">
+<text>Босса сожрали псевдособаки. Кто хочет его модное пальто?</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_9">
+<text>Я! Заплачу... обещаниями, которые не сдержу.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_9_1">
+<text>Тянуть жребий. Короткая соломка получает пальто... и список на уничтожение от Долга.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_9_2">
+<text>Продай пальто Сиду. Разделите наличные и оставайтесь без лидера. Меньше работы.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_9_3">
+<text>Заминировал мост гранатами. Патрули Свободы ходят там ежедневно.</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_10">
+<text>Добавь коктейли. Сделаем красиво.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_10_1">
+<text>Жди, пока понесут лут обратно. Двойной урожай!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_10_2">
+<text>Не забудь отрезать пальцы за их кольца. Хорошие трофеи.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_10_3">
+<text>Поймали разведчика наёмников. У него карта к их тайнику. Пытать?</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_11">
+<text>Отрезай пальцы, пока не заговорит. По одному в минуту.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_11_1">
+<text>Продай его группе. Наёмники хорошо платят за своих.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_11_2">
+<text>Отдай сноркам. Бесплатное развлечение.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_11_3">
+<text>Нашёл бочку светящейся водки в Припяти! На вкус как победа!</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_12">
+<text>Оставь мне! Я тоже хочу светиться в темноте!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_12_1">
+<text>Разбавь водой. Надолго не хватит.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_12_2">
+<text>Если помрем, похороните меня с бочкой. Чики-брики навеки.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_12_3">
+<text>Налёт на склад Сида провалился. Трое мертвы. Бегите.</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_13">
+<text>Говорил не трогать его вещи! Теперь мы все мертвыцы.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_13_1">
+<text>Валим на Долга. Сид поверит.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_13_2">
+<text>Время прятаться в болотах. Чистое Небо слишком тупое, чтобы найти нас.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_13_3">
+<text>Приковал плоть к новичкам лагеря. Платно смотреть, как они орут.</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_14">
+<text>Бери 5 пуль с просмотра. Прибыль!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_14_1">
+<text>Лучше: ставь на то, как долго продержатся. Скажу, 20 секунд.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_14_2">
+<text>Если вырвется, ТЫ будешь её кормить, гений.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_14_3">
+<text>5000 рублей за голову чайника Чистого Неба. Последний раз видели в болотах. Лёгкие деньги?</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_15">
+<text>Болота? Пас. Снорки едят лучше нас.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_15_1">
+<text>Замани его. Предложи «артефакты» (мины).</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_15_2">
+<text>Возьми работу, потом застрели заказчика. ДВОЙНАЯ награда!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_15_3">
+<text>Олег должен мне 10000 рублей с костей. Он «забыл».</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_16">
+<text>Переломай колени. Стандартная процентная ставка.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_16_1">
+<text>Забей на кэш. Возьми девку. Или пушку.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_16_2">
+<text>Кинь следующую игру. Выиграй и штаны тоже.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_16_3">
+<text>Бросил новичка в вихрь. Он крутится как юла! ХА!</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_17">
+<text>Кидай в него болты. Очки за попадание в голову!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_17_1">
+<text>Записывай! Продадим видео сталкерам.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_17_2">
+<text>Когда его вырвет, ставь на цвет. Скажу, зелёный.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_17_3">
+<text>Крыша рухнула в казарме. Кто хранил гранаты на чердаке?!</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_18">
+<text>Не моя проблема. Я сплю в украденном БТРе.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_18_1">
+<text>Хорошо! Больше «вентиляции». Лучшая архитектура Зоны.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_18_2">
+<text>Вини Свободу. Затем укради их базу.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_18_3">
+<text>Видел чёрную химеру возле лагеря. Зона снова зла на нас...</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_19">
+<text>Пожертвуй Борисом. Он всё равно бесполезен.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_19_1">
+<text>Неа, просто голодная. Брось ей остатки сталкеров.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_19_2">
+<text>Если чёрная, значит радиоактивная! Стреляй и продавай мясо Сиду!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_19_3">
+<text>Нашёл гитару с одной струной. Кто знает «Чёрные глаза»?!</text>
+</string>
+
+<string id="st_dyn_news_bandit_conversation_msg_20">
+<text>Я буду барабанить по стене! ВРЕМЯ ПИВНЫХ ПЕСЕН!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_20_1">
+<text>Играй громче! Спугни синих ботаников в болотах!</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_20_2">
+<text>Если сыграешь фальшиво, станешь приманкой для химеры.</text>
+</string>
+<string id="st_dyn_news_bandit_conversation_resp_20_3">
+<text>Сталкер прихрамывает через Свалку. Выглядит так, будто его жевали возле депо. Приличное снаряжение. Лёгкая добыча?</text>
+</string>
+
+<!----------------------------------------------Renegades  Conversations -->
+<string id="st_dyn_news_killer_conversation_msg_1">
+<text>Засада у крана. Я возьму точку. Ты с фланга, сука.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_1_1">
+<text>Может быть приманка. Видел, как Долг нюхал. Смотри назад.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_1_2">
+<text>Просто застрели его. Меньше шума, меньше внимания. Аптечки забери.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_1_3">
+<text>Нашёл пустой бункер севернее Агропрома. Сухой, в основном целый. Занимаю.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_2">
+<text>Ни за что. Мы с Гришей нашли его первыми. Зови друзей — стреляем.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_2_1">
+<text>Проверь на ловушки. Последняя команда, которая тут сидела, стала едой для снорков.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_2_2">
+<text>Задняя комната моя. Кто сунется к моему тайнику — получит ножом.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_2_3">
+<text>Виктор обещал половину артефактов. Видел, как он крадётся к Сидоровичу один.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_3">
+<text>Говорил тебе. Никогда не доверяй лицу с таким шрамом. Встретимся у задней двери Сида?</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_3_1">
+<text>Пусть продаст. Легче забрать рубли с трупа потом.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_3_2">
+<text>Или стукни бандитам, что он несёт добро. Смотри шоу, забирай остатки.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_3_3">
+<text>Мёртвый наёмник возле моста. Хорошая броня, но патруль Монолита близко. Стоит ли риск?</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_4">
+<text>Хватай магазины и беги. Броня слишком горячая, чтобы быстро двигаться.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_4_1">
+<text>Забери гранаты. Брось одну в фанатиков для отвлечения.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_4_2">
+<text>Не мои проблемы. Ищи мясо полегче.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_4_3">
+<text>Военный вертолет сканирует Болота. Охотятся на дезертиров. Прячься.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_5">
+<text>Иди к кластеру аномалий. Их датчики глючат возле электрополей.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_5_1">
+<text>Выброси военные патроны. Это улики.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_5_2">
+<text>Найди патруль сталкеров. Начни перестрелку, ускользни, пока они заняты.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_5_3">
+<text>Нашёл ящик сухпайков под вагонами. Мой.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_6">
+<text>Ни за что. Половину, или спалю всё. Никто не ест.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_6_1">
+<text>Поделись одним боксом. Остальное спрячь. Никому не говори.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_6_2">
+<text>Обменяй часть на патроны у бандитов. Они менее охотно стреляют в торговцев.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_6_3">
+<text>Новичок Чистого Неба плачет у газовой аномалии. Потерял детектор. Лёгкая цель.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_7">
+<text>Возьми костюм. СЕВА стоит хорошие рубли, даже повреждённый.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_7_1">
+<text>Выкуп? Фракция может заплатить... или просто застрелит нас.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_7_2">
+<text>Сбрось его в газ. Посмотрим, расплавится ли. Затем лутай труп.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_7_3">
+<text>Бандиты предлагают 500 рублей за ухо Чистого Неба. Охотимся на синих?</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_8">
+<text>Лёгкие деньги. Они слабы в южных болотах.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_8_1">
+<text>Возьми уши, затем засаду на платильщика бандитов. Забери все наличные.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_8_2">
+<text>Не стоит того. Синие дерутся как загнанные крысы, когда в отчаянии.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_8_3">
+<text>Уровни радиации в подвале завода скачут. Надо снова двигаться.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_9">
+<text>Брось тяжёлое снаряжение. Быстрее бежать налегке.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_9_1">
+<text>Найди канализационную трубу возле свалки. Воняет, но радиация низкая.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_9_2">
+<text>Фиг с ним. Пей антирадиацию и оставайся. Лучше, чем получить пулю снаружи.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_9_3">
+<text>Долг и Свобода дерутся у КПП. Снаряжение везде.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_10">
+<text>Ползи по канаве. Хватай винтовки, оставляй тяжёлую броню.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_10_1">
+<text>Брось гранату в середину. Больше трупов, больше лута.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_10_2">
+<text>Жди, пока победители уйдут. Обчисти проигравших. Безопаснее.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_10_3">
+<text>Олег опять прячет хорошие патроны. Видел, как спрятал коробку ББ.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_11">
+<text>Забирай, пока он спит. Слишком медленный, чтобы нас поймать.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_11_1">
+<text>Скажи ему, что бандиты идут. Он запаникует и поведёт ко всем тайникам.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_11_2">
+<text>Застрели его. Проблема решена, боеприпасы распределены. Справедливо.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_11_3">
+<text>Отряд наёмников ставит засаду возле нашего лагеря. Выглядят профи. Уходим?</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_12">
+<text>Бросить лагерь. Сейчас. Стрелят первыми, спросят никогда.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_12_1">
+<text>Поставить ловушки при отходе. Замедлим их.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_12_2">
+<text>Попробовать поговорить? Предложить разведку... затем исчезнуть при первом случае.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_12_3">
+<text>Сильный выброс. Все в панике. Время грабить паникёров.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_13">
+<text>Налей на деревню новичков на Свалке. Лёгкая добыча, дезориентированы.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_13_1">
+<text>Найди поля артефактов. Сталкеры роняют добро, бегуя к укрытию.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_13_2">
+<text>Слишком рискованно. Мутанты бесятся после выбросов. Найди дыру, прячься.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_13_3">
+<text>Поймал Сашу, когда пытался продать нашу карту артефактов бандитам. Что делаем?</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_14">
+<text>Сломай руки. Отправь обратно к бандитам как послание.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_14_1">
+<text>Продай его бандитам как раба. Получишь оплату дважды.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_14_2">
+<text>Используй как приманку в силовой аномалии. Бесплатное развлечение.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_14_3">
+<text>Нашёл рабочий грузовик на Кордоне. Ключи внутри. Заведём?</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_15">
+<text>Слей топливо сначала. Стоит больше, чем грузовик сейчас.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_15_1">
+<text>Слишком шумно. Военные или бандиты услышат за мили. На металлолом.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_15_2">
+<text>Толкни в аномалию. Большой бум, хороший смех.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_15_3">
+<text>Долг объявил награду за «Болотных крыс» (нас). Держите головы низко.</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_16">
+<text>Перестаньте грабить возле их патрулей. Бейте северные болота.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_16_1">
+<text>Узнай, кто взял контракт. Сделай из него пример.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_16_2">
+<text>Свалим на бандитов. Подсунь лут возле их тайника.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_16_3">
+<text>Новичок «Николай» слишком много вопросов про тайники задаёт. Шпион?</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_17">
+<text>Вероятно Свобода или Эколог. Сбрось в поле «пружинок».</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_17_1">
+<text>Скорми фальшивую инфу. Смотрим, кому он доложит.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_17_2">
+<text>Просто застрели. Меньше головной боли. Не доверяй никому новому.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_17_3">
+<text>Бандиты предлагают перемирие, чтобы ударить по конвою наёмников. Двойной крест вероятен?</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_18">
+<text>Абсолютно. Ударь по конвою, затем по бандитам, пока они грабят.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_18_1">
+<text>Бери сделку. Укради грузовик во время боя и уноси ноги с товаром.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_18_2">
+<text>Стукни наёмникам. Пусть они сначала смягчат бандитов.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_18_3">
+<text>Мёртвый псевдособака. Мясо гнилое, но ошейник выглядит военным. Взять?</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_19">
+<text>Может быть трекер. Разбей его, продай электронный лом.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_19_1">
+<text>Надень. Пугай новичков. Или путай мутантов.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_19_2">
+<text>Оставь. Воняет неприятностями. Не стоит 5 рублей.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_19_3">
+<text>Ещё один год в этой дыре. Кто празднует?</text>
+</string>
+
+<string id="st_dyn_news_killer_conversation_msg_20">
+<text>Праздновать? Я праздную, что меня ещё не застрелили... пока.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_20_1">
+<text>Нашёл полбутылки водки. Это мой праздник. Отстань.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_20_2">
+<text>Стреляй сталкера. Возьми ужин. Лучшая вечеринка в Зоне.</text>
+</string>
+<string id="st_dyn_news_killer_conversation_resp_20_3">
+<text>Предварительные сканирование артефакта «Кристальная шиповника» показывают беспрецедентные колебания энергии. Лаборатория 3 запрашивает расширенные тесты.</text>
+</string>
+
+
+<!--------------------------------------------------------------- Ecologists  Conversations -->
+<string id="st_dyn_news_ecolog_conversation_msg_1">
+<text>Одобрено. Но внедрите экранирование Фарадея — вспомните инцидент на Янтаре.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_1_1">
+<text>Сравните показания с моделями Ноосферы. Может подтвердить теорию резонанса Сахарова.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_1_2">
+<text>Требуется военный эскорт для перемещения опасных материалов. Отряд Долга недоступен до четверга.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_1_3">
+<text>Стая псевдособак возле Янова демонстрирует координированную тактику охоты. Запрос авторизации дрона-разведчика.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_2">
+<text>Отказано. Военные ограничили воздушное пространство после прошлогоднего... инцидента.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_2_1">
+<text>Документировать через наземные камеры. Предлагаю развернуть ультразвуковые сдерживатели во время наблюдения.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_2_2">
+<text>Перекрестная ссылка с исследованием химер '09. Возникающий интеллект?</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_2_3">
+<text>Киев сократил финансирование Q3 на 40%. Все полевые исследования, не являющиеся необходимыми, приостановлены немедленно.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_3">
+<text>Приоритет моделей прогнозирования выбросов. Всё остальное теперь академическая роскошь.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_3_1">
+<text>Предложить продажу артефактов Сидоровичу. Его цены преступны, но лучше, чем увольнение.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_3_2">
+<text>Напоминание: Скройте это от военного liaison. Они потребуют «перераспределения безопасности».</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_3_3">
+<text>Радиопомехи Свободы нарушили сейсмические мониторы в Красном лесу. Потеря данных: 78 часов.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_4">
+<text>Подать официальную жалобу обеим фракциям. Приложить оценку стоимости восстановления.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_4_1">
+<text>Переключиться на проводные датчики. Риск установки выше, но иммунитет к идиотским помехам.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_4_2">
+<text>Отправить Круглова вести переговоры. Он говорит на «сталкерском». Возьми взятки водкой.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_4_3">
+<text>Обнаружена новая пространственная искажение в районе складов Юпитера. Гравитационные показания противоречат текущим моделям.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_5">
+<text>Развернуть мобильный массив датчиков, но удерживать периметр 200м. Вспомните, что случилось с командой Лебедева.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_5_1">
+<text>Коррелировать с паттернами недавних выбросов. Может быть предшествующим событием.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_5_2">
+<text>Запросить охотников за артефактами для развертывания зондов. Предложить премию — добровольцев в прошлый раз не было.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_5_3">
+<text>Грибковые споры в вентиляции Лаборатории 4. Скорость мутации говорит о штамме, адаптированном к Зоне.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_6">
+<text>Заблокировать сектор. Инициировать протокол дезактивации Гамма. И кто-нибудь найди, где Петренко снова оставил свои образцы.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_6_1">
+<text>Увлекательно! Сохранить образцы в криокамере до стерилизации.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_6_2">
+<text>Медперсонал предупреждён. Ожидать жалобы на карантин от младших исследователей.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_6_3">
+<text>Киевский университет требует доступ к нашим архивам тканей мутантов. Запрос «академического сотрудничества».</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_7">
+<text>Отклонить. Их NDA ничего не стоят. Последняя утечка почти начала панику пандемии.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_7_1">
+<text>Предложить только отредактированные наборы данных. Взимать тройной стандартный тариф.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_7_2">
+<text>Напомнить им, что нам нужен полевой персонал, если они хотят одолжения. PhD не переживают выбросы.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_7_3">
+<text>Генератор поля подавления аномалий отказал во время тестирования «Борца». Техник госпитализирован.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_8">
+<text>Прекратить все эксперименты по подавлению до обзора безопасности. Сформировать комитет.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_8_1">
+<text>Проверить выравнивание гармоник. Отказ 2017 года произошел на идентичных частотах резонанса.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_8_2">
+<text>Медотчёт показывает только лёгкие ожоги. Возобновить тесты с удалёнными дронами на следующей неделе.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_8_3">
+<text>Сталкер доставил тушку альбиноса-кровососа. Оплата авторизована, несмотря на жалобы на запах.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_9">
+<text>Приоритет генетическому секвенированию до разложения. Отменить все остальные проекты Лаборатории 2.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_9_1">
+<text>Хранить в Ангаре 7. Главная морозилка всё ещё пахнет после последнего вскрытия химеры.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_9_2">
+<text>Проверить, что это не просто краска. Вспомните hoax с «пси-собакой»?</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_9_3">
+<text>Пост-выбросовые сканирования показывают миграцию аномалий на Свалке. Предыдущие карты устарели.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_10">
+<text>Обновить КПК сталкеров немедленно. Команда Морозова чуть не наткнулась на новый вихрь.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_10_1">
+<text>Коррелировать векторы смещения с логами активности Ноосферы. Алгоритм прогнозирования нуждается в уточнении.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_10_2">
+<text>Отправить предупреждения лидерам сталкеров. И взимать плату с Долга за обновление картографии.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_10_3">
+<text>Предложение: Изучение пси-эффектов Монолита на добровольцах. Многообещающие данные нейронной адаптации.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_11">
+<text>Отклонено. Эксперименты '08 года нарушили семь международных договоров. Сожгите эту записку.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_11_1">
+<text>Можем ли мы использовать осуждённых заключённых? Киев предлагал «ресурсы» в прошлом месяце...</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_11_2">
+<text>Изучать только исторические данные. Даже Чистое Небо не коснется этого.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_11_3">
+<text>Прототип сканера артефактов достиг 92% точности в полевых тестах. Предложение по производству?</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_12">
+<text>Представить военным подрядчикам. Они профинансируют массовое производство для собственного использования.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_12_1">
+<text>Патентовать сначала! Схемы могут восстановить наш бюджет.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_12_2">
+<text>Требовать тестов на прочность. Сталкеры ломают всё за недели.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_12_3">
+<text>Раскопаны записи лаборатории до Сознания из X-10. Содержат ссылки на «Стабилизацию Ноосферы».</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_13">
+<text>Восстановить документы в азотной камере. Обрабатывать только в перчатках — бумага хрупкая.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_13_1">
+<text>Перекрестная ссылка с данными КПК Стрелка. Он мог незавершенно завершить их работу.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_13_2">
+<text>Ограничить доступ исследователям 5 уровня. Это может привлечь... нежелательное внимание.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_13_3">
+<text>Кислотный туман приближается к периметру Янтаря. Загерметизировать вентиляцию и активировать скрубберы.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_14">
+<text>Эффективность скрубберов 47%. Обслуживание задержано бюджетными сокращениями.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_14_1">
+<text>Собирать образцы атмосферы! Уникальная возможность химического состава.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_14_2">
+<text>Переместить чувствительное оборудование в подземные лаборатории. И кто-нибудь проверьте уплотнения Бункера 3.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_14_3">
+<text>Требуются сталкеры-добровольцы для отслеживания поведения мутантов. Опасная доплата: 5000 руб/день.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_15">
+<text>Слишком низко. Последний доброволец потерял ноги. Удвойте предложение.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_15_1">
+<text>Присоединить датчики к захваченным псевдособакам. Более этично и экономично.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_15_2">
+<text>Нанять Наёмников? Они следуют протоколам лучше, чем Сталкеры.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_15_3">
+<text>Отдел исследований аномалий снова монополизировал спектральные анализаторы. Работа по генетике задержана.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_16">
+<text>Внедрить строгое планирование. Нарушители теряют лабораторные привилегии.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_16_1">
+<text>Взломать их крио-насосы? (Шутка... в основном)</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_16_2">
+<text>Напомнить им, что мы контролируем доступ к тканям мутантов. Рычаг — это всё.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_16_3">
+<text>Подтверждено: Паттерны выбросов коррелируют с солнечными вспышками! Точность прогнозирования теперь 73%.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_17">
+<text>Публиковать немедленно. Это оправдывает пять лет бюджетных запросов.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_17_1">
+<text>Удержать ключевые переменные. Военные используют эти знания в оружии.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_17_2">
+<text>Откалибровать полевые датчики соответственно. И предупредить остатки Чистого Неба — они оценят.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_17_3">
+<text>Бандиты перехватили нашу партию литиевых батарей. Альтернативы для полевого оборудования?</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_18">
+<text>Приспособить энергетические ядра артефактов. Опасно, но доступно.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_18_1">
+<text>Взять Свободу для retrieving shipment. Их цена: три аптечки и карты аномалий.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_18_2">
+<text>Активировать резерв: Советские батареи на Складе 7. Половина всё ещё держит заряд.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_18_3">
+<text>Утечка биоопасности 4 уровня в Лаборатории Мутагенов. Инициирована полная блокировка.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_19">
+<text>Герметизировать вентшахты 7-12. Сдерживание до извлечения.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_19_1">
+<text>Это Образец КР-77? Я предупреждал о нестабильном клеточном реплицировании!</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_19_2">
+<text>Подготовить амнезиаки для пострадавшего персонала. Стандартный протокол стирания памяти.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_19_3">
+<text>Расшифровано 87% серверов О-Сознания 2006-2008 гг. Завершение доступа к архиву.</text>
+</string>
+
+<string id="st_dyn_news_ecolog_conversation_msg_20">
+<text>Ограничить только старшим сотрудникам. Младшие исследователи лишены контекста этого масштаба.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_20_1">
+<text>Искать файлы проекта «Градиент». Их ранняя работа может объяснить текущие аномалии.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_20_2">
+<text>Сжечь все исследования пси-резонанса. Некоторые знания должны оставаться потерянными.</text>
+</string>
+<string id="st_dyn_news_ecolog_conversation_resp_20_3">
+<text>Нечистые приближаются к Священному Городу. Подготовить Северный Барьер. Слава Монолиту.</text>
+</string>
+
+
+<!-- Monolith  Conversations -->
+
+<string id="st_dyn_news_monolith_conversation_msg_1">
+<text>Мины освящены. Они найдут чистоту в огне.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_1_1">
+<text>Команды снайперов поднимаются на Башню. Их глаза служат Скале.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_1_2">
+<text>Мы слышим Шёпот. Их путь заканчивается на мосту.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_1_3">
+<text>Искра сияет в Мёртвом городе. Принесите её к Алтарю.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_2">
+<text>Очищаю еретиков на пути. Их кровь радует Целое.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_2_1">
+<text>Пси-хранители пробуждаются. Артефакт поёт им.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_2_2">
+<text>Он усилит Барьер. Шёпот повелевает этим.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_2_3">
+<text>Великое Очищение приближается. Стоите в Свете. Радуйтесь.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_3">
+<text>Мы избраны. Наши умы будут сиять ярче.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_3_1">
+<text>Пусть слабые горят. Только верные остаются.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_3_2">
+<text>Скала укрывает нас. Мы чувствуем её пульс.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_3_3">
+<text>Осквернители в Соборе. Умолкните их богохульные пушки.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_4">
+<text>Грязь Долга загнана в угол. Предлагают свои души Пустоте.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_4_1">
+<text>Их крики — это гимны. Шёпот одобряет.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_4_2">
+<text>Никаких пленных. Только жертвы.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_4_3">
+<text>Сталкер с Меткой приближается. Он не должен достичь Ядра.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_5">
+<text>Виден возле Лиманска. Его разум... сопротивляется Шёпоту.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_5_1">
+<text>Отправить Благословенных. Их пси-копья раздробят его.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_5_2">
+<text>Убить его спутников. Пусть отчуждение приведет его к нам.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_5_3">
+<text>Аномалии ослабевают в Секторе 7. Освятить землю кровью.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_6">
+<text>Пленные бандиты готовы. Их страх питает Барьер.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_6_1">
+<text>Похоронить их тела лицом на Запад. Пустота голодна.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_6_2">
+<text>Скала дрожит. Наше жертвоприношение принято.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_6_3">
+<text>Контроллеры докладывают о неверных возле Выжигателя Мозгов. Перенаправить орду.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_7">
+<text>Псевдогиганты пробуждены. Они служат Цели.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_7_1">
+<text>Кровососы охотятся в тумане. Нечистые узнают ужас.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_7_2">
+<text>Никаких выживших. Пусть мутанты пируют на их сомнениях.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_7_3">
+<text>Страж Борис пал от еретиков-наёмников. Извлечь его череп.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_8">
+<text>Он покоится на их костре. Осквернение.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_8_1">
+<text>Сжечь их тела. Развеять пепел по аномалиям.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_8_2">
+<text>Его душа возвращается к Целому. Слава его имени.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_8_3">
+<text>Оставить пост Красного леса. Очищение очищает это завтра.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_9">
+<text>Заминировать реакторы на перегруз. Маяк для Выброса.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_9_1">
+<text>Оставить реликвии для неверных. Их коррупция углубляется.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_9_2">
+<text>Мы отступаем. Пустота забирает должное.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_9_3">
+<text>Новые неофиты прибыли к Барьеру. Подготовить Посвящение.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_10">
+<text>Их умы слабы. Выжигатель сделает их сильными.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_10_1">
+<text>Те, кто сопротивляется, становятся мутантами. Благородная служба.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_10_2">
+<text>Шёпот приветствует всех. Желающих или нет.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_10_3">
+<text>Гаусс-винтовки освящены у Саркофага. Развернуть к Южному Оку.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_11">
+<text>Их свет пронзает ересь. Дар Скалы.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_11_1">
+<text>Целиться в бронированных. Пусть вера раздробит сталь.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_11_2">
+<text>Не тратить боеприпасы. Каждый выстрел служит Целому.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_11_3">
+<text>Сомнение эхом в сознании Павла. Направить его к Выжигателю.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_12">
+<text>Он сомневается в Барьере. Ересь должна гореть.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_12_1">
+<text>Его боль будет экстазом. Шёпот очищает.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_12_2">
+<text>Если он сопротивляется... скормить его полтергейстам.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_12_3">
+<text>Осквернители Свободы разрушили нашу святыню. Требуется возмездие.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_13">
+<text>Отследить их лагерь. Отравить воду радионуклидами.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_13_1">
+<text>Оставить лидера в живых. Пусть несёт проклятие Зоны.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_13_2">
+<text>Их крики эхом отзовутся в Мозге. Шёпот слышит.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_13_3">
+<text>Патрули сообщают о тишине в Мёртвом городе. Слишком тихо.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_14">
+<text>Ассасины-наёмники. Они прячутся от Света.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_14_1">
+<text>Выкурить их огнём. Сжечь тени.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_14_2">
+<text>Их технология здесь терпит неудачу. Скала защищает.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_14_3">
+<text>Вихрь голодает. Покормите его захваченным неверным.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_15">
+<text>Его ужас поддерживает Барьер. Достойный конец.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_15_1">
+<text>Связать его освящённой проволокой. Пусть Вихрь попробует его душу.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_15_2">
+<text>Когда он закричит, путь к Ядру усиливается. Слава.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_15_3">
+<text>Их артиллерия сотрясает землю. Стоите твердо в вере.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_16">
+<text>Бетон трескается. Вера — нет. Мы выдерживаем.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_16_1">
+<text>Пусть тратят снаряды. Пустота потребляет их жадность.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_16_2">
+<text>Их шум — это тишина для Шёпота. Мы слышим только цель.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_16_3">
+<text>Форма брата Григория меняется. Зона обнимает его.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_17">
+<text>Его плоть становится бронёй. Его боль — сила.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_17_1">
+<text>Станционировать его у Тоннеля. Пусть еретики видят божественную эволюцию.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_17_2">
+<text>Его разум остается чистым. Шёпот направляет его когти.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_17_3">
+<text>Великая Дверь слабеет. Вскоре Ядро пробудится.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_18">
+<text>Пусть Нечистые придут. Их тела удобряют священную землю.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_18_1">
+<text>Финальное Очищение близко. Все будут Одним.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_18_2">
+<text>Слава Монолиту. Навсегда.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_18_3">
+<text>Двигаться через канализацию Припяти. Шёпот скрывает нас.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_19">
+<text>Утопить крыс. Их писк предаёт веру.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_19_1">
+<text>Выходим у Больницы. Бить медиков первыми.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_19_2">
+<text>Никакого радио. Только Скала направляет.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_19_3">
+<text>Братья павшие под Лиманском возвращаются к Целому. Радуйтесь.</text>
+</string>
+
+<string id="st_dyn_news_monolith_conversation_msg_20">
+<text>Их жертва питает Барьер. Слава их именам.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_20_1">
+<text>Никаких могил. Их тела теперь служат аномалиям.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_20_2">
+<text>Мы слышим их шёпоты в Пустоте. Они с нами.</text>
+</string>
+<string id="st_dyn_news_monolith_conversation_resp_20_3">
+<text>Монолит благодарен их жертве.</text>
+</string>
+
+</string_table>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!-- Group Conversations XML Structure -->
+<!-- Format: speaker_role|message -->
+<!-- Meta format: tags|min_speakers|max_speakers -->
+
+<string_table>
+
+<!-- Group Conversation 1: Artifact Discovery Discussion -->
+<string id="st_dyn_news_group_conv_1_meta">
+    <text>mixed,artifacts|3|4</text>
+</string>
+<string id="st_dyn_news_group_conv_1_turn_1">
+    <text>finder|Пацаны, ебать, я только что нашёл артефакт «Золотая рыбка» возле %location%!</text>
+</string>
+<string id="st_dyn_news_group_conv_1_turn_2">
+    <text>skeptic|Пиздёж, %finder_name%. «Золотая рыбка» — дико редкий артефакт.</text>
+</string>
+<string id="st_dyn_news_group_conv_1_turn_3">
+    <text>expert|Вообще-то вчера был выброс. Могло наспавнить новые арты.</text>
+</string>
+<string id="st_dyn_news_group_conv_1_turn_4">
+    <text>finder|Да говорю же, он настоящий! Докажу без базара!</text>
+</string>
+<string id="st_dyn_news_group_conv_1_turn_5">
+    <text>buyer|Если не врёшь, прямо сейчас отвалю за него 50к.</text>
+</string>
+<string id="st_dyn_news_group_conv_1_turn_6">
+    <text>skeptic|%buyer_name%, не тупи. Пусть сначала пруфы покажет.</text>
+</string>
+<string id="st_dyn_news_group_conv_1_turn_7">
+    <text>finder|Подваливай в бар — покажу. Деньги не забудь.</text>
+</string>
+
+<!-- Group Conversation 2: Planning a Raid -->
+<string id="st_dyn_news_group_conv_2_meta">
+    <text>faction,planning,raid|3|4</text>
+</string>
+<string id="st_dyn_news_group_conv_2_turn_1">
+    <text>leader|Так, мужики, завтра на рассвете выносим военный блокпост.</text>
+</string>
+<string id="st_dyn_news_group_conv_2_turn_2">
+    <text>scout|Вчера там был. На ротации минимум 8 рыл охраны.</text>
+</string>
+<string id="st_dyn_news_group_conv_2_turn_3">
+    <text>veteran|Восемь? Больше, чем в прошлый раз. Нужен отвлекающий манёвр.</text>
+</string>
+<string id="st_dyn_news_group_conv_2_turn_4">
+    <text>demo|СВУ уже готовы. Можно ёбнуть их грузовик снабжения, как подъедет.</text>
+</string>
+<string id="st_dyn_news_group_conv_2_turn_5">
+    <text>leader|Грамотно, %demo_name%. %scout_name%, во сколько обычно приходит грузовик?</text>
+</string>
+<string id="st_dyn_news_group_conv_2_turn_6">
+    <text>scout|Около 0600, как по часам.</text>
+</string>
+<string id="st_dyn_news_group_conv_2_turn_7">
+    <text>veteran|Отлично. Лупим по грузовику и влетаем в суматохе.</text>
+</string>
+<string id="st_dyn_news_group_conv_2_turn_8">
+    <text>leader|Решено. Снарягу в порядок и отдыхать.</text>
+</string>
+
+<!-- Group Conversation 3: Emergency Situation -->
+<string id="st_dyn_news_group_conv_3_meta">
+    <text>emergency,mutants,danger|3|5</text>
+</string>
+<string id="st_dyn_news_group_conv_3_turn_1">
+    <text>spotter|БЛЯТЬ! Стая кровососов прёт к деревне новичков!</text>
+</string>
+<string id="st_dyn_news_group_conv_3_turn_2">
+    <text>guard|Сколько их? Я у южных ворот!</text>
+</string>
+<string id="st_dyn_news_group_conv_3_turn_3">
+    <text>spotter|Минимум 4, может 5! Идут с востока!</text>
+</string>
+<string id="st_dyn_news_group_conv_3_turn_4">
+    <text>leader|Всем бойцам на восточную стену, ЖИВО! %guard_name%, держи пост!</text>
+</string>
+<string id="st_dyn_news_group_conv_3_turn_5">
+    <text>sniper|Вижу их с вышки. Начинаю работать.</text>
+</string>
+<string id="st_dyn_news_group_conv_3_turn_6">
+    <text>guard|Новичков эвакуировать?</text>
+</string>
+<string id="st_dyn_news_group_conv_3_turn_7">
+    <text>leader|Некогда! %sniper_name%, снимай их нахрен!</text>
+</string>
+<string id="st_dyn_news_group_conv_3_turn_8">
+    <text>sniper|Первый лёг! Остальные заметались!</text>
+</string>
+
+<!-- Group Conversation 4: Trading Negotiations -->
+<string id="st_dyn_news_group_conv_4_meta">
+    <text>trading,negotiation,friendly|3|3</text>
+</string>
+<string id="st_dyn_news_group_conv_4_turn_1">
+    <text>seller|У меня 20 аптечек, 50 бинтов и 100 патронов 5.45. Интересно?</text>
+</string>
+<string id="st_dyn_news_group_conv_4_turn_2">
+    <text>buyer|Зависит от цены. Сколько хочешь?</text>
+</string>
+<string id="st_dyn_news_group_conv_4_turn_3">
+    <text>mediator|Погодь, ща пробью актуальные цены по рынку...</text>
+</string>
+<string id="st_dyn_news_group_conv_4_turn_4">
+    <text>seller|Думаю 25к за весь комплект.</text>
+</string>
+<string id="st_dyn_news_group_conv_4_turn_5">
+    <text>buyer|Да это грабёж! Дам 15к.</text>
+</string>
+<string id="st_dyn_news_group_conv_4_turn_6">
+    <text>mediator|Справедливо где-то 20к. %seller_name%, это норм цена.</text>
+</string>
+<string id="st_dyn_news_group_conv_4_turn_7">
+    <text>seller|Ладно, 20к. Но тащишь груз ты, %buyer_first%.</text>
+</string>
+
+<!-- Group Conversation 5: Anomaly Research -->
+<string id="st_dyn_news_group_conv_5_meta">
+    <text>science,anomaly,research|3|4</text>
+</string>
+<string id="st_dyn_news_group_conv_5_turn_1">
+    <text>scientist|Гравитационные показатели у %location% просто зашкаливают!</text>
+</string>
+<string id="st_dyn_news_group_conv_5_turn_2">
+    <text>escort|Туда вообще безопасно лезть? Мне, вообще-то, вас, яйцеголовых, живыми держать.</text>
+</string>
+<string id="st_dyn_news_group_conv_5_turn_3">
+    <text>assistant|Надо подойти ближе для точных замеров, %escort_name%.</text>
+</string>
+<string id="st_dyn_news_group_conv_5_turn_4">
+    <text>scientist|Гляньте на показания! Похоже на новый тип аномалии!</text>
+</string>
+<string id="st_dyn_news_group_conv_5_turn_5">
+    <text>escort|Мне это не нравится. Детектор с ума сходит.</text>
+</string>
+<string id="st_dyn_news_group_conv_5_turn_6">
+    <text>assistant|Ещё чуть-чуть ближе... данные просто охуенные!</text>
+</string>
+<string id="st_dyn_news_group_conv_5_turn_7">
+    <text>escort|Всё, хорош. Отходим. СЕЙЧАС!</text>
+</string>
+
+<!-- Group Conversation 6: Bar Argument -->
+<string id="st_dyn_news_group_conv_6_meta">
+    <text>humor,argument,bar|3|4</text>
+</string>
+<string id="st_dyn_news_group_conv_6_turn_1">
+    <text>drunk|Да говорю тебе, видел псевдогиганта, который жонглировал машинами!</text>
+</string>
+<string id="st_dyn_news_group_conv_6_turn_2">
+    <text>skeptic|%drunk_name%, ты сколько водки в себя залил?</text>
+</string>
+<string id="st_dyn_news_group_conv_6_turn_3">
+    <text>witness|Вообще-то... кажется, я тоже это видел. У завода.</text>
+</string>
+<string id="st_dyn_news_group_conv_6_turn_4">
+    <text>bartender|Если вам уже жонглирующие мутанты мерещатся, я вам больше не наливаю.</text>
+</string>
+<string id="st_dyn_news_group_conv_6_turn_5">
+    <text>drunk|Клянусь матерью! Это было реально!</text>
+</string>
+<string id="st_dyn_news_group_conv_6_turn_6">
+    <text>skeptic|%witness_name%, не поддакивай ему!</text>
+</string>
+<string id="st_dyn_news_group_conv_6_turn_7">
+    <text>witness|Смотри, я к чему... Зона ебанутая, понял?</text>
+</string>
+
+<!-- Group Conversation 7: Rescue Operation -->
+<string id="st_dyn_news_group_conv_7_meta">
+    <text>rescue,urgent,teamwork|4|5</text>
+</string>
+<string id="st_dyn_news_group_conv_7_turn_1">
+    <text>survivor|Есть кто живой? Я заперт в подвале у %location%!</text>
+</string>
+<string id="st_dyn_news_group_conv_7_turn_2">
+    <text>responder|Это %responder_name%, буду через 10 минут! Какая у тебя обстановка?</text>
+</string>
+<string id="st_dyn_news_group_conv_7_turn_3">
+    <text>survivor|Контролёр наверху... весь мой отряд положил... я ранен...</text>
+</string>
+<string id="st_dyn_news_group_conv_7_turn_4">
+    <text>medic|%survivor_name%, это медик. Насколько всё хуёво?</text>
+</string>
+<string id="st_dyn_news_group_conv_7_turn_5">
+    <text>backup|Тащу пси-защиту. %responder_name%, дождись меня!</text>
+</string>
+<string id="st_dyn_news_group_conv_7_turn_6">
+    <text>survivor|Сильно кровит... плывёт в глазах... быстрее, прошу...</text>
+</string>
+<string id="st_dyn_news_group_conv_7_turn_7">
+    <text>responder|Не вырубайся! Мы почти на месте! %medic_name%, готовь расходники!</text>
+</string>
+<string id="st_dyn_news_group_conv_7_turn_8">
+    <text>backup|Вижу здание. Захожу на штурме!</text>
+</string>
+
+<!-- Group Conversation 8: Faction Politics -->
+<string id="st_dyn_news_group_conv_8_meta">
+    <text>faction,politics,debate|3|4</text>
+</string>
+<string id="st_dyn_news_group_conv_8_turn_1">
+    <text>diplomat|Нужно обсудить условия перемирия с %other_faction%.</text>
+</string>
+<string id="st_dyn_news_group_conv_8_turn_2">
+    <text>hawk|Перемирие? После того, что они устроили на прошлой неделе? Да хер там!</text>
+</string>
+<string id="st_dyn_news_group_conv_8_turn_3">
+    <text>moderate|%hawk_name%, мы уже слишком многих потеряли. Может, пора говорить.</text>
+</string>
+<string id="st_dyn_news_group_conv_8_turn_4">
+    <text>diplomat|Условия простые: они не лезут на нашу территорию, мы — на их.</text>
+</string>
+<string id="st_dyn_news_group_conv_8_turn_5">
+    <text>hawk|И что, когда они это нарушат? А они нарушат!</text>
+</string>
+<string id="st_dyn_news_group_conv_8_turn_6">
+    <text>moderate|Тогда у нас будут все основания ответить. Сейчас агрессорами выглядим мы.</text>
+</string>
+<string id="st_dyn_news_group_conv_8_turn_7">
+    <text>diplomat|Завтра встречаюсь с их представителем. Последние возражения?</text>
+</string>
+<string id="st_dyn_news_group_conv_8_turn_8">
+    <text>hawk|Просто... смотри в оба, %diplomat_name%.</text>
+</string>
+
+<!-- Group Conversation 9: Stash Discovery -->
+<string id="st_dyn_news_group_conv_9_meta">
+    <text>stash,discovery,excitement|3|4</text>
+</string>
+<string id="st_dyn_news_group_conv_9_turn_1">
+    <text>finder|Пацаны! Я нашёл тайник Стрелка! Координаты были настоящие!</text>
+</string>
+<string id="st_dyn_news_group_conv_9_turn_2">
+    <text>partner|Да ну нахуй! Что внутри?</text>
+</string>
+<string id="st_dyn_news_group_conv_9_turn_3">
+    <text>finder|Арты, стволы, документы... Это просто жирнейший куш!</text>
+</string>
+<string id="st_dyn_news_group_conv_9_turn_4">
+    <text>lookout|Тише нахрен! Тебя сейчас пол-Зоны услышит!</text>
+</string>
+<string id="st_dyn_news_group_conv_9_turn_5">
+    <text>partner|%finder_name%, грузи всё, что можешь. Сколько унесём?</text>
+</string>
+<string id="st_dyn_news_group_conv_9_turn_6">
+    <text>finder|Тут слишком много! Придётся ходить в несколько заходов.</text>
+</string>
+<string id="st_dyn_news_group_conv_9_turn_7">
+    <text>lookout|Движение на западе! Кто-то идёт!</text>
+</string>
+<string id="st_dyn_news_group_conv_9_turn_8">
+    <text>partner|Хватай что можешь! СВАЛИВАЕМ, СЕЙЧАС!</text>
+</string>
+
+<!-- Group Conversation 10: Technical Problem -->
+<string id="st_dyn_news_group_conv_10_meta">
+    <text>technical,problem,cooperation|3|3</text>
+</string>
+<string id="st_dyn_news_group_conv_10_turn_1">
+    <text>tech|Главный генератор только что сдох. Сидим на резерве.</text>
+</string>
+<string id="st_dyn_news_group_conv_10_turn_2">
+    <text>chief|Сколько протянем на резерве?</text>
+</string>
+<string id="st_dyn_news_group_conv_10_turn_3">
+    <text>assistant|Часа 2, если вырубить всё не критичное.</text>
+</string>
+<string id="st_dyn_news_group_conv_10_turn_4">
+    <text>tech|Починю, но нужны детали со старой станции.</text>
+</string>
+<string id="st_dyn_news_group_conv_10_turn_5">
+    <text>chief|Это в радиационной зоне. %assistant_name%, костюмы у нас есть?</text>
+</string>
+<string id="st_dyn_news_group_conv_10_turn_6">
+    <text>assistant|Два рабочих костюма. Но уровень радиации...</text>
+</string>
+<string id="st_dyn_news_group_conv_10_turn_7">
+    <text>tech|Выбора нет. Я иду. Нужен кто-то прикрывать спину.</text>
+</string>
+<string id="st_dyn_news_group_conv_10_turn_8">
+    <text>chief|Пойду с тобой. %assistant_name%, следи за нашими показателями.</text>
+</string>
+
+</string_table>

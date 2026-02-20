@@ -1,0 +1,3999 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <!-- Extended Conversation 1: Artifact Deal (5 turns) -->
+    <string id="st_dyn_news_extended_conv_1_meta">
+        <text>artifacts,trading,friendly</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_1_turn_1">
+        <text>Эй, %other_first_name%, ты всё ещё ищешь этот артефакт Души?</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_1_turn_2">
+        <text>Ещё как, чёрт побери! Правда нашёл?</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_1_turn_3">
+        <text>Может быть. Зависит от того, что предложишь. Эту штуку добыть было непросто.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_1_turn_4">
+        <text>Как насчёт 25 тысяч рублей и того БЦ Винтар, который ты хотел?</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_1_turn_5">
+        <text>Ладно, беру! Встретимся в %location%, там же, где и в прошлый раз.</text>
+    </string>
+
+    <!-- Extended Conversation 2: Mutant Warning (4 turns) -->
+    <string id="st_dyn_news_extended_conv_2_meta">
+        <text>mutants,danger,urgent</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_2_turn_1">
+        <text>%other_last_name%! Не суйся на старый склад! Там гнездо кровососов!</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_2_turn_2">
+        <text>Дерьмо! Сколько ты видел, %other_first_name%?</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_2_turn_3">
+        <text>Минимум трое, может и больше. Ивана с Петровым уже потеряли.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_2_turn_4">
+        <text>Спасибо за предупреждение, брат. Сейчас раскидаю по каналам.</text>
+    </string>
+
+    <!-- Extended Conversation 3: Faction Tension (6 turns) -->
+    <string id="st_dyn_news_extended_conv_3_meta">
+        <text>faction,tension,rivalry</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_3_turn_1">
+        <text>Эй, мыши из %other_faction%, опять шастали по нашей земле.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_3_turn_2">
+        <text>Наша территория? Да всем плевать на твои слова. Вы просто посмешище.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_3_turn_3">
+        <text>Панчлайн тебе не понравится.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_3_turn_4">
+        <text>ТОГДА ПРИХОДИТЕ! Мы готовы.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_3_turn_5">
+        <text>Вы, %other_faction% мрази, лучше оглядывайтесь.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_3_turn_6">
+        <text>Как всегда, один треп.</text>
+    </string>
+	<!-- Extended Conversation 4: Faction Tension (3 turns) -->
+    <string id="st_dyn_news_extended_conv_4_meta">
+        <text>faction,tension,rivalry</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_4_turn_1">
+        <text>Вы, %other_faction%, опять в наш сектор полезли.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_4_turn_2">
+        <text>Лучше заткнись, ты всё равно ничего не решаешь.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_4_turn_3">
+        <text>Ты первым ляжешь, %speaker1_last_name%.</text>
+    </string>
+
+    <!-- Extended Conversation 5: Faction Tension (4 turns) -->
+    <string id="st_dyn_news_extended_conv_5_meta">
+        <text>faction,tension,rivalry</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_5_turn_1">
+        <text>Эй, %other_faction% рты, мы у %location% все ваши ловушки сняли. Идиоты.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_5_turn_2">
+        <text>И откуда ты знаешь, что снял всё, а не десятую часть?</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_5_turn_3">
+        <text>Хорошо, слушай, я не собираюсь с тобой спорить про философию разминирования и ошибку выжившего.</text>
+    </string>
+    <string id="st_dyn_news_extended_conv_5_turn_4">
+        <text>Надеюсь, твой шмот так же крут, как твой язык.</text>
+    </string>
+	
+	<!-- Extended Conversation 6: Faction Tension (5 turns) -->
+	<string id="st_dyn_news_extended_conv_6_meta">
+    <text>faction,tension,rivalry</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_6_turn_1">
+    <text>Видели, как вы, %other_faction%, шкерились у %location%. За добавкой пришли?</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_6_turn_2">
+    <text>Ходим где хотим. У тебя тут не власть, а куча трупов.</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_6_turn_3">
+    <text>Повтори это, когда не будешь прятаться в аномальном тумане.</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_6_turn_4">
+    <text>Заходи в туман - мы тебя там подсветим.</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_6_turn_5">
+    <text>Опять пустой трёп от панков %other_faction%.</text>
+	</string>
+	
+	
+	<!-- Extended Conversation 7: Faction Tension (2 turns) -->
+	<string id="st_dyn_news_extended_conv_7_meta">
+    <text>faction,tension,rivalry</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_7_turn_1">
+    <text>Чёрт, %other_faction% мрази опять шмонали наших мёртвых.</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_7_turn_2">
+    <text>Вашим мертвецам шмот не нужен. Считай это перераспределением, идиот.</text>
+	</string>
+	<!-- Extended Conversation 8: Trading (5 turns) -->
+	<string id="st_dyn_news_extended_conv_8_meta">
+    <text>artifacts,trading,friendly</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_8_turn_1">
+    <text>%other_first_name%, слышал, ты заполучил артефакт Лунного света.</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_8_turn_2">
+    <text>Может и есть. Смотря какая сейчас цена за штуку.</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_8_turn_3">
+    <text>15к рублей и это доработанный ВСС. Честная торговля?</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_8_turn_4">
+    <text>Эх, давай 20к и по рукам. Эту штуку добыть было непросто.</text>
+	</string>
+	<string id="st_dyn_news_extended_conv_8_turn_5">
+    <text>Ладно, 20к и точка. Встречаемся у %location% через часок.</text>
+	</string>
+
+<!-- Extended Conversation 9: Bandit Raid Warning -->
+<string id="st_dyn_news_extended_conv_9_meta">
+    <text>friendly,warning,story</text>
+</string>
+<string id="st_dyn_news_extended_conv_9_turn_1">
+    <text>%other_last_name%! Неизвестный конвой идёт к тебе, примерно полдюжины рыл!</text>
+</string>
+<string id="st_dyn_news_extended_conv_9_turn_2">
+    <text>Дерьмо! Как далеко они, %speaker1_first_name%?</text>
+</string>
+<string id="st_dyn_news_extended_conv_9_turn_3">
+    <text>Минут пятнадцать максимум. Вооружены серьёзно, шевелись быстрее.</text>
+</string>
+<string id="st_dyn_news_extended_conv_9_turn_4">
+    <text>Спасибо за наводку. Я сваливаю прямо сейчас!</text>
+</string>
+
+<!-- Extended Conversation 10: Equipment Repair -->
+<string id="st_dyn_news_extended_conv_10_meta">
+    <text>equipment,help,friendly</text>
+</string>
+<string id="st_dyn_news_extended_conv_10_turn_1">
+    <text>%other_first_name%, брат, винтовку клинит каждые пару выстрелов. В оружии шаришь?</text>
+</string>
+<string id="st_dyn_news_extended_conv_10_turn_2">
+    <text>Дай угадаю - АК-74? Эти штуки быстро забиваются в этой радиоактивной грязи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_10_turn_3">
+    <text>Не гони. АК созданы для грязи, ты с ума сошёл?</text>
+</string>
+<string id="st_dyn_news_extended_conv_10_turn_4">
+    <text>Брат, без обид, но ты не понимаешь, о чем говоришь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_10_turn_5">
+    <text>Ладно, спорить не буду. Я в нычку, оставлю АК у тебя на верстаке.</text>
+</string>
+
+<!-- Extended Conversation 11: Faction Tension -->
+<string id="st_dyn_news_extended_conv_11_meta">
+    <text>faction,tension,rivalry</text>
+</string>
+<string id="st_dyn_news_extended_conv_11_turn_1">
+    <text>Эй, %other_faction% ублюдки, решили, что весь район ваш?!</text>
+</string>
+<string id="st_dyn_news_extended_conv_11_turn_2">
+    <text>Мы эту землю заслужили. Не то что вы, %speaker1_faction% трусы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_11_turn_3">
+    <text>Единственное, что ты заслужил - это мои яйца на подбородке. Сядь и молчи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_11_turn_4">
+    <text>xD Ладно, смешно вышло, но ты всё равно гнида.</text>
+</string>
+
+
+<!-- Extended Conversation 12: Mutant Hunt -->
+<string id="st_dyn_news_extended_conv_12_meta">
+    <text>mutants,hunting,cooperation</text>
+</string>
+<string id="st_dyn_news_extended_conv_12_turn_1">
+    <text>%other_first_name%, хочешь объединиться за наградой за Химеру?</text>
+</string>
+<string id="st_dyn_news_extended_conv_12_turn_2">
+    <text>Да! Эта штука чуть не застала нас врасплох пару дней назад. Какой план?</text>
+</string>
+<string id="st_dyn_news_extended_conv_12_turn_3">
+    <text>Я выманю его на открытое место, а ты подстрели его автодробью из кустов. Я прикрою тебя СВД</text>
+</string>
+<string id="st_dyn_news_extended_conv_12_turn_4">
+    <text>Рискованно, но может сработать. Делим 40 на 60, я беру больший риск.</text>
+</string>
+<string id="st_dyn_news_extended_conv_12_turn_5">
+    <text>По рукам. Снаряжаемся и выдвигаемся.</text>
+</string>
+
+<!-- Extended Conversation 13: Emergency Rescue -->
+<string id="st_dyn_news_extended_conv_13_meta">
+    <text>emergency,rescue,urgent</text>
+</string>
+<string id="st_dyn_news_extended_conv_13_turn_1">
+    <text>МАЙДЕЙ! %other_first_name%, меня прижали снорки %location%!</text>
+</string>
+<string id="st_dyn_news_extended_conv_13_turn_2">
+    <text>Держись %speaker1_last_name%! Сколько их?</text>
+</string>
+<string id="st_dyn_news_extended_conv_13_turn_3">
+    <text>Минимум пять, а может и больше! Кончаются патроны!</text>
+</string>
+<string id="st_dyn_news_extended_conv_13_turn_4">
+    <text>Я буду через пять минут с гранатами. Попробуй отступить в укрытие!</text>
+</string>
+
+<!-- Extended Conversation 14: Information Trade -->
+<string id="st_dyn_news_extended_conv_14_meta">
+    <text>information,trading,friendly</text>
+</string>
+<string id="st_dyn_news_extended_conv_14_turn_1">
+    <text>%other_first_name%, есть инфа по свежему спавну арта. Интересно?</text>
+</string>
+<string id="st_dyn_news_extended_conv_14_turn_2">
+    <text>Зависит от цены и местоположения. Что за артефакт?</text>
+</string>
+<string id="st_dyn_news_extended_conv_14_turn_3">
+    <text>«Вспышка», хорошего качества. 5 тысяч за координаты.</text>
+</string>
+<string id="st_dyn_news_extended_conv_14_turn_4">
+    <text>Жирно. Давай 3к и останусь тебе должен.</text>
+</string>
+<string id="st_dyn_news_extended_conv_14_turn_5">
+    <text>По рукам. Уходим в приватный канал.</text>
+</string>
+
+<!-- Extended Conversation 15: Supply Problems -->
+<string id="st_dyn_news_extended_conv_15_meta">
+    <text>supplies,problems,friendly</text>
+</string>
+<string id="st_dyn_news_extended_conv_15_turn_1">
+    <text>%other_first_name%, дела хреновые. Запасы почти на нуле.</text>
+</string>
+<string id="st_dyn_news_extended_conv_15_turn_2">
+    <text>Насколько всё плохо?</text>
+</string>
+<string id="st_dyn_news_extended_conv_15_turn_3">
+    <text>Плохо. Если повезёт, на неделю хватит. Надо срочно добирать запасы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_15_turn_4">
+    <text>Знаешь кого-нибудь, кто торгует? Мой обычный парень исчез.</text>
+</string>
+<string id="st_dyn_news_extended_conv_15_turn_5">
+    <text>Не совсем, ты сказал, что справишься.</text>
+</string>
+
+<!-- Extended Conversation 16: Zone Anomaly -->
+<string id="st_dyn_news_extended_conv_16_meta">
+    <text>anomaly,danger,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_16_turn_1">
+    <text>%other_first_name%, держись подальше от старой фабрики. Новое аномальное поле появилось в одночасье.</text>
+</string>
+<string id="st_dyn_news_extended_conv_16_turn_2">
+    <text>Какая аномалия? Грави или электрическая?</text>
+</string>
+<string id="st_dyn_news_extended_conv_16_turn_3">
+    <text>Что-то, чего я никогда раньше не видел. Превращает металл в стекло, органику в камень.</text>
+</string>
+<string id="st_dyn_news_extended_conv_16_turn_4">
+    <text>Чёрт... спасибо за наводку. Я как раз туда собирался.</text>
+</string>
+<string id="st_dyn_news_extended_conv_16_turn_5">
+    <text>Даже близко не лезь. Я на краю поля хороший детектор угробил.</text>
+</string>
+
+<!-- Extended Conversation 17: Stash Discovery -->
+<string id="st_dyn_news_extended_conv_17_meta">
+    <text>stash,discovery,greed</text>
+</string>
+<string id="st_dyn_news_extended_conv_17_turn_1">
+    <text>%other_first_name%, кто-то украл половину моих запасов. Слышал что-нибудь об этом?</text>
+</string>
+<string id="st_dyn_news_extended_conv_17_turn_2">
+    <text>Блин, не, ничего не слышал, брат.</text>
+</string>
+<string id="st_dyn_news_extended_conv_17_turn_3">
+    <text>Кто-то точно знает. Если поймаю — порву.</text>
+</string>
+<string id="st_dyn_news_extended_conv_17_turn_4">
+    <text>Возможно, это те новички, которые пришли вчера.</text>
+</string>
+<string id="st_dyn_news_extended_conv_17_turn_5">
+    <text>Новички, да? Я найду этих ублюдков.</text>
+</string>
+<string id="st_dyn_news_extended_conv_17_turn_6">
+    <text>Скажи, если нужна помощь.</text>
+</string>
+
+<!-- Extended Conversation 18: Faction Peace Talk -->
+<string id="st_dyn_news_extended_conv_18_meta">
+    <text>faction,tension,rivalry</text>
+</string>
+<string id="st_dyn_news_extended_conv_18_turn_1">
+    <text>Слушайте, %other_faction%. Предлагаем перемирие у %location%.</text>
+</string>
+<string id="st_dyn_news_extended_conv_18_turn_2">
+    <text>Перемирие? С каких пор %speaker1_faction% заботится о мире?</text>
+</string>
+<string id="st_dyn_news_extended_conv_18_turn_3">
+    <text>Потому что мы все теряем бойцов из-за свежей миграции мутантов в этом районе.</text>
+</string>
+<string id="st_dyn_news_extended_conv_18_turn_4">
+    <text>...Передам командованию. Ничего не обещаю.</text>
+</string>
+
+<!-- Extended Conversation 19: Medical Emergency -->
+<string id="st_dyn_news_extended_conv_19_meta">
+    <text>medical,emergency,urgent</text>
+</string>
+<string id="st_dyn_news_extended_conv_19_turn_1">
+    <text>%other_first_name%! Срочно нужен медик! У Глюковского сильное кровотечение!</text>
+</string>
+<string id="st_dyn_news_extended_conv_19_turn_2">
+    <text>Что случилось? Где ты?</text>
+</string>
+<string id="st_dyn_news_extended_conv_19_turn_3">
+    <text>Нападение кабана возле %location%. Разорвал его доспехи, как бумагу!</text>
+</string>
+<string id="st_dyn_news_extended_conv_19_turn_4">
+    <text>Зажимайте рану! Я уже отправляю к тебе группу!</text>
+</string>
+<string id="st_dyn_news_extended_conv_19_turn_5">
+    <text>Шевелитесь, мать вашу! Я это кровотечение не держу!</text>
+</string>
+
+<!-- Extended Conversation 20: Rookie Advice -->
+<string id="st_dyn_news_extended_conv_20_meta">
+    <text>advice,emission,experienced</text>
+</string>
+<string id="st_dyn_news_extended_conv_20_turn_1">
+    <text>Небо возле Ростка покраснело. Еле успел прикрыться.</text>
+</string>
+<string id="st_dyn_news_extended_conv_20_turn_2">
+    <text>Да, это красное свечение означает, что нужно бросить все и спрятаться.</text>
+</string>
+<string id="st_dyn_news_extended_conv_20_turn_3">
+    <text>Если тебя там прижмут, где можно пересидеть?</text>
+</string>
+<string id="st_dyn_news_extended_conv_20_turn_4">
+    <text>Старый блокпост к северу от свалки. Крыша еще есть.</text>
+</string>
+<string id="st_dyn_news_extended_conv_20_turn_5">
+    <text>Спасибо. Должен тебе.</text>
+</string>
+
+<!-- Extended Conversation 21: Faction Betrayal -->
+<string id="st_dyn_news_extended_conv_21_meta">
+    <text>faction,betrayal,anger</text>
+</string>
+<string id="st_dyn_news_extended_conv_21_turn_1">
+    <text>Вы, змеи %other_faction%, нарушили перемирие в %location%!</text>
+</string>
+<string id="st_dyn_news_extended_conv_21_turn_2">
+    <text>Это были не мы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_21_turn_3">
+    <text>Чушь собачья! У них было %other_faction% патчей!</text>
+</string>
+<string id="st_dyn_news_extended_conv_21_turn_4">
+    <text>Могли быть ренегаты в наших нашивках. Подумай башкой.</text>
+</string>
+<string id="st_dyn_news_extended_conv_21_turn_5">
+    <text>Я до конца это раскопаю, не сомневайся.</text>
+</string>
+<string id="st_dyn_news_extended_conv_21_turn_6">
+    <text>И правильно. Тебе и не надо волноваться.</text>
+</string>
+
+<!-- Extended Conversation 22: Controller Encounter -->
+<string id="st_dyn_news_extended_conv_22_meta">
+    <text>mutants,controller,horror</text>
+</string>
+<string id="st_dyn_news_extended_conv_22_turn_1">
+    <text>Брат... что-то не так... слышу голоса...</text>
+</string>
+<string id="st_dyn_news_extended_conv_22_turn_2">
+    <text>Чёрт! Контролёр рядом! Смотри под ноги, взгляд не поднимай!</text>
+</string>
+<string id="st_dyn_news_extended_conv_22_turn_3">
+    <text>Не могу... устоять... оно зовёт меня...</text>
+</string>
+<string id="st_dyn_news_extended_conv_22_turn_4">
+    <text>ОЧНИСЬ, БРАТ!</text>
+</string>
+
+
+<!-- Extended Conversation 23: Black Market Deal -->
+<string id="st_dyn_news_extended_conv_23_meta">
+    <text>trading,illegal,suspicious</text>
+</string>
+<string id="st_dyn_news_extended_conv_23_turn_1">
+    <text>%other_first_name%, я могу достать тебе ту экспериментальную винтовку, которую ты хотел.</text>
+</string>
+<string id="st_dyn_news_extended_conv_23_turn_2">
+    <text>Винтовка Гаусса? Я думал, это только военные.</text>
+</string>
+<string id="st_dyn_news_extended_conv_23_turn_3">
+    <text>Скажем так, я знаю парня, который знает парня с тайником. 150к руб.</text>
+</string>
+<string id="st_dyn_news_extended_conv_23_turn_4">
+    <text>Это... вообще-то разумно. Скинешь инфу?</text>
+</string>
+<string id="st_dyn_news_extended_conv_23_turn_5">
+    <text>Готово. Проверяй приват.</text>
+</string>
+
+
+<!-- Extended Conversation 24: Zone Mystery -->
+<string id="st_dyn_news_extended_conv_24_meta">
+    <text>mystery,zone,investigation</text>
+</string>
+<string id="st_dyn_news_extended_conv_24_turn_1">
+    <text>%other_first_name%, слышал про пропажи сталкеров у Выжигателя?</text>
+</string>
+<string id="st_dyn_news_extended_conv_24_turn_2">
+    <text>Да, но люди там всегда пропадают. Что отличается?</text>
+</string>
+<string id="st_dyn_news_extended_conv_24_turn_3">
+    <text>Тела всплывают через несколько дней, за много километров, будто законсервированные.</text>
+</string>
+<string id="st_dyn_news_extended_conv_24_turn_4">
+    <text>Это... ненормально даже для Зоны.</text>
+</string>
+<string id="st_dyn_news_extended_conv_24_turn_5">
+    <text>Столько лет прошло, а мы всё ещё ни хрена не понимаем, как Зона устроена.</text>
+</string>
+
+<!-- Extended Conversation 25: Drunk Rambling -->
+<string id="st_dyn_news_extended_conv_25_meta">
+    <text>humor,drunk,friendly</text>
+</string>
+<string id="st_dyn_news_extended_conv_25_turn_1">
+    <text>%other_first_name%! Мой лучший друг! Я же тебе говорил... ты мой чертов засранец!?</text>
+</string>
+<string id="st_dyn_news_extended_conv_25_turn_2">
+    <text>Сука... ты сколько водки в себя влил?</text>
+</string>
+<string id="st_dyn_news_extended_conv_25_turn_3">
+    <text>Мало! Зона... она мне поёт! ИДИ СЮДА!</text>
+</string>
+<string id="st_dyn_news_extended_conv_25_turn_4">
+    <text>Ладно, приятель, пора отоспаться, прежде чем ты попадешь в аномалию.</text>
+</string>
+
+
+<!-- Extended Conversation 26: Faction Territory Dispute -->
+<string id="st_dyn_news_extended_conv_26_meta">
+    <text>faction,territory,negotiation</text>
+</string>
+<string id="st_dyn_news_extended_conv_26_turn_1">
+    <text>Сейчас это территория %speaker1_faction%. Собирай свое дерьмо и уходи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_26_turn_2">
+    <text>Теперь я знаю, что ты разговариваешь не с нами.</text>
+</string>
+<string id="st_dyn_news_extended_conv_26_turn_3">
+    <text>Наблюдайте за нами. У вас есть 24 часа.</text>
+</string>
+<string id="st_dyn_news_extended_conv_26_turn_4">
+    <text>Ага, щас. Удачи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_26_turn_5">
+    <text>Собери мужиков, Сергей.</text>
+</string>
+
+
+<!-- Extended Conversation 27: Mutant Research -->
+<!-- Extended Conversation 27: Mutant Research (REVISED - Less Scientific) -->
+<string id="st_dyn_news_extended_conv_27_meta">
+    <text>mutants,bloodsucker,crazy_job</text>
+</string>
+<string id="st_dyn_news_extended_conv_27_turn_1">
+    <text>%other_first_name%, некоторым сумасшедшим яйцеголовым нужен живой кровосос.</text>
+</string>
+<string id="st_dyn_news_extended_conv_27_turn_2">
+    <text>ЖИВОЙ? Они сошли с ума?</text>
+</string>
+<string id="st_dyn_news_extended_conv_27_turn_3">
+    <text>120к за живого. Всё ещё кажется безумием?</text>
+</string>
+<string id="st_dyn_news_extended_conv_27_turn_4">
+    <text>...Дерьмо. Как, черт возьми, мы вообще это сделаем?</text>
+</string>
+<string id="st_dyn_news_extended_conv_27_turn_5">
+    <text>Есть мысли. Ты в деле или мимо?</text>
+</string>
+<string id="st_dyn_news_extended_conv_27_turn_6">
+    <text>Скидывай детали.</text>
+</string>
+
+<!-- Extended Conversation 28: Lost Squad -->
+<string id="st_dyn_news_extended_conv_28_meta">
+    <text>missing,group,urgent</text>
+</string>
+<string id="st_dyn_news_extended_conv_28_turn_1">
+    <text>Та группа, которая отправилась в Рыжий Лес, не вернулась.</text>
+</string>
+<string id="st_dyn_news_extended_conv_28_turn_2">
+    <text>Как долго их не было?</text>
+</string>
+<string id="st_dyn_news_extended_conv_28_turn_3">
+    <text>Слишком долго. Уже шесть часов сверх времени.</text>
+</string>
+<string id="st_dyn_news_extended_conv_28_turn_4">
+    <text>Блядь. Идём их вытаскивать или как?</text>
+</string>
+<string id="st_dyn_news_extended_conv_28_turn_5">
+    <text>Да. Снаряжайся.</text>
+</string>
+
+<!-- Extended Conversation 29: Food Shortage -->
+<string id="st_dyn_news_extended_conv_29_meta">
+    <text>supplies,food,problem</text>
+</string>
+<string id="st_dyn_news_extended_conv_29_turn_1">
+    <text>%other_first_name%, наших запасов явно не хватает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_29_turn_2">
+    <text>Сука. Как охота прошла?</text>
+</string>
+<string id="st_dyn_news_extended_conv_29_turn_3">
+    <text>Никакой чертовой удачи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_29_turn_4">
+    <text>Когда вернусь, спланируем вылазку за лутом на завтра. Я почти закрыл сделку.</text>
+</string>
+
+<!-- Extended Conversation 30: Artifact Malfunction -->
+<string id="st_dyn_news_extended_conv_30_meta">
+    <text>artifacts,danger,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_30_turn_1">
+    <text>НЕ ТРОГАЙ ЭТОТ АРТЕФАКТ! %other_first_name%, НАЗАД, СЕЙЧАС ЖЕ!</text>
+</string>
+<string id="st_dyn_news_extended_conv_30_turn_2">
+    <text>Что? Почему? Просто немного светится...</text>
+</string>
+<string id="st_dyn_news_extended_conv_30_turn_3">
+    <text>БЛЯТЬ ОБРАТНО!</text>
+</string>
+<string id="st_dyn_news_extended_conv_30_turn_4">
+    <text>Медленно отступаю...</text>
+</string>
+<string id="st_dyn_news_extended_conv_30_turn_5">
+    <text>Тебе лучше не знать, что я через прицел увидел. Перегруппируемся.</text>
+</string>
+
+<!-- Extended Conversation 31: Campfire Story -->
+<string id="st_dyn_news_extended_conv_31_meta">
+    <text>story,campfire,horror</text>
+</string>
+<string id="st_dyn_news_extended_conv_31_turn_1">
+    <text>Кто-нибудь еще слышал о том сталкере, который застрял в петле времени под Янтарем?</text>
+</string>
+<string id="st_dyn_news_extended_conv_31_turn_2">
+    <text>Бредовая история. Время так не работает, даже в Зоне.</text>
+</string>
+<string id="st_dyn_news_extended_conv_31_turn_3">
+    <text>Не, брат, я его видел. За день постарел лет на десять. Глаза в хлам, всё бормотал: «петля замыкается».</text>
+</string>
+<string id="st_dyn_news_extended_conv_31_turn_4">
+    <text>...чёрт. Похоже, Янтарь пока лучше обходить стороной.</text>
+</string>
+
+<!-- Extended Conversation 32: Old Timer's Wisdom -->
+<string id="st_dyn_news_extended_conv_32_meta">
+    <text>warning,danger,advice</text>
+</string>
+<string id="st_dyn_news_extended_conv_32_turn_1">
+    <text>Видишь эти круги в траве? Держись от них подальше, нахрен.</text>
+</string>
+<string id="st_dyn_news_extended_conv_32_turn_2">
+    <text>Почему? Просто трава, да?</text>
+</string>
+<string id="st_dyn_news_extended_conv_32_turn_3">
+    <text>Нет. Зона творит там какую-то дичь. Люди пропадают.</text>
+</string>
+<string id="st_dyn_news_extended_conv_32_turn_4">
+    <text>Пропадают в смысле как?</text>
+</string>
+<string id="st_dyn_news_extended_conv_32_turn_5">
+    <text>Потом эти куски по разным точкам всплывают. Короче, просто обходи стороной.</text>
+</string>
+
+<!-- Extended Conversation 33: Close Call Story -->
+<string id="st_dyn_news_extended_conv_33_meta">
+    <text>story,survival,close_call</text>
+</string>
+<string id="st_dyn_news_extended_conv_33_turn_1">
+    <text>Пацаны, я только что чуть не сдох — ближе к смерти в жизни не был.</text>
+</string>
+<string id="st_dyn_news_extended_conv_33_turn_2">
+    <text>Что случилось, %speaker1_first_name%? По голосу тебя трясёт.</text>
+</string>
+<string id="st_dyn_news_extended_conv_33_turn_3">
+    <text>Псевдогигант преследовал меня в кружащемся поле. Пришлось уклоняться между аномалиями, пока эта штука проносилась сквозь них.</text>
+</string>
+<string id="st_dyn_news_extended_conv_33_turn_4">
+    <text>Да ну нахрен, не верю, что ты это пережил.</text>
+</string>
+<string id="st_dyn_news_extended_conv_33_turn_5">
+    <text>«Вихри» его порвали в мясо. Я весь в кусках мутанта, но жив. Нужна водка. Много водки.</text>
+</string>
+
+<!-- Extended Conversation 34: Artifact Hunting Gone Wrong -->
+<string id="st_dyn_news_extended_conv_34_meta">
+    <text>artifacts,danger,story</text>
+</string>
+<string id="st_dyn_news_extended_conv_34_turn_1">
+    <text>Помнишь тот «Колобок», за которым я бегал? Нашёл.</text>
+</string>
+<string id="st_dyn_news_extended_conv_34_turn_2">
+    <text>Красота! Минимум сорокет стоит!</text>
+</string>
+<string id="st_dyn_news_extended_conv_34_turn_3">
+    <text>Ага, щас. Это была приманка — бандюки всё заранее разложили.</text>
+</string>
+<string id="st_dyn_news_extended_conv_34_turn_4">
+    <text>Черт, они тебя поймали?</text>
+</string>
+<string id="st_dyn_news_extended_conv_34_turn_5">
+    <text>Не, но пришлось бросить детектор и почти весь БК... неделю уже на одной «Туристической радости» сижу.</text>
+</string>
+
+<!-- Extended Conversation 35: Weird Zone Phenomenon -->
+<string id="st_dyn_news_extended_conv_35_meta">
+    <text>mystery,zone,phenomenon</text>
+</string>
+<string id="st_dyn_news_extended_conv_35_turn_1">
+    <text>Ребята, я только что увидел то, чего не должно быть.</text>
+</string>
+<string id="st_dyn_news_extended_conv_35_turn_2">
+    <text>В Зоне? По сути, это вторник, братан.</text>
+</string>
+<string id="st_dyn_news_extended_conv_35_turn_3">
+    <text>Не, серьёзно. Грёбаная дверь посреди поля: ни стен, ни хрена. И открытая.</text>
+</string>
+<string id="st_dyn_news_extended_conv_35_turn_4">
+    <text>Ты... заглянул туда?</text>
+</string>
+<string id="st_dyn_news_extended_conv_35_turn_5">
+    <text>Я увидел себя с другой стороны. Но старше. Гораздо старше. Он махнул мне рукой, чтобы я держался подальше.</text>
+</string>
+<string id="st_dyn_news_extended_conv_35_turn_6">
+    <text>Сука... где это было?</text>
+</string>
+<string id="st_dyn_news_extended_conv_35_turn_7">
+    <text>Не говорю. Некоторые вещи должны остаться потерянными.</text>
+</string>
+
+<!-- Extended Conversation 36: Rookie Mistake -->
+<string id="st_dyn_news_extended_conv_36_meta">
+    <text>humor,rookie,mistake</text>
+</string>
+<string id="st_dyn_news_extended_conv_36_turn_1">
+    <text>ХАХАХ, видел сейчас %location% такую дичь, что живот сводит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_36_turn_2">
+    <text>Давай, выкладывай! Мне надо поржать.</text>
+</string>
+<string id="st_dyn_news_extended_conv_36_turn_3">
+    <text>Новичок хотел кинуть болт в аномалию, а кинул целый детектор, прикинь?</text>
+</string>
+<string id="st_dyn_news_extended_conv_36_turn_4">
+    <text>ДА НУ НАХРЕН! И что потом?</text>
+</string>
+<string id="st_dyn_news_extended_conv_36_turn_5">
+    <text>Детектор сгорел, и теперь он рубли кидает, «проверяет» аномалии. АХАХАХ.</text>
+</string>
+<string id="st_dyn_news_extended_conv_36_turn_6">
+    <text>Не собираешься ему помочь?</text>
+</string>
+<string id="st_dyn_news_extended_conv_36_turn_7">
+    <text>Эх, он сделал свой выбор.</text>
+</string>
+
+<!-- Extended Conversation 37: Underground Horror -->
+<string id="st_dyn_news_extended_conv_37_meta">
+    <text>horror,underground,story</text>
+</string>
+<string id="st_dyn_news_extended_conv_37_turn_1">
+    <text>В Припять не суйтесь. Просто... не суйтесь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_37_turn_2">
+    <text>Почему? Что случилось %other_first_name%?</text>
+</string>
+<string id="st_dyn_news_extended_conv_37_turn_3">
+    <text>Я не хочу об этом говорить.</text>
+</string>
+<string id="st_dyn_news_extended_conv_37_turn_4">
+    <text>Водка с меня, брат. Встречаемся у %location%.</text>
+</string>
+<string id="st_dyn_news_extended_conv_37_turn_5">
+    <text>Ловлю на слове.</text>
+</string>
+
+
+<!-- Extended Conversation 38: Bar Fight Story -->
+<string id="st_dyn_news_extended_conv_38_meta">
+    <text>humor,fight,bar</text>
+</string>
+<string id="st_dyn_news_extended_conv_38_turn_1">
+    <text>%other_first_name% вчера вечером ты пропустил самую лучшую драку в баре!</text>
+</string>
+<string id="st_dyn_news_extended_conv_38_turn_2">
+    <text>Эй, чёрт, что случилось?</text>
+</string>
+<string id="st_dyn_news_extended_conv_38_turn_3">
+    <text>Какой-то мудак ляпнул, что пиво лучше водки. Бар сразу вспыхнул.</text>
+</string>
+<string id="st_dyn_news_extended_conv_38_turn_4">
+    <text>xD Кто победил?</text>
+</string>
+<string id="st_dyn_news_extended_conv_38_turn_5">
+    <text>Бармен. Жахнул из дробаша в потолок — потом весь бар его угощал.</text>
+</string>
+
+<!-- Extended Conversation 39: Mutant Behavior -->
+<string id="st_dyn_news_extended_conv_39_meta">
+    <text>mutants,danger,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_39_turn_1">
+    <text>Кровососы новую тактику придумали, суки.</text>
+</string>
+<string id="st_dyn_news_extended_conv_39_turn_2">
+    <text>Что за дерьмо?</text>
+</string>
+<string id="st_dyn_news_extended_conv_39_turn_3">
+    <text>Один показывает себя, другие прыгают на тебя сзади. Из-за этого погибли два парня.</text>
+</string>
+<string id="st_dyn_news_extended_conv_39_turn_4">
+    <text>Чёрт. Хитрые твари.</text>
+</string>
+<string id="st_dyn_news_extended_conv_39_turn_5">
+    <text>Ага. Увидел одного — держи спину, остальные, скорее всего, рядом.</text>
+</string>
+
+<!-- Extended Conversation 40: Trader Gossip -->
+<string id="st_dyn_news_extended_conv_40_meta">
+    <text>trading,gossip,economy</text>
+</string>
+<string id="st_dyn_news_extended_conv_40_turn_1">
+    <text>Сидор людей дерёт ещё жёстче обычного.</text>
+</string>
+<string id="st_dyn_news_extended_conv_40_turn_2">
+    <text>Когда этот жирный ублюдок не обманывает сталкеров?</text>
+</string>
+<string id="st_dyn_news_extended_conv_40_turn_3">
+    <text>Не, я серьёзно хреново: косарь за буханку хлеба, блядь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_40_turn_4">
+    <text>Ограбление на шоссе! Какое у него оправдание на этот раз?</text>
+</string>
+<string id="st_dyn_news_extended_conv_40_turn_5">
+    <text>«Проблемы поставок», говорит. Да у него просто жадность в терминальной стадии.</text>
+</string>
+
+<!-- Extended Conversation 41: Ghost Story -->
+<string id="st_dyn_news_extended_conv_41_meta">
+    <text>ghost,story,supernatural</text>
+</string>
+<string id="st_dyn_news_extended_conv_41_turn_1">
+    <text>Я увидел его снова. Сталкер без лица.</text>
+</string>
+<string id="st_dyn_news_extended_conv_41_turn_2">
+    <text>Опять ты за своё, %speaker1_first_name%. Завязывай с водкой.</text>
+</string>
+<string id="st_dyn_news_extended_conv_41_turn_3">
+    <text>Я серьёзно! Стоял на старом КПП. А вместо лица — гладкая кожа, как пластик.</text>
+</string>
+<string id="st_dyn_news_extended_conv_41_turn_4">
+    <text>Может быть, это был парень в маске?</text>
+</string>
+<string id="st_dyn_news_extended_conv_41_turn_5">
+    <text>Когда я подошёл, он прошёл сквозь грёбаную стену. СКВОЗЬ.</text>
+</string>
+
+<!-- Extended Conversation 42: Equipment Failure -->
+<string id="st_dyn_news_extended_conv_42_meta">
+    <text>equipment,failure,frustration</text>
+</string>
+<string id="st_dyn_news_extended_conv_42_turn_1">
+    <text>Блядь, мой костюм развалился в самый неподходящий момент!</text>
+</string>
+<string id="st_dyn_news_extended_conv_42_turn_2">
+    <text>Что случилось? Ты в порядке?</text>
+</string>
+<string id="st_dyn_news_extended_conv_42_turn_3">
+    <text>Сервак в ноге заклинило прямо на спринте от своры собак. Я мордой в землю.</text>
+</string>
+<string id="st_dyn_news_extended_conv_42_turn_4">
+    <text>Чёрт, они тебя достали?</text>
+</string>
+<string id="st_dyn_news_extended_conv_42_turn_5">
+    <text>Нет, удалось разблокировать его и доковылять до безопасного места. Но мне нужен новый костюм как можно скорее.</text>
+</string>
+
+<!-- Extended Conversation 43: Weird Stash Find -->
+<string id="st_dyn_news_extended_conv_43_meta">
+    <text>stash,mystery,creepy</text>
+</string>
+<string id="st_dyn_news_extended_conv_43_turn_1">
+    <text>Сегодня нашел самый странный тайник. Просто... фотографии. Сотни фотографий.</text>
+</string>
+<string id="st_dyn_news_extended_conv_43_turn_2">
+    <text>Фотографии чего?</text>
+</string>
+<string id="st_dyn_news_extended_conv_43_turn_3">
+    <text>Спящие сталкеры. Все разные. Некоторых я узнаю, некоторые, вероятно, уже мертвы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_43_turn_4">
+    <text>Это чертовски жутко. Сожгите это дерьмо.</text>
+</string>
+<string id="st_dyn_news_extended_conv_43_turn_5">
+    <text>Уже сжёг. Но теперь спать не могу, каждые пять минут озираюсь.</text>
+</string>
+
+<!-- Extended Conversation 44: Faction Politics -->
+<string id="st_dyn_news_extended_conv_44_meta">
+    <text>faction,politics,argument</text>
+</string>
+<string id="st_dyn_news_extended_conv_44_turn_1">
+    <text>Ваше руководство, %other_faction%, — полный цирк.</text>
+</string>
+<string id="st_dyn_news_extended_conv_44_turn_2">
+    <text>Сильно сказано от %speaker1_faction% шавок, которые свою землю удержать не могут.</text>
+</string>
+<string id="st_dyn_news_extended_conv_44_turn_3">
+    <text>По крайней мере, мы не целуем военную задницу ради объедков со стола.</text>
+</string>
+<string id="st_dyn_news_extended_conv_44_turn_4">
+    <text>Продолжай пиздеть — увидишь, что будет.</text>
+</string>
+<string id="st_dyn_news_extended_conv_44_turn_5">
+    <text>Это угроза? Я готов в любой момент.</text>
+</string>
+<string id="st_dyn_news_extended_conv_44_turn_6">
+    <text>%location%, завтра на рассвете. Приходи один.</text>
+</string>
+
+<!-- Extended Conversation 45: Emission Survival -->
+<string id="st_dyn_news_extended_conv_45_meta">
+    <text>emission,survival,story</text>
+</string>
+<string id="st_dyn_news_extended_conv_45_turn_1">
+    <text>Я в прошлом выбросе чуть не сдох.</text>
+</string>
+<string id="st_dyn_news_extended_conv_45_turn_2">
+    <text>Где ты был, когда он ударил?</text>
+</string>
+<string id="st_dyn_news_extended_conv_45_turn_3">
+    <text>В самой жопе мира был. Пришлось лезть под ржавое шасси.</text>
+</string>
+<string id="st_dyn_news_extended_conv_45_turn_4">
+    <text>Сука! Это вообще не укрытие!</text>
+</string>
+<string id="st_dyn_news_extended_conv_45_turn_5">
+    <text>Расскажи мне об этом. У меня выпадают волосы, и я чувствую привкус металла. Но я жив.</text>
+</string>
+
+<!-- Extended Conversation 46: Scavenger Talk -->
+<string id="st_dyn_news_extended_conv_46_meta">
+    <text>scavenging,loot,friendly</text>
+</string>
+<string id="st_dyn_news_extended_conv_46_turn_1">
+    <text>%other_first_name%, ты не поверишь, что я в старой лабе нарыл.</text>
+</string>
+<string id="st_dyn_news_extended_conv_46_turn_2">
+    <text>Научные образцы? Документы?</text>
+</string>
+<string id="st_dyn_news_extended_conv_46_turn_3">
+    <text>Лучше. Запечатанный довоенный шоколад. Плиток двадцать!</text>
+</string>
+<string id="st_dyn_news_extended_conv_46_turn_4">
+    <text>Да ладно! Это же на вес артов уходит!</text>
+</string>
+<string id="st_dyn_news_extended_conv_46_turn_5">
+    <text>Половину уже продал каким-то мерсам. Остальное оставлю для особых случаев.</text>
+</string>
+
+<!-- Extended Conversation 47: Paranormal Event -->
+<string id="st_dyn_news_extended_conv_47_meta">
+    <text>paranormal,mystery,fear</text>
+</string>
+<string id="st_dyn_news_extended_conv_47_turn_1">
+    <text>В прошлый рейд в Рыжем лесу видел кровоточащие деревья.</text>
+</string>
+<string id="st_dyn_news_extended_conv_47_turn_2">
+    <text>В смысле, кровоточащие?</text>
+</string>
+<string id="st_dyn_news_extended_conv_47_turn_3">
+    <text>Красная жидкость, сочащаяся из коры. Пахнет железом. Земля под ним была вся черная.</text>
+</string>
+<string id="st_dyn_news_extended_conv_47_turn_4">
+    <text>Это... это же невозможно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_47_turn_5">
+    <text>Я уже не знаю, что возможно или нет.</text>
+</string>
+
+<!-- Extended Conversation 48: Veteran's Advice -->
+<!-- Extended Conversation 48: Veteran's Advice (REVISED - More Direct) -->
+<string id="st_dyn_news_extended_conv_48_meta">
+    <text>controller,danger,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_48_turn_1">
+    <text>Как узнать, что контроллер рядом?</text>
+</string>
+<string id="st_dyn_news_extended_conv_48_turn_2">
+    <text>Сначала кровь из носа. Потом башка трещит так, будто её ломают.</text>
+</string>
+<string id="st_dyn_news_extended_conv_48_turn_3">
+    <text>Дерьмо...</text>
+</string>
+<string id="st_dyn_news_extended_conv_48_turn_4">
+    <text>И не смотри на него прямо. Только краем глаза.</text>
+</string>
+<string id="st_dyn_news_extended_conv_48_turn_5">
+    <text>Полезно. Спасибо.</text>
+</string>
+
+<!-- Extended Conversation 49: Strange Dreams -->
+<string id="st_dyn_news_extended_conv_49_meta">
+    <text>dreams,zone,psychological</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_1">
+    <text>Кому-нибудь еще снятся сны?</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_2">
+    <text>Какие сны?</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_3">
+    <text>Где Зона тянет тебя глубже и что-то показывает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_4">
+    <text>Чёрт... что именно? У меня тоже похожие.</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_5">
+    <text>Золотая ржавая дверь... И голос, говорящий "иди домой"</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_6">
+    <text>Какого черта... Это не может быть совпадением. Что-то происходит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_7">
+    <text>Что ты имеешь в виду?</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_8">
+    <text>Ржавая золотая дверь?! Ты смог её открыть? Я нет.</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_9">
+    <text>Чем сильнее тянул, тем тише становился голос.</text>
+</string>
+<string id="st_dyn_news_extended_conv_49_turn_10">
+    <text>Похоже, пора думать, как сваливать из Зоны. Это явно не просто так.</text>
+</string>
+
+<!-- Extended Conversation 50: Last Stand Story -->
+<string id="st_dyn_news_extended_conv_50_meta">
+    <text>combat,survival,intense</text>
+</string>
+<string id="st_dyn_news_extended_conv_50_turn_1">
+    <text>Вчера держал мост против двадцати монолитов. Остался на последнем магазине.</text>
+</string>
+<string id="st_dyn_news_extended_conv_50_turn_2">
+    <text>Чушь собачья. 20 монолитов и ты еще дышишь?</text>
+</string>
+<string id="st_dyn_news_extended_conv_50_turn_3">
+    <text>У меня была высота, а им приходилось идти в узкий проход. Плюс один уронил РПГ.</text>
+</string>
+<string id="st_dyn_news_extended_conv_50_turn_4">
+    <text>Святое дерьмо. Сколько ты снял?</text>
+</string>
+<string id="st_dyn_news_extended_conv_50_turn_5">
+    <text>После двенадцати сбился. Мост трупами забит. Лут жирный, если яйца есть туда сунуться.</text>
+</string>
+
+<!-- Extended Conversation 51: Dark Humor -->
+<string id="st_dyn_news_extended_conv_51_meta">
+    <text>humor,dark,friendly</text>
+</string>
+<string id="st_dyn_news_extended_conv_51_turn_1">
+    <text>Чем новичок отличается от аномалии?</text>
+</string>
+<string id="st_dyn_news_extended_conv_51_turn_2">
+    <text>О боже, еще одна твоя дерьмовая шутка?</text>
+</string>
+<string id="st_dyn_news_extended_conv_51_turn_3">
+    <text>Аномалия хотя бы убивает быстро! АХАХА.</text>
+</string>
+<string id="st_dyn_news_extended_conv_51_turn_4">
+    <text>Это ужасно. Расскажи мне еще один.</text>
+</string>
+<string id="st_dyn_news_extended_conv_51_turn_5">
+    <text>Почему кровососы не нападают на этих %other_faction% панков? Профессиональная вежливость!??</text>
+</string>
+
+<!-- Extended Conversation 52: Mystery Stalker -->
+<string id="st_dyn_news_extended_conv_52_meta">
+    <text>mystery,stalker,legend</text>
+</string>
+<string id="st_dyn_news_extended_conv_52_turn_1">
+    <text>Сегодня Призрак Припяти мне реально задницу спас.</text>
+</string>
+<string id="st_dyn_news_extended_conv_52_turn_2">
+    <text>Да брось, это байка.</text>
+</string>
+<string id="st_dyn_news_extended_conv_52_turn_3">
+    <text>Скажи это снайперу, который меня уже взял на мушку. Секунда — и я труп, ещё секунда — а он уже лежит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_52_turn_4">
+    <text>Да кто угодно мог быть.</text>
+</string>
+<string id="st_dyn_news_extended_conv_52_turn_5">
+    <text>Вокруг ни души на километры. А на месте выстрела — белый король из шахмат.</text>
+</string>
+
+<!-- Extended Conversation 53: Mutant Pet -->
+<string id="st_dyn_news_extended_conv_53_meta">
+    <text>mutant,humor,unusual</text>
+</string>
+<string id="st_dyn_news_extended_conv_53_turn_1">
+    <text>Короче... у меня теперь вроде как домашний псевдопёс.</text>
+</string>
+<string id="st_dyn_news_extended_conv_53_turn_2">
+    <text>КАКОГО ХРЕНА, %speaker1_first_name%?!</text>
+</string>
+<string id="st_dyn_news_extended_conv_53_turn_3">
+    <text>Оно было ранено! Я скормил ему колбасу, и теперь он следует за мной повсюду.</text>
+</string>
+<string id="st_dyn_news_extended_conv_53_turn_4">
+    <text>Эта тварь тебе лицо сожрёт, как только еда кончится.</text>
+</string>
+<string id="st_dyn_news_extended_conv_53_turn_5">
+    <text>Не, он спокойный. Уже дважды о засадах предупредил. Зову его Сосиска.</text>
+</string>
+
+<!-- Extended Conversation 54: Tech Malfunction -->
+<string id="st_dyn_news_extended_conv_54_meta">
+    <text>technology,malfunction,zone</text>
+</string>
+<string id="st_dyn_news_extended_conv_54_turn_1">
+    <text>У %location% вся электроника одновременно сдохла.</text>
+</string>
+<string id="st_dyn_news_extended_conv_54_turn_2">
+    <text>ЭМИ-аномалия?</text>
+</string>
+<string id="st_dyn_news_extended_conv_54_turn_3">
+    <text>Не, ещё страннее. Включилась обратно, но всё зеркалит: текст, цифры — всё наоборот.</text>
+</string>
+<string id="st_dyn_news_extended_conv_54_turn_4">
+    <text>Зона всё жёстче лезет в башку.</text>
+</string>
+<string id="st_dyn_news_extended_conv_54_turn_5">
+    <text>Пришлось использовать зеркало, чтобы прочитать мой КПК. Это место становится всё более странным с каждым днём.</text>
+</string>
+
+<!-- Extended Conversation 55: Rookie Hazing -->
+<string id="st_dyn_news_extended_conv_55_meta">
+    <text>humor,hazing,rookies</text>
+</string>
+<string id="st_dyn_news_extended_conv_55_turn_1">
+    <text>Мы новенького отправили искать «левую отвёртку». АХАХАХ.</text>
+</string>
+<string id="st_dyn_news_extended_conv_55_turn_2">
+    <text>Классика! Как долго он искал?</text>
+</string>
+<string id="st_dyn_news_extended_conv_55_turn_3">
+    <text>2 часа! Он был у каждого торговца в округе!</text>
+</string>
+<string id="st_dyn_news_extended_conv_55_turn_4">
+    <text>Подожди, пока допрёт. Помнишь, как мы тебя так же гоняли?</text>
+</string>
+<string id="st_dyn_news_extended_conv_55_turn_5">
+    <text>Да пошёл ты. Я тогда был молодой и тупой! АХАХА.</text>
+</string>
+
+<!-- Extended Conversation 56: Philosophical Zone -->
+<string id="st_dyn_news_extended_conv_56_meta">
+    <text>zone,thoughts,casual</text>
+</string>
+<string id="st_dyn_news_extended_conv_56_turn_1">
+    <text>Иногда это место сносит тебе голову.</text>
+</string>
+<string id="st_dyn_news_extended_conv_56_turn_2">
+    <text>Ещё бы. И что на этот раз?</text>
+</string>
+<string id="st_dyn_news_extended_conv_56_turn_3">
+    <text>Ощущение, будто Зона заранее знает, когда ты придёшь. И переставляет всё вокруг.</text>
+</string>
+<string id="st_dyn_news_extended_conv_56_turn_4">
+    <text>Ты опять свободовскую траву с водкой мешал?</text>
+</string>
+<string id="st_dyn_news_extended_conv_56_turn_5">
+    <text>Может быть. Но скажи мне, что я ошибаюсь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_56_turn_6">
+    <text>...Не могу. Это место реально ебнутое.</text>
+</string>
+
+<!-- Extended Conversation 57: Supply Run Gone Bad -->
+<string id="st_dyn_news_extended_conv_57_meta">
+    <text>supplies,ambush,combat</text>
+</string>
+<string id="st_dyn_news_extended_conv_57_turn_1">
+    <text>Рейд за припасами оказался грёбаной ловушкой. Половину груза потеряли.</text>
+</string>
+<string id="st_dyn_news_extended_conv_57_turn_2">
+    <text>Бандиты?</text>
+</string>
+<string id="st_dyn_news_extended_conv_57_turn_3">
+    <text>Хуже. Наёмники с внутренней наводкой. Нас кто-то слил.</text>
+</string>
+<string id="st_dyn_news_extended_conv_57_turn_4">
+    <text>Есть идеи, кто?</text>
+</string>
+<string id="st_dyn_news_extended_conv_57_turn_5">
+    <text>Есть подозрения. Когда узнаю кто — они пожалеют, что Зона их не забрала раньше.</text>
+</string>
+
+<!-- Extended Conversation 58: Artifact Science -->
+<string id="st_dyn_news_extended_conv_58_meta">
+    <text>artifacts,discovery,excitement</text>
+</string>
+<string id="st_dyn_news_extended_conv_58_turn_1">
+    <text>Нашёл странную тему с артефактами!</text>
+</string>
+<string id="st_dyn_news_extended_conv_58_turn_2">
+    <text>Ага? Что?</text>
+</string>
+<string id="st_dyn_news_extended_conv_58_turn_3">
+    <text>Сложил вместе два разных во время выброса... они изменились.</text>
+</string>
+<string id="st_dyn_news_extended_conv_58_turn_4">
+    <text>В каком смысле изменились? Сломались?</text>
+</string>
+<string id="st_dyn_news_extended_conv_58_turn_5">
+    <text>Нет, превратился во что-то новое. Тоже стоит намного больше.</text>
+</string>
+<string id="st_dyn_news_extended_conv_58_turn_6">
+    <text>Чушь собачья... но если это правда, то это огромные деньги.</text>
+</string>
+
+<!-- Extended Conversation 59: Old Guard Memories -->
+<string id="st_dyn_news_extended_conv_59_meta">
+    <text>memories,veteran,nostalgia</text>
+</string>
+<string id="st_dyn_news_extended_conv_59_turn_1">
+    <text>В Зоне уже 15 лет. Иногда я забываю, как выглядит снаружи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_59_turn_2">
+    <text>Почему бы тебе тогда не уйти, старик?</text>
+</string>
+<string id="st_dyn_news_extended_conv_59_turn_3">
+    <text>Уйти? Зона у меня уже в крови. Пробовал раз — продержался две недели.</text>
+</string>
+<string id="st_dyn_news_extended_conv_59_turn_4">
+    <text>Что вернуло тебя?</text>
+</string>
+<string id="st_dyn_news_extended_conv_59_turn_5">
+    <text>Тишина снаружи. Ни гудения аномалий, ни щелчков дозиметра. Слишком мёртво.</text>
+</string>
+<string id="st_dyn_news_extended_conv_59_turn_6">
+    <text>Зона в итоге всех нас ломает, да?</text>
+</string>
+
+<!-- Extended Conversation 60: Emergency Broadcast -->
+<string id="st_dyn_news_extended_conv_60_meta">
+    <text>emergency,warning,urgent</text>
+</string>
+<string id="st_dyn_news_extended_conv_60_turn_1">
+    <text>ВСЕМ ДЕРЖАТЬСЯ ПОДАЛЬШЕ ОТ %location%! Там какая-то жесть.</text>
+</string>
+<string id="st_dyn_news_extended_conv_60_turn_2">
+    <text>Что за жесть? Мутанты? Разведка?</text>
+</string>
+<string id="st_dyn_news_extended_conv_60_turn_3">
+    <text>Не знаю. Группа людей движется как-то не так. Вооружены тяжело.</text>
+</string>
+<string id="st_dyn_news_extended_conv_60_turn_4">
+    <text>Сколько?</text>
+</string>
+<string id="st_dyn_news_extended_conv_60_turn_5">
+    <text>Насчитал шесть. Я ушел.</text>
+</string>
+<string id="st_dyn_news_extended_conv_60_turn_6">
+    <text>Принял. Спасибо за предупреждение.</text>
+</string>
+
+<!-- Extended Conversation 61: Drunk Philosophy -->
+<string id="st_dyn_news_extended_conv_61_meta">
+    <text>drunk,philosophy,humor</text>
+</string>
+<string id="st_dyn_news_extended_conv_61_turn_1">
+    <text>Братцы... а если аномалии — это просто пердёж Зоны?</text>
+</string>
+<string id="st_dyn_news_extended_conv_61_turn_2">
+    <text>Ты сейчас насколько в хлам, а?</text>
+</string>
+<string id="st_dyn_news_extended_conv_61_turn_3">
+    <text>Не-не, выслушай... грави-аномалия — это отрыжка... огненная — острый пердёж...</text>
+</string>
+<string id="st_dyn_news_extended_conv_61_turn_4">
+    <text>Всё, завязывай. Больше ни капли водки.</text>
+</string>
+<string id="st_dyn_news_extended_conv_61_turn_5">
+    <text>«ВИХРЬ» — ЭТО КОГДА ЗОНУ ШАТАЕТ ПОСЛЕ ПЕРЕПОЯ!</text>
+</string>
+
+<!-- Extended Conversation 62: Bloodsucker Hunter -->
+<string id="st_dyn_news_extended_conv_62_meta">
+    <text>hunting,bloodsucker,professional</text>
+</string>
+<string id="st_dyn_news_extended_conv_62_turn_1">
+    <text>Берем контракты на уничтожение кровососов. 20 тысяч за голову.</text>
+</string>
+<string id="st_dyn_news_extended_conv_62_turn_2">
+    <text>Жирновато. Почему так много?</text>
+</string>
+<string id="st_dyn_news_extended_conv_62_turn_3">
+    <text>Потому что я реально довожу дело до конца. 47 подтверждённых. Я их повадки знаю.</text>
+</string>
+<string id="st_dyn_news_extended_conv_62_turn_4">
+    <text>Докажи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_62_turn_5">
+    <text>Проверь мой КПК. Каждый фраг там отмечен. Я не балабол.</text>
+</string>
+
+<!-- Extended Conversation 63: Stalker Romance -->
+<string id="st_dyn_news_extended_conv_63_meta">
+    <text>romance,relationship,personal</text>
+</string>
+<string id="st_dyn_news_extended_conv_63_turn_1">
+    <text>Она сказала да!</text>
+</string>
+<string id="st_dyn_news_extended_conv_63_turn_2">
+    <text>Кто и на что согласился?</text>
+</string>
+<string id="st_dyn_news_extended_conv_63_turn_3">
+    <text>Дочь того торговца из Скадовска. Попросил ее покинуть Зону вместе со мной!</text>
+</string>
+<string id="st_dyn_news_extended_conv_63_turn_4">
+    <text>Ты уходишь? После всех этих лет?</text>
+</string>
+<string id="st_dyn_news_extended_conv_63_turn_5">
+    <text>Пора пробовать нормальную жизнь. Если выживу и в следующем месяце подкоплю.</text>
+</string>
+
+<!-- Extended Conversation 64: Sleep Deprivation -->
+<string id="st_dyn_news_extended_conv_64_meta">
+    <text>sleep,zone,serious</text>
+</string>
+<string id="st_dyn_news_extended_conv_64_turn_1">
+    <text>Кто-нибудь еще здесь почти не спит? Ощущение, будто Зона гудит по ночам.</text>
+</string>
+<string id="st_dyn_news_extended_conv_64_turn_2">
+    <text>Ага. Как будто что-то всегда наблюдает. Даже когда там мертвая тишина.</text>
+</string>
+<string id="st_dyn_news_extended_conv_64_turn_3">
+    <text>Иногда я слышу шаги. Когда я проверяю, там никого нет.</text>
+</string>
+<string id="st_dyn_news_extended_conv_64_turn_5">
+    <text>Может, Зона не спит. И нам спать тоже не даёт.</text>
+</string>
+<string id="st_dyn_news_extended_conv_64_turn_5">
+    <text>* передаёт косяк *</text>
+</string>
+<string id="st_dyn_news_extended_conv_64_turn_5">
+    <text>Ха-ха, да, от этого тебе точно легче уснуть, брат.</text>
+</string>
+<!-- Extended Conversation 65: Monolith Defector -->
+<string id="st_dyn_news_extended_conv_65_meta">
+    <text>monolith,defector,serious</text>
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_1">
+    <text>Экс-Монолит здесь. Голоса прекратились. Мне нужна помощь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_2">
+    <text>Откуда нам знать, что тебе еще не промыли мозги?</text>
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_3">
+    <text>Потому что я помню свое имя... думаю. Моё настоящее имя! И что я сделал... Боже, что я сделал...</text>
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_4">
+<text>Что ты сделал? Говори.</text>
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_5">
+<text>Я даже не знаю, с чего... Мы сгоняли сталкеров на «зачистку». Монолит заставлял делать с ними вещи, пока они ещё живы. Их крики... питали устройство. Усиливали шёпот Зоны.</text>
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_6">
+<text>Херня какая-то... Но продолжай.</text> 
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_7">
+<text>Живые батарейки. Выжигатель поджаривает умы, но тела... они дергаются целыми днями. Мы подключили их к машине. Агония... она питает сигнал Монолита. Превращает боль в контроль.</text>
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_8">
+<text>Господи... А голоса? Как ты вообще вырвался?</text>
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_9">
+<text>Я... не помню... Что-то сделал, но не помню что. В голове туман.</text>
+</string>
+<string id="st_dyn_news_extended_conv_65_turn_10">
+<text>Тебе никто не поможет. Только собирать новую личность из обломков старой. Начинай заново... С возвращением, сталкер.</text>
+</string>
+
+<!-- Extended Conversation 66: Scammer Alert -->
+<string id="st_dyn_news_extended_conv_66_meta">
+    <text>scam,warning,trading</text>
+</string>
+<string id="st_dyn_news_extended_conv_66_turn_1">
+    <text>ВНИМАНИЕ: %other_first_name%, Петровский продает поддельные артефакты!</text>
+</string>
+<string id="st_dyn_news_extended_conv_66_turn_2">
+    <text>Этот ублюдок! Он поймал меня на прошлой неделе!</text>
+</string>
+<string id="st_dyn_news_extended_conv_66_turn_3">
+    <text>Та же тема. «Лунный свет» оказался крашеным булыжником.</text>
+</string>
+<string id="st_dyn_news_extended_conv_66_turn_4">
+    <text>Ему бы кто морду набил за такие фокусы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_66_turn_5">
+    <text>Уже этим занимаюсь. В приват.</text>
+</string>
+
+
+<!-- Extended Conversation 67: Weather Phenomenon -->
+<string id="st_dyn_news_extended_conv_67_meta">
+    <text>weather,anomaly,strange</text>
+</string>
+<string id="st_dyn_news_extended_conv_67_turn_1">
+    <text>Когда был в Рыжем лесу, дождь шёл вверх. ВВЕРХ.</text>
+</string>
+<string id="st_dyn_news_extended_conv_67_turn_2">
+    <text>Какого хрена ты имеешь в виду вверх?</text>
+</string>
+<string id="st_dyn_news_extended_conv_67_turn_3">
+    <text>Вода падала, потом взлетала обратно. Лужи в небе, прикинь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_67_turn_4">
+    <text>Зональная физика.</text>
+</string>
+<string id="st_dyn_news_extended_conv_67_turn_5">
+    <text>Но зрелище, конечно, было адское.</text>
+</string>
+
+<!-- Extended Conversation 68: Stalker Dad -->
+<string id="st_dyn_news_extended_conv_68_meta">
+    <text>family,personal,emotional</text>
+</string>
+<string id="st_dyn_news_extended_conv_68_turn_1">
+    <text>Только что получил сообщение. Я отец. Девочка.</text>
+</string>
+<string id="st_dyn_news_extended_conv_68_turn_2">
+    <text>Святое дерьмо! Поздравляю, брат.</text>
+</string>
+<string id="st_dyn_news_extended_conv_68_turn_3">
+    <text>Спасибо. Ещё один жирный куш и валю. Ей нужен нормальный отец.</text>
+</string>
+<string id="st_dyn_news_extended_conv_68_turn_4">
+    <text>Как ее зовут?</text>
+</string>
+<string id="st_dyn_news_extended_conv_68_turn_5">
+    <text>Светлана. В честь её бабушки. Я скоро домой, мой маленький свет.</text>
+</string>
+
+
+<!-- Extended Conversation 69: Conspiracy Theory -->
+<string id="st_dyn_news_extended_conv_69_meta">
+    <text>conspiracy,theory,paranoid</text>
+</string>
+<string id="st_dyn_news_extended_conv_69_turn_1">
+    <text>Я соединил точки. Зона расширяется не случайно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_69_turn_2">
+    <text>Опять пошли твои теории...</text>
+</string>
+<string id="st_dyn_news_extended_conv_69_turn_3">
+    <text>Слушай! Она идёт по лей-линиям, по древним энергетическим тропам!</text>
+</string>
+<string id="st_dyn_news_extended_conv_69_turn_4">
+    <text>Ты опять свободовской травой ужрался?</text>
+</string>
+<string id="st_dyn_news_extended_conv_69_turn_5">
+    <text>Ржи сколько влезет. Когда Зона по «драконьей линии» дойдёт до Москвы, вспомнишь, кто предупреждал.</text>
+</string>
+<string id="st_dyn_news_extended_conv_69_turn_5">
+    <text>Да просто патроны в сумку закинь, брат.</text>
+</string>
+
+
+<!-- Extended Conversation 70: Merc Job Offer -->
+
+<string id="st_dyn_news_extended_conv_70_meta">
+    <text>job,money,dangerous</text>
+</string>
+<string id="st_dyn_news_extended_conv_70_turn_1">
+    <text>Есть работёнка, если хочешь больших денег.</text>
+</string>
+<string id="st_dyn_news_extended_conv_70_turn_2">
+    <text>Насколько больших?</text>
+</string>
+<string id="st_dyn_news_extended_conv_70_turn_3">
+    <text>300 тысяч за две недели.</text>
+</string>
+<string id="st_dyn_news_extended_conv_70_turn_4">
+    <text>Это деньги на самоубийство. Какая работа?</text>
+</string>
+<string id="st_dyn_news_extended_conv_70_turn_5">
+    <text>ЧАЭС. Надо забрать одну штуку.</text>
+</string>
+<string id="st_dyn_news_extended_conv_70_turn_6">
+    <text>...Да ну нахрен. Ищи другого.</text>
+</string>
+
+
+
+<!-- Extended Conversation 71: Rookie Panic -->
+<string id="st_dyn_news_extended_conv_71_meta">
+    <text>rookie,panic,help</text>
+</string>
+<string id="st_dyn_news_extended_conv_71_turn_1">
+    <text>ПОМОГИТЕ!! ЗАПЕРТ В ЗДАНИИ!! СНАРУЖИ ТВАРИ!!</text>
+</string>
+<string id="st_dyn_news_extended_conv_71_turn_2">
+    <text>Успокойся, новичок. Где ты? Какие вещи?</text>
+</string>
+<string id="st_dyn_news_extended_conv_71_turn_3">
+    <text>НЕ ЗНАЮ!! ИХ НЕ ВИДНО, НО ДЫШАТ РЯДОМ!! КОГТИ ПО СТЕНАМ СКРЕБУТ!!</text>
+</string>
+<string id="st_dyn_news_extended_conv_71_turn_4">
+    <text>Кровососы. Тихо. НЕ БЕГИ. Где ты точно?</text>
+</string>
+<string id="st_dyn_news_extended_conv_71_turn_5">
+    <text>Заблудился где-то у %location%!! Поторопитесь! Последний магазин!!</text>
+</string>
+
+
+
+<!-- Extended Conversation 72: Scientific Discovery (REVISED - Much Less Scientific) -->
+<string id="st_dyn_news_extended_conv_72_meta">
+    <text>discovery,anomalies,news</text>
+</string>
+<string id="st_dyn_news_extended_conv_72_turn_1">
+    <text>Слышал, что яйцеголовые что-то догадались об аномалиях.</text>
+</string>
+<string id="st_dyn_news_extended_conv_72_turn_2">
+    <text>Ага? Что теперь?</text>
+</string>
+<string id="st_dyn_news_extended_conv_72_turn_3">
+    <text>Они издают звуки, которые мы не слышим. Но с правильным снаряжением найти их будет проще.</text>
+</string>
+<string id="st_dyn_news_extended_conv_72_turn_4">
+    <text>Значит, больше не будем бросаться болтами?</text>
+</string>
+<string id="st_dyn_news_extended_conv_72_turn_5">
+    <text>Может быть. Если это сработает, все изменится.</text>
+</string>
+<string id="st_dyn_news_extended_conv_72_turn_6">
+    <text>Я поверю, когда увижу.</text>
+</string>
+
+<!-- Extended Conversation 73: Ghost Town -->
+<string id="st_dyn_news_extended_conv_73_meta">
+    <text>mystery,abandoned,creepy</text>
+</string>
+<string id="st_dyn_news_extended_conv_73_turn_1">
+    <text>Нашёл город, которого нет на картах. Целый, но пустой.</text>
+</string>
+<string id="st_dyn_news_extended_conv_73_turn_2">
+    <text>Пустой как? Тела? Признаки борьбы?</text>
+</string>
+<string id="st_dyn_news_extended_conv_73_turn_3">
+    <text>Ничего. Еда на столах, ключи в машинах. Будто все исчезли за секунду.</text>
+</string>
+<string id="st_dyn_news_extended_conv_73_turn_4">
+    <text>Убирайся оттуда. Сейчас.</text>
+</string>
+<string id="st_dyn_news_extended_conv_73_turn_5">
+    <text>Почему? Лут норм и... подожди. Колокол звонит, а звонаря нет...</text>
+</string>
+<string id="st_dyn_news_extended_conv_73_turn_6">
+    <text>БЕГИ, ДЕБИЛ!</text>
+</string>
+
+
+<!-- Extended Conversation 74: Trading Post Drama -->
+<string id="st_dyn_news_extended_conv_74_meta">
+    <text>trading,drama,conflict</text>
+</string>
+<string id="st_dyn_news_extended_conv_74_turn_1">
+    <text>Новый торгаш у %location% — полный мудак.</text>
+</string>
+<string id="st_dyn_news_extended_conv_74_turn_2">
+    <text>Что он сделал?</text>
+</string>
+<string id="st_dyn_news_extended_conv_74_turn_3">
+    <text>Продал мне «бронебойные». По факту болванки, чёрной краской мазнутые!</text>
+</string>
+<string id="st_dyn_news_extended_conv_74_turn_4">
+    <text>ЛОЛ, тебя развели древнейшим трюком.</text>
+</string>
+
+
+<!-- Extended Conversation 75: Anomaly Research -->
+<string id="st_dyn_news_extended_conv_75_meta">
+    <text>job,danger,money</text>
+</string>
+<string id="st_dyn_news_extended_conv_75_turn_1">
+    <text>Нужен человек для тестирования нового оборудования. Платят хорошо.</text>
+</string>
+<string id="st_dyn_news_extended_conv_75_turn_2">
+    <text>В прошлый раз после таких «тестов» народ в землю лёг.</text>
+</string>
+<string id="st_dyn_news_extended_conv_75_turn_3">
+    <text>Просто нужно надеть этот костюм рядом с аномалией. Вот и все.</text>
+</string>
+<string id="st_dyn_news_extended_conv_75_turn_4">
+    <text>Сколько?</text>
+</string>
+<string id="st_dyn_news_extended_conv_75_turn_5">
+    <text>100 тысяч за 10 минут.</text>
+</string>
+<string id="st_dyn_news_extended_conv_75_turn_6">
+    <text>Если столько платишь, значит этот костюм меня и похоронит.</text>
+</string>
+
+
+
+
+<!-- Extended Conversation 76: Campfire Stories -->
+<string id="st_dyn_news_extended_conv_76_meta">
+    <text>story,campfire,legend</text>
+</string>
+<string id="st_dyn_news_extended_conv_76_turn_1">
+    <text>Мой дедушка рассказывал мне, что Зона существовала до Чернобыля.</text>
+</string>
+<string id="st_dyn_news_extended_conv_76_turn_2">
+    <text>Чушь собачья. Все знают, что все началось с катастрофы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_76_turn_3">
+    <text>Он говорил, странные места были всегда, где физика ломалась. Чернобыль просто это вскрыл.</text>
+</string>
+<string id="st_dyn_news_extended_conv_76_turn_4">
+    <text>Твой дед был бухим картофелеводом!</text>
+</string>
+<string id="st_dyn_news_extended_conv_76_turn_5">
+    <text>Заткнись.</text>
+</string>
+
+
+<!-- Extended Conversation 77: Equipment Review -->
+<string id="st_dyn_news_extended_conv_77_meta">
+    <text>equipment,review,advice</text>
+</string>
+<string id="st_dyn_news_extended_conv_77_turn_1">
+    <text>Внимание всем: новый костюм «Затмение» - мусор. Не тратьте свои деньги.</text>
+</string>
+<string id="st_dyn_news_extended_conv_77_turn_2">
+    <text>И что с ним не так? По ттх вроде норм.</text>
+</string>
+<string id="st_dyn_news_extended_conv_77_turn_3">
+    <text>Слёзы как бумага. Пси-защита отсутствует. Распределение веса хреновое.</text>
+</string>
+<string id="st_dyn_news_extended_conv_77_turn_4">
+    <text>Блин, я уже механику его подгонять отдал.</text>
+</string>
+<string id="st_dyn_news_extended_conv_77_turn_5">
+    <text>Отмени. Возьми б/у «СЕВУ». Страшная, зато не убьёт.</text>
+</string>
+
+
+
+<!-- Extended Conversation 78: Zone Wildlife -->
+<string id="st_dyn_news_extended_conv_78_meta">
+    <text>mutants,sighting,strange</text>
+</string>
+<string id="st_dyn_news_extended_conv_78_turn_1">
+    <text>Сегодня увидел какую-то странную херню. Светящийся олень.</text>
+</string>
+<string id="st_dyn_news_extended_conv_78_turn_2">
+    <text>Светящийся? Типа радиоактивный?</text>
+</string>
+<string id="st_dyn_news_extended_conv_78_turn_3">
+    <text>Нет, на самом деле светится синим. Не нападал и ничего.</text>
+</string>
+<string id="st_dyn_news_extended_conv_78_turn_4">
+    <text>Зона опять выкидывает новый фокус.</text>
+</string>
+<string id="st_dyn_news_extended_conv_78_turn_5">
+    <text>Ага. Иногда тут не всё пытается тебя сожрать.</text>
+</string>
+
+<!-- Extended Conversation 79: Stalker Feud -->
+<string id="st_dyn_news_extended_conv_79_meta">
+    <text>feud,conflict,personal</text>
+</string>
+<string id="st_dyn_news_extended_conv_79_turn_1">
+    <text>Ещё раз увижу %other_first_name% - труп. ТРУП.</text>
+</string>
+<string id="st_dyn_news_extended_conv_79_turn_2">
+    <text>Ого, ты живой?? И что я сделал-то?</text>
+</string>
+<string id="st_dyn_news_extended_conv_79_turn_3">
+    <text>ТЫ МЕНЯ БРОСИЛ СДЫХАТЬ. Арты забрал и свалил, когда кровососы попёрли.</text>
+</string>
+<string id="st_dyn_news_extended_conv_79_turn_4">
+    <text>Я тебя звал, ты не ответил! Я рванул, как любой нормальный человек.</text>
+</string>
+<string id="st_dyn_news_extended_conv_79_turn_5">
+    <text>Где ты??</text>
+</string>
+<string id="st_dyn_news_extended_conv_79_turn_6">
+    <text>Э-э... не скажу.</text>
+</string>
+<string id="st_dyn_news_extended_conv_79_turn_7">
+    <text>Зона маленькая. Хрен спрячешься.</text>
+</string>
+
+
+
+<!-- Extended Conversation 80: Morning Routine -->
+<string id="st_dyn_news_extended_conv_80_meta">
+    <text>routine,daily,casual</text>
+</string>
+<string id="st_dyn_news_extended_conv_80_turn_1">
+    <text>Нет ничего лучше зоновского кофе с утра. На вкус как моторка, но бодрит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_80_turn_2">
+    <text>У вас там кофе? Шикуете.</text>
+</string>
+<string id="st_dyn_news_extended_conv_80_turn_3">
+    <text>«Кофе» — жжёное зерно с цикорием. Может, капля настоящего, ещё с 2008-го.</text>
+</string>
+<string id="st_dyn_news_extended_conv_80_turn_4">
+    <text>Всё равно лучше энергетиков. От них, блядь, моча светится.</text>
+</string>
+<string id="st_dyn_news_extended_conv_80_turn_5">
+    <text>Тут от всего моча светится, друг. Так и понимаешь, что живой.</text>
+</string>
+
+
+
+<!-- Extended Conversation 81: Snork Pack Tactics -->
+<string id="st_dyn_news_extended_conv_81_meta">
+    <text>mutants,tactics,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_81_turn_1">
+    <text>ОБНОВА: снорки теперь охотятся координированными стаями. Видел восьмерых в строю.</text>
+</string>
+<string id="st_dyn_news_extended_conv_81_turn_2">
+    <text>В строю? Эти твари едва думают.</text>
+</string>
+<string id="st_dyn_news_extended_conv_81_turn_3">
+    <text>Скажи это патрулю, который они во фланг разобрали.</text>
+</string>
+<string id="st_dyn_news_extended_conv_81_turn_4">
+    <text>Это плохо. Действительно плохо.</text>
+</string>
+<string id="st_dyn_news_extended_conv_81_turn_5">
+    <text>Зона их учит. Или кто-то учит. В любом случае — следи за спиной.</text>
+</string>
+
+
+
+<!-- Extended Conversation 82: Artifact Addiction -->
+<string id="st_dyn_news_extended_conv_82_meta">
+    <text>artifacts,warning,experience</text>
+</string>
+<string id="st_dyn_news_extended_conv_82_turn_1">
+    <text>Не носи «Душу» слишком долго. Проверено на себе.</text>
+</string>
+<string id="st_dyn_news_extended_conv_82_turn_2">
+    <text>Почему? Что происходит?</text>
+</string>
+<string id="st_dyn_news_extended_conv_82_turn_3">
+    <text>Организм к ней привыкает. Потом без неё уже не восстановишься.</text>
+</string>
+<string id="st_dyn_news_extended_conv_82_turn_4">
+    <text>Чёрт... я свою уже неделями не снимал.</text>
+</string>
+<string id="st_dyn_news_extended_conv_82_turn_5">
+    <text>Снимай медленно. Когда промерзаешь, хочется просто сдохнуть.</text>
+</string>
+
+<!-- Extended Conversation 83: Night Terror -->
+<string id="st_dyn_news_extended_conv_83_meta">
+    <text>horror,night,psychological</text>
+</string>
+<string id="st_dyn_news_extended_conv_83_turn_1">
+    <text>Кому-нибудь еще снятся сны? Те, что с дверью?</text>
+</string>
+<string id="st_dyn_news_extended_conv_83_turn_2">
+    <text>Черная дверь? Красная ручка? Ага.</text>
+</string>
+<string id="st_dyn_news_extended_conv_83_turn_3">
+    <text>Блядь. Это распространяется. В моём сне с другой стороны кто-то стучит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_83_turn_4">
+    <text>Не открывай его. Что бы ни делал, не открывай его во сне.</text>
+</string>
+<string id="st_dyn_news_extended_conv_83_turn_5">
+    <text>Почему? Что там происходит?</text>
+</string>
+<string id="st_dyn_news_extended_conv_83_turn_6">
+    <text>Козлов открыл. Шесть суток не спит. Говорит, «они» ждут, пока он глаза закроет.</text>
+</string>
+
+<!-- Extended Conversation 84: Lucky Find -->
+<string id="st_dyn_news_extended_conv_84_meta">
+    <text>lucky,find,treasure</text>
+</string>
+<string id="st_dyn_news_extended_conv_84_turn_1">
+    <text>ДЖЕКПОТ! Найден нетронутый военный тайник!</text>
+</string>
+<string id="st_dyn_news_extended_conv_84_turn_2">
+    <text>Чушь. Всё ценное там уже давно выгребли.</text>
+</string>
+<string id="st_dyn_news_extended_conv_84_turn_3">
+    <text>Спрятан под обрушившимся туннелем. 200 патронов АП, ПНВ и ТРИ экзоскелета!</text>
+</string>
+<string id="st_dyn_news_extended_conv_84_turn_4">
+    <text>Святое дерьмо! Помочь перетащить?</text>
+</string>
+<string id="st_dyn_news_extended_conv_84_turn_5">
+    <text>Уже перетащил. Могу экзо отдать за 80к. Для своих скидка.</text>
+</string>
+
+<!-- Extended Conversation 85: Mutant Evolution (REVISED - Less Scientific) -->
+<string id="st_dyn_news_extended_conv_85_meta">
+    <text>mutants,changes,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_85_turn_1">
+    <text>Мутанты меняются. Убить становится сложнее.</text>
+</string>
+<string id="st_dyn_news_extended_conv_85_turn_2">
+    <text>Что ты имеешь в виду?</text>
+</string>
+<string id="st_dyn_news_extended_conv_85_turn_3">
+    <text>Кровососы с более толстой кожей. Кабаны, которые выглядят бронированными. Странное дерьмо.</text>
+</string>
+<string id="st_dyn_news_extended_conv_85_turn_4">
+    <text>Отлично. Как будто раньше с ними легко было.</text>
+</string>
+<string id="st_dyn_news_extended_conv_85_turn_5">
+    <text>Ага. И это ускоряется. Очень быстро.</text>
+</string>
+
+<!-- Extended Conversation 86: Trader Review -->
+<string id="st_dyn_news_extended_conv_86_meta">
+    <text>trading,review,recommendation</text>
+</string>
+<string id="st_dyn_news_extended_conv_86_turn_1">
+    <text>Новый торговец у %location% нормальный: цены честные, шмот качественный.</text>
+</string>
+<string id="st_dyn_news_extended_conv_86_turn_2">
+    <text>В чем подвох? Всегда есть подвох.</text>
+</string>
+<string id="st_dyn_news_extended_conv_86_turn_3">
+    <text>Подвоха нет. Бывший армейский снабженец, дело знает и не грабит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_86_turn_4">
+    <text>Есть ли у него медикаменты?</text>
+</string>
+<string id="st_dyn_news_extended_conv_86_turn_5">
+    <text>Склад полный. Даже армейские стимпаки есть. Дорого, но оно того стоит.</text>
+</string>
+
+<!-- Extended Conversation 87: Weather Warning -->
+<string id="st_dyn_news_extended_conv_87_meta">
+    <text>weather,warning,danger</text>
+</string>
+<string id="st_dyn_news_extended_conv_87_turn_1">
+    <text>Плохой пси-шторм приближается к Красному лесу. Держись подальше.</text>
+</string>
+<string id="st_dyn_news_extended_conv_87_turn_2">
+    <text>Насколько плохо?</text>
+</string>
+<string id="st_dyn_news_extended_conv_87_turn_3">
+    <text>Очень плохо. Даже с защитой мозги плавит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_87_turn_4">
+    <text>Черт, мои приятели направляются туда!</text>
+</string>
+<string id="st_dyn_news_extended_conv_87_turn_5">
+    <text>Пусть разворачиваются. Срочно.</text>
+</string>
+
+
+<!-- Extended Conversation 88: Urban Legend -->
+<string id="st_dyn_news_extended_conv_88_meta">
+    <text>legend,mystery,story</text>
+</string>
+<string id="st_dyn_news_extended_conv_88_turn_1">
+    <text>Говорят, увидел в Зоне свою могилу — у тебя три дня свалить, иначе сбудется.</text>
+</string>
+<string id="st_dyn_news_extended_conv_88_turn_2">
+    <text>Суеверная хрень.</text>
+</string>
+<string id="st_dyn_news_extended_conv_88_turn_3">
+    <text>Марков увидел свое. Отсмеялся. Нашли его через три дня именно там, где была могила.</text>
+</string>
+<string id="st_dyn_news_extended_conv_88_turn_4">
+    <text>Совпадение.</text>
+</string>
+<string id="st_dyn_news_extended_conv_88_turn_5">
+    <text>Может. Но если увидишь надгробие со своим именем, лучше не проверяй.</text>
+</string>
+
+<!-- Extended Conversation 89: Tech Support -->
+<string id="st_dyn_news_extended_conv_89_meta">
+    <text>tech,help,equipment</text>
+</string>
+<string id="st_dyn_news_extended_conv_89_turn_1">
+    <text>Кто-нибудь знает, как починить сгоревшую материнскую плату КПК?</text>
+</string>
+<string id="st_dyn_news_extended_conv_89_turn_2">
+    <text>Как именно сгорела? ЭМИ, вода, водка?</text>
+</string>
+<string id="st_dyn_news_extended_conv_89_turn_3">
+    <text>Электроаномалия. Экран работает, но ни навигации, ни связи нет.</text>
+</string>
+<string id="st_dyn_news_extended_conv_89_turn_4">
+    <text>Попробуй заменить RF-модуль: он обычно первым вылетает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_89_turn_5">
+    <text>И где, чёрт возьми, в Зоне искать RF-модули?</text>
+</string>
+<string id="st_dyn_news_extended_conv_89_turn_6">
+    <text>На старой радиостанции коробки валяются. Или сними модуль с КПК мертвеца.</text>
+</string>
+
+<!-- Extended Conversation 90: Final Message -->
+<string id="st_dyn_news_extended_conv_90_meta">
+    <text>final,goodbye,emotional</text>
+</string>
+<string id="st_dyn_news_extended_conv_90_turn_1">
+    <text>Всё, пацаны. Я иду к Исполнителю Желаний.</text>
+</string>
+<string id="st_dyn_news_extended_conv_90_turn_2">
+    <text>Серьёзно? Не делай этого, брат. Оно не стоит того.</text>
+</string>
+<string id="st_dyn_news_extended_conv_90_turn_3">
+    <text>Восемь лет тут. Снаружи всё потерял. Больше ничего не осталось.</text>
+</string>
+<string id="st_dyn_news_extended_conv_90_turn_4">
+    <text>Бля... И что попросишь?</text>
+</string>
+<string id="st_dyn_news_extended_conv_90_turn_5">
+    <text>Забыть. Забыть все это. Забыть ее. Увидимся на той стороне, сталкеры.</text>
+</string>
+<string id="st_dyn_news_extended_conv_90_turn_6">
+    <text>Не делай этого %other_first_name%.</text>
+</string>
+<string id="st_dyn_news_extended_conv_90_turn_7">
+    <text>Я должен. Я больше не могу. Вот-вот потеряю связь. Прощайте, Сталкеры.</text>
+</string>
+<string id="st_dyn_news_extended_conv_90_turn_8">
+    <text>Поехавший ублюдок...</text>
+</string>
+
+
+<!-- Extended Conversation 91: Equipment Maintenance -->
+<string id="st_dyn_news_extended_conv_91_meta">
+    <text>equipment,maintenance,coordination</text>
+</string>
+<string id="st_dyn_news_extended_conv_91_turn_1">
+    <text>%other_first_name%, у тебя есть минутка? Нужна помощь с этим прицелом.</text>
+</string>
+<string id="st_dyn_news_extended_conv_91_turn_2">
+    <text>Конечно. В чем проблема?</text>
+</string>
+<string id="st_dyn_news_extended_conv_91_turn_3">
+    <text>Продолжает смещаться влево. Уже пробовал регулировать парусность.</text>
+</string>
+<string id="st_dyn_news_extended_conv_91_turn_4">
+    <text>Скорее всего, крепление. Проверь, затянуты ли винты на планке.</text>
+</string>
+<string id="st_dyn_news_extended_conv_91_turn_5">
+    <text>Точно... ага, два винта болтались. Как ты угадал?</text>
+</string>
+<string id="st_dyn_news_extended_conv_91_turn_6">
+    <text>То же самое случилось со мной в прошлом месяце. Чуть не пропустил идеальный удар.</text>
+</string>
+<string id="st_dyn_news_extended_conv_91_turn_7">
+    <text>Спасибо, чувак, не возражаешь, если я приеду, нужно осмотреть еще какое-нибудь снаряжение?</text>
+</string>
+<string id="st_dyn_news_extended_conv_91_turn_8">
+    <text>Да, конечно. Подваливай вечером в бар.</text>
+</string>
+
+
+<!-- Extended Conversation 92: Supply Coordination -->
+<string id="st_dyn_news_extended_conv_92_meta">
+    <text>supplies,planning,casual</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_1">
+    <text>%other_last_name%, скоро нам понадобятся еще припасы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_2">
+    <text>Что нам нужнее всего?</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_3">
+    <text>Боеприпасов почти не осталось. Медицинская хрень тоже.</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_4">
+    <text>Я знаю парня, который занимается медициной. Торгует дешево.</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_5">
+    <text>А с патронами что? 5.45 нужны срочно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_6">
+    <text>Я поспрошу. Постоянно кто-то продает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_7">
+    <text>И еда нужна, что-то долгохранящееся.</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_8">
+    <text>Сколько у нас вообще денег?</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_9">
+    <text>Около 50к. Если с умом, может и до 60к дотянем.</text>
+</string>
+<string id="st_dyn_news_extended_conv_92_turn_10">
+    <text>Хорошо. Я посмотрю, что смогу найти.</text>
+</string>
+
+
+<!-- Extended Conversation 93: Patrol Report -->
+<string id="st_dyn_news_extended_conv_93_meta">
+    <text>scouting,report,casual</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_1">
+    <text>Проверил сектор 7. Все ясно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_2">
+    <text>Видел что-нибудь интересное?</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_3">
+    <text>Следы плоти возле труб. Свежие.</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_4">
+    <text>Как думаешь, сколько?</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_5">
+    <text>Может быть, четыре или пять. Направляемся на север.</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_6">
+    <text>Это в сторону старого депо.</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_7">
+    <text>Ага. Но он не придет к нам.</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_8">
+    <text>Ты сейчас где?</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_9">
+    <text>Возвращаюсь. Будь там через несколько часов.</text>
+</string>
+<string id="st_dyn_news_extended_conv_93_turn_10">
+    <text>Береги себя там.</text>
+</string>
+
+
+
+
+<!-- Extended Conversation 94: Zone Rumors (REVISED - Less Philosophical) -->
+<string id="st_dyn_news_extended_conv_94_meta">
+    <text>mystery,disappearance,rumors</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_1">
+    <text>%other_first_name%, ты слышал о той группе, которая исчезла в бункере?</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_2">
+    <text>Ага. Просто исчезли. Ни тел, ни следов.</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_3">
+    <text>Парень, что туда ходил, говорил про странные голоса.</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_4">
+    <text>Это место всегда было пиздецом. Компас крутится, собаки не подходят.</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_5">
+    <text>Может это какая-то новая аномальная хрень.</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_6">
+    <text>Что бы это ни было, я держусь подальше.</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_7">
+    <text>Зона продолжает изобретать новые способы убить нас.</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_8">
+    <text>Некоторые старики говорят, что Зоне становится всё хуже.</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_9">
+    <text>Меня бы это не удивило. Место становится все более странным с каждым годом.</text>
+</string>
+<string id="st_dyn_news_extended_conv_94_turn_10">
+    <text>Вот именно. Лучше туда вообще не соваться.</text>
+</string>
+
+
+<!-- Extended Conversation 95: Equipment Trade -->
+<string id="st_dyn_news_extended_conv_95_meta">
+    <text>trading,equipment,friendly</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_1">
+    <text>%other_first_name%, всё ещё ищешь прокачанный детектор?</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_2">
+    <text>Ещё бы! Ты нашёл?</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_3">
+    <text>Раздобыл «Медведь». Б/у, но полностью рабочий.</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_4">
+    <text>Отлично. Что хочешь взамен?</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_5">
+    <text>Мне всё ещё нужен тот ПНВ, о котором ты говорил на прошлой неделе.</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_6">
+    <text>ПСО-1? Да, отдам, но ещё 5к сверху. По рукам?</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_7">
+    <text>Более чем. Когда меняемся?</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_8">
+    <text>Завтра вечером. С патруля вернусь около 18:00.</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_9">
+    <text>Идеально. Прицел почищу и подготовлю. Спасибо, что вспомнил.</text>
+</string>
+<string id="st_dyn_news_extended_conv_95_turn_10">
+    <text>Не за что, своих не бросаем. Увидимся завтра, брат.</text>
+</string>
+
+
+
+<!-- Extended Conversation 96: Casual Scav Run Planning -->
+<string id="st_dyn_news_extended_conv_96_meta">
+    <text>scavenging,planning,stalker_team</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_1">
+    <text>Эй, %other_last_name%, ты всё ещё хочешь завтра сходить на старую фабрику?</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_2">
+    <text>Да, я в деле. Какой план и кто с нами пойдёт?</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_3">
+    <text>Я, ты, Петров и тот новенький со Свалки. Тихая группа.</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_4">
+    <text>Новичок? Надеюсь, не поплывёт, если начнётся жесть.</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_5">
+    <text>Нормально будет. Просто вылазка за запчастями: терминалы, старые батарейки.</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_6">
+    <text>Ладно. Лишь бы не встретить что-то, у чего зубов больше, чем мозгов.</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_7">
+    <text>Пару слепых псов, может, искра-две. Ничего серьёзного. Вглубь не лезем.</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_8">
+    <text>Выходим рано или ждём, пока туман сгорит?</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_9">
+    <text>Поехали после завтрака. Должен вернуться в лагерь до наступления темноты, если все пройдет гладко.</text>
+</string>
+<string id="st_dyn_news_extended_conv_96_turn_10">
+    <text>Ок. Ночью рюкзак переберу и проверю, чтобы новичок не притащил мусор.</text>
+</string>
+
+
+<!-- Extended Conversation 97: Personal Check-in -->
+<string id="st_dyn_news_extended_conv_97_meta">
+    <text>personal,friendly,wellbeing</text>
+</string>
+<string id="st_dyn_news_extended_conv_97_turn_1">
+    <text>%other_first_name%, у тебя все в порядке? В последнее время я тебя редко видел.</text>
+</string>
+<string id="st_dyn_news_extended_conv_97_turn_2">
+    <text>Да, просто искал дополнительную работу. Пытаюсь накопить немного рублей.</text>
+</string>
+<string id="st_dyn_news_extended_conv_97_turn_3">
+    <text>Экономить на чем-то конкретном или просто создавать резервы?</text>
+</string>
+<string id="st_dyn_news_extended_conv_97_turn_4">
+    <text>Подумываю об обновлении своей брони. Эта старая куртка видала лучшие дни.</text>
+</string>
+<string id="st_dyn_news_extended_conv_97_turn_5">
+    <text>Хороший звонок. На что ты смотришь? Костюм Сева?</text>
+</string>
+<string id="st_dyn_news_extended_conv_97_turn_6">
+    <text>Ха-ха, до «СЕВЫ» ещё далеко. Что-нибудь подешевле.</text>
+</string>
+
+
+
+<!-- Extended Conversation 98: Resource Management -->
+<string id="st_dyn_news_extended_conv_98_meta">
+    <text>resources,management,practical</text>
+</string>
+<string id="st_dyn_news_extended_conv_98_turn_1">
+    <text>%other_last_name%, нам нужно обсудить распределение топлива для генераторов.</text>
+</string>
+<string id="st_dyn_news_extended_conv_98_turn_2">
+    <text>Сколько нам осталось? Последний раз, когда я проверял, уровень у нас был довольно низкий.</text>
+</string>
+<string id="st_dyn_news_extended_conv_98_turn_3">
+    <text>При нынешнем уровне потребления это примерно три дня. Может быть, четыре, если мы сэкономим.</text>
+</string>
+<string id="st_dyn_news_extended_conv_98_turn_4">
+    <text>Дерьмо. Есть идеи, где взять больше? Наш обычный поставщик оказался ненадежным.</text>
+</string>
+<string id="st_dyn_news_extended_conv_98_turn_5">
+    <text>Примерно в 4 кликах на восток есть заброшенная заправка. Возможно, еще есть резервы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_98_turn_6">
+    <text>Стоит проверить. Завтра туда сходим.</text>
+</string>
+
+
+
+<!-- Extended Conversation 99: Equipment Review -->
+<string id="st_dyn_news_extended_conv_99_meta">
+    <text>equipment,review,advice</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_1">
+    <text>%other_first_name%, попробовал ту новую винтовку, которую ты порекомендовал. Впечатляющая точность.</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_2">
+    <text>Я же тебе говорил! L85 может выглядеть странно, но стреляет точно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_3">
+    <text>Единственная претензия - вес. Чертовски тяжелая штука по сравнению с моим АК.</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_4">
+    <text>Да, это компромисс. Лучшая точность, но больший вес.</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_5">
+    <text>Хотя оно того стоит. Не вспотев, прибил трех собак на дистанции 200 метров.</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_6">
+    <text>Хорошая стрельба! Как ситуация с боеприпасами? 5,56 может быть дорогим.</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_7">
+    <text>Да, примерно вдвое больше, чем я плачу за 5,45. Но качество важнее количества, верно?</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_8">
+    <text>Точно. Лучше иметь меньше раундов, которые имеют значение, чем распылять и молиться.</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_9">
+    <text>Есть ещё рекомендации по шмоту? Всегда ищу апгрейд.</text>
+</string>
+<string id="st_dyn_news_extended_conv_99_turn_10">
+    <text>Посмотри новые тактические разгрузки у того торговца. Защита норм и цена адекватная.</text>
+</string>
+
+
+<!-- Extended Conversation 100: Zone Dreams -->
+<string id="st_dyn_news_extended_conv_100_meta">
+    <text>dreams,zone,strange</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_1">
+    <text>%other_last_name%, тебе когда-нибудь снились такие странные сны?</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_2">
+    <text>Через ночь. В последнем шёл по Ростку, а там всё вверх тормашками.</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_3">
+    <text>У меня во сне небо кровило, а собаки говорили человеческими голосами. Проснулся весь мокрый.</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_4">
+    <text>Зона проникает тебе в голову, чувак. Слишком много выбросов, слишком много ночей под открытым небом.</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_5">
+    <text>Думаешь, просто стресс? Или она реально что-то показывает?</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_6">
+    <text>Не знаю. Но парни видят во снах места, где не были, а потом находят их вживую.</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_7">
+    <text>Это случилось с тобой?</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_8">
+    <text>Один раз. Снился затопленный тоннель со светящимся мхом. Нашёл его у Агропрома. Но, может, дежавю.</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_9">
+    <text>Жутко. Может, Зона не только мутирует нас — она нас перепрошивает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_100_turn_10">
+    <text>Хех. Не самое странное, что она делала. Просто бы сны так не долбили по реальности.</text>
+</string>
+
+
+
+<!-- Extended Conversation 101: The Stranger -->
+<string id="st_dyn_news_extended_conv_101_meta">
+    <text>rumor,stranger,zone</text>
+</string>
+<string id="st_dyn_news_extended_conv_101_turn_1">
+    <text>Ты видел того парня, который проходил через лагерь на прошлой неделе? Длинное пальто, не сказал ни слова?</text>
+</string>
+<string id="st_dyn_news_extended_conv_101_turn_2">
+    <text>Ага. Будто из шторма вышел. Шмот мокрый, глаза пустые.</text>
+</string>
+<string id="st_dyn_news_extended_conv_101_turn_3">
+    <text>Кто-то сказал, что его видели приближающимся к Выжигателю Мозгов. Один!.</text>
+</string>
+<string id="st_dyn_news_extended_conv_101_turn_4">
+    <text>Не верю, что он оттуда в одного вышел. Там мозги плавит от одного приближения.</text>
+</string>
+<string id="st_dyn_news_extended_conv_101_turn_5">
+    <text>Вот и я так думал. Но у него ни ожогов, ни радов. Как будто Зона сама пропустила.</text>
+</string>
+<string id="st_dyn_news_extended_conv_101_turn_6">
+    <text>Он даже не торговал. Просто сидел у огня и смотрел на него, как будто он что-то ему показывал.</text>
+</string>
+<string id="st_dyn_news_extended_conv_101_turn_7">
+    <text>Ты заметил, что собаки не подходили к нему?</text>
+</string>
+<string id="st_dyn_news_extended_conv_101_turn_8">
+    <text>Я сделал. Даже дворняга Васька, и эта тварь лает на аномалии.</text>
+</string>
+<string id="st_dyn_news_extended_conv_101_turn_9">
+    <text>Зона призраками забита, брат. Может, этот просто научился ходить среди живых.</text>
+</string>
+
+
+<!-- Extended Conversation 102: Missing Stalker (REVISED - More Casual) -->
+<string id="st_dyn_news_extended_conv_102_meta">
+    <text>missing,stalker,pragmatic</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_1">
+    <text>Миша еще не вернулся? Прошло два дня.</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_2">
+    <text>Неа. Последний сигнал был у сгоревшей фермы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_3">
+    <text>В последнее время в этом районе плохие новости.</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_4">
+    <text>Да, кровососы следят повсюду.</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_5">
+    <text>Он знал, чем рискует, когда пошёл один.</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_6">
+    <text>Всё равно. Надо глянуть, где сигнал умер.</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_7">
+    <text>Думаешь посмотреть?</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_8">
+    <text>Может. Хотя бы понять, что с ним стало.</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_9">
+    <text>Я пойду с. Но если мы просто найдём снаряжение...</text>
+</string>
+<string id="st_dyn_news_extended_conv_102_turn_10">
+    <text>Тогда всё ясно. Шмот забираем.</text>
+</string>
+
+
+<!-- Extended Conversation 103: Weapon Failure -->
+<string id="st_dyn_news_extended_conv_103_meta">
+    <text>weapon,malfunction,combat</text>
+</string>
+<string id="st_dyn_news_extended_conv_103_turn_1">
+    <text>У тебя когда-нибудь заклинивала винтовка, когда дела шли плохо?</text>
+</string>
+<string id="st_dyn_news_extended_conv_103_turn_2">
+    <text>Вчера. Слепые псы у насыпи прижали, затвор встал на полхода.</text>
+</string>
+<string id="st_dyn_news_extended_conv_103_turn_3">
+    <text>Что ты сделал?</text>
+</string>
+<string id="st_dyn_news_extended_conv_103_turn_4">
+    <text>Перешел на пистолет. Опустошил весь магазин, чтобы дать передышку.</text>
+</string>
+<string id="st_dyn_news_extended_conv_103_turn_5">
+    <text>Я вам говорю: перестаньте пользоваться этим ржавым АК с барахолки. Оно скреплено скотчем и молитвами.</text>
+</string>
+<string id="st_dyn_news_extended_conv_103_turn_6">
+    <text>Эй, это было дешево. И это *обычно* работает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_103_turn_7">
+    <text>Вот это твоё «обычно» здесь не работает. Нужен запасной ствол, который не клинит от чиха.</text>
+</string>
+<string id="st_dyn_news_extended_conv_103_turn_8">
+    <text>Ага-ага. Как только этот арт спихну, сразу апгрейднусь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_103_turn_9">
+    <text>Только не умри, держа в руках хлам. Не стоит своих рублей.</text>
+</string>
+
+
+
+<!-- Extended Conversation 104: Vanished with the Stash -->
+<string id="st_dyn_news_extended_conv_104_meta">
+    <text>stash,greed,missing</text>
+</string>
+<string id="st_dyn_news_extended_conv_104_turn_1">
+    <text>Слышишь, что случилось с Лобановым?</text>
+</string>
+<string id="st_dyn_news_extended_conv_104_turn_2">
+    <text>Ага. Ходят слухи, что он нашел военный тайник к северу от контрольно-пропускного пункта на болоте. Потом исчез.</text>
+</string>
+<string id="st_dyn_news_extended_conv_104_turn_3">
+    <text>Классика. Один раз повезло — и уже король, делиться ни с кем не хочет.</text>
+</string>
+<string id="st_dyn_news_extended_conv_104_turn_4">
+    <text>Или кто-то последовал за ним. Это могли быть бандиты - такие тайники долго не хранятся.</text>
+</string>
+<string id="st_dyn_news_extended_conv_104_turn_5">
+    <text>Ему следовало держать рот на замке. Хвастался этим за водкой, как новичок.</text>
+</string>
+<string id="st_dyn_news_extended_conv_104_turn_6">
+    <text>Теперь рация молчит, и два дня его никто не видел. Либо слился, либо в канаве лежит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_104_turn_7">
+    <text>Ещё одна зонная загадка.</text>
+</string>
+
+
+<!-- Extended Conversation 105: Black Market Bargain -->
+<string id="st_dyn_news_extended_conv_105_meta">
+    <text>trading,black_market,negotiation</text>
+</string>
+<string id="st_dyn_news_extended_conv_105_turn_1">
+    <text>Слышал, ты где-то раздобыл армейские патроны. Правда?</text>
+</string>
+<string id="st_dyn_news_extended_conv_105_turn_2">
+    <text>Зависит от того, кто спрашивает и что предлагает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_105_turn_3">
+    <text>Называй цену. У меня два ящика водки и пара счётчиков Гейгера.</text>
+</string>
+<string id="st_dyn_news_extended_conv_105_turn_4">
+    <text>Одной водкой не отделаешься. Давай ящик и твой старый костюм «СЕВА».</text>
+</string>
+<string id="st_dyn_news_extended_conv_105_turn_5">
+    <text>Моя «СЕВА» и так на соплях. Ты тут реально со смертью заигрываешь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_105_turn_6">
+    <text>Считай, пожизненная гарантия. За свой товар отвечаю.</text>
+</string>
+<string id="st_dyn_news_extended_conv_105_turn_7">
+    <text>Ладно. На старом месте. Напишешь время.</text>
+</string>
+
+
+<!-- Extended Conversation 106: Isolation Paranoia -->
+<!-- Extended Conversation 106: Weapon Maintenance -->
+<string id="st_dyn_news_extended_conv_106_meta">
+    <text>weapons,maintenance,reliability</text>
+</string>
+<string id="st_dyn_news_extended_conv_106_turn_1">
+    <text>Моя винтовка заклинила вчера посреди боя. Думал, что это конец мне.</text>
+</string>
+<string id="st_dyn_news_extended_conv_106_turn_2">
+    <text>Спорим, ты всё ещё с этим грязным АК ходишь?</text>
+</string>
+<string id="st_dyn_news_extended_conv_106_turn_3">
+    <text>Работает, когда захочет. Я чищу его, но осечки всё равно лезут.</text>
+</string>
+<string id="st_dyn_news_extended_conv_106_turn_4">
+    <text>Масла меньше лей. Когда перебор, он пыль как магнит жрёт.</text>
+</string>
+<string id="st_dyn_news_extended_conv_106_turn_5">
+    <text>Легко тебе говорить, у тебя западный ствол с рейда на конвой.</text>
+</string>
+<string id="st_dyn_news_extended_conv_106_turn_6">
+    <text>Ага. И я его каждый вечер до винта разбираю. Здесь я только пушке доверяю.</text>
+</string>
+<string id="st_dyn_news_extended_conv_106_turn_7">
+    <text>Понял, пора и мне обновляться.</text>
+</string>
+
+
+<!-- Extended Conversation 107: Quantum Rift Theory -->
+<!-- Extended Conversation 107: Improvised Trap Disarmament -->
+<string id="st_dyn_news_extended_conv_107_meta">
+    <text>traps,fieldcraft,improvisation</text>
+</string>
+<string id="st_dyn_news_extended_conv_107_turn_1">
+    <text>Ты замечал эти растяжки возле железнодорожного туннеля?</text>
+</string>
+<string id="st_dyn_news_extended_conv_107_turn_2">
+    <text>Ага. На растяжки повесили гвоздевые мины и сигнальные фаеры. Мерзкая работа.</text>
+</string>
+<string id="st_dyn_news_extended_conv_107_turn_3">
+    <text>Я кусачки и колышек таскаю. Для большинства растяжек хватает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_107_turn_4">
+    <text>Пока не наступишь на один, подключенный к выключателю безопасности. Тогда это все рефлекторно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_107_turn_5">
+    <text>Начал использовать зеркала, чтобы проверять углы, прежде чем вступить в бой. Спас меня уже дважды.</text>
+</string>
+<string id="st_dyn_news_extended_conv_107_turn_6">
+    <text>Умно. В следующий рейс возьму волоконник. На самоделках долго не проживу.</text>
+</string>
+
+<!-- Extended Conversation 108: Old Friend Reunion -->
+<string id="st_dyn_news_extended_conv_108_meta">
+    <text>friendship,reunion,nostalgia</text>
+</string>
+<string id="st_dyn_news_extended_conv_108_turn_1">
+    <text>%other_first_name%? Ты тут? Слышал, что вернулся.</text>
+</string>
+<string id="st_dyn_news_extended_conv_108_turn_2">
+    <text>А в последний раз я слышал, ты сваливал на Запад насовсем!</text>
+</string>
+<string id="st_dyn_news_extended_conv_108_turn_3">
+    <text>Неспокойно стало. Снаружи всё мёртвое, а здесь хоть жизнь бьётся.</text>
+</string>
+<string id="st_dyn_news_extended_conv_108_turn_4">
+    <text>Сумасшествие, как мы рисковали всем, гоняясь за призраками, и оставались ради большего.</text>
+</string>
+
+<!-- Extended Conversation 109: Mutant Ambush -->
+<string id="st_dyn_news_extended_conv_109_meta">
+    <text>mutants,ambush,combat,intense</text>
+</string>
+<string id="st_dyn_news_extended_conv_109_turn_1">
+    <text>Они из-под земли полезли, гигантские кроты! Штук двадцать минимум.</text>
+</string>
+<string id="st_dyn_news_extended_conv_109_turn_2">
+    <text>Сука. Мы вчера со слепыми псами еле выжили.</text>
+</string>
+<string id="st_dyn_news_extended_conv_109_turn_3">
+    <text>Да, но эти роют. Ничего не видно, только рваные борозды и визг.</text>
+</string>
+<string id="st_dyn_news_extended_conv_109_turn_4">
+    <text>Как ты вообще сопротивлялся?</text>
+</string>
+<string id="st_dyn_news_extended_conv_109_turn_5">
+    <text>Граната. Полтуннеля сложил, двух хороших потерял...</text>
+</string>
+<string id="st_dyn_news_extended_conv_109_turn_6">
+    <text>Сука... сочувствую, брат.</text>
+</string>
+
+
+
+<!-- Extended Conversation 110: Smuggler's Code -->
+<string id="st_dyn_news_extended_conv_110_meta">
+    <text>smuggling,negotiation,danger</text>
+</string>
+<string id="st_dyn_news_extended_conv_110_turn_1">
+    <text>%other_first_name%, пайки военные через таможню провёл?</text>
+</string>
+<string id="st_dyn_news_extended_conv_110_turn_2">
+    <text>Еле-еле. Половину охране скормил как «пошлину».</text>
+</string>
+<string id="st_dyn_news_extended_conv_110_turn_3">
+    <text>Ебать. А остальное?</text>
+</string>
+<string id="st_dyn_news_extended_conv_110_turn_4">
+    <text>Спрятал. Сам знаешь схему.</text>
+</string>
+<string id="st_dyn_news_extended_conv_110_turn_5">
+    <text>Отлично. В полночь там же. И стволы не забудь.</text>
+</string>
+
+
+<!-- Extended Conversation 111: Toxic Brew -->
+<string id="st_dyn_news_extended_conv_111_meta">
+    <text>humor,poison,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_111_turn_1">
+    <text>Эй, %other_first_name%, попробовал твою домашнюю водку.</text>
+</string>
+<string id="st_dyn_news_extended_conv_111_turn_2">
+    <text>Как это было?</text>
+</string>
+<string id="st_dyn_news_extended_conv_111_turn_3">
+    <text>Неплохо. Только крепость, кажется, запредельная.</text>
+</string>
+<string id="st_dyn_news_extended_conv_111_turn_4">
+    <text>Хм, значит ещё подкручу рецепт.</text>
+</string>
+
+
+<!-- Extended Conversation 112: Scavenger Ethics -->
+<string id="st_dyn_news_extended_conv_112_meta">
+    <text>scavenging,ethics,morality</text>
+</string>
+<string id="st_dyn_news_extended_conv_112_turn_1">
+    <text>%other_first_name%, есть минутка по делу?</text>
+</string>
+<string id="st_dyn_news_extended_conv_112_turn_2">
+    <text>Если опять про «сознание Зоны», иди лечи это в другом месте.</text>
+</string>
+<string id="st_dyn_news_extended_conv_112_turn_3">
+    <text>Не, про мародёрку. Когда снимаешь шмот с ещё тёплого тела — это другое чувство.</text>
+</string>
+<string id="st_dyn_news_extended_conv_112_turn_4">
+    <text>Холодно? Ещё холоднее будет. Хочешь сдохнуть из-за морали или жить на чужом луте?</text>
+</string>
+<string id="st_dyn_news_extended_conv_112_turn_5">
+    <text>Да не в вине дело... Просто мысль, что однажды и меня так же разденут.</text>
+</string>
+<string id="st_dyn_news_extended_conv_112_turn_6">
+    <text>Так тут всё устроено. Ничего не оставляй, забирай всё, что можешь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_112_turn_7">
+    <text>Всё равно ощущение, будто мы друг друга по карманам жрём.</text>
+</string>
+
+
+<!-- Extended Conversation 113: Contaminated Rations -->
+<string id="st_dyn_news_extended_conv_113_meta">
+    <text>food,contamination,survival</text>
+</string>
+<string id="st_dyn_news_extended_conv_113_turn_1">
+    <text>Рядом с блокпостом нашел старый армейский ящик. Внутри все еще были пайки.</text>
+</string>
+<string id="st_dyn_news_extended_conv_113_turn_2">
+    <text>Какие именно? Сухпаи-кирпичи или консервированный шлам?</text>
+</string>
+<string id="st_dyn_news_extended_conv_113_turn_3">
+    <text>Сборная солянка. Этикетки выцвели, вскрыл банку — воняет дизелем.</text>
+</string>
+<string id="st_dyn_news_extended_conv_113_turn_4">
+    <text>Зонная гниль. Или радой, или химией напиталось. Ты это ел?</text>
+</string>
+<string id="st_dyn_news_extended_conv_113_turn_5">
+    <text>Полбанки. Час блевал с головокружением. Не советую.</text>
+</string>
+<string id="st_dyn_news_extended_conv_113_turn_6">
+    <text>Ты идиот.</text>
+</string>
+
+
+<!-- Extended Conversation 114: Suspicious Strangers -->
+<string id="st_dyn_news_extended_conv_114_meta">
+    <text>suspicion,encounter,preparation</text>
+</string>
+<string id="st_dyn_news_extended_conv_114_turn_1">
+    <text>Эй, %other_first_name%... может, мне и мерещится, но когда мы шли обратно, я заметил каких-то мутных типов. Вернёмся, проверим?</text>
+</string>
+<string id="st_dyn_news_extended_conv_114_turn_2">
+    <text>Я уж думал, ты не предложишь. Меня они тоже до усрачки напрягли. Кто вообще шляется так средь бела дня? Там явно что-то нечисто. Заряжен?</text>
+</string>
+<string id="st_dyn_news_extended_conv_114_turn_3">
+    <text>Патронов впритык, но вывезу. А ты?</text>
+</string>
+<string id="st_dyn_news_extended_conv_114_turn_4">
+    <text>Мой ствол после той чёртовой Химеры еле живой, но тут где-то рядом должен быть механик. Заглянем к нему и двинем.</text>
+</string>
+<string id="st_dyn_news_extended_conv_114_turn_5">
+    <text>Нормально, погнали. И жратвы по дороге прихватим - хрен знает, во что вляпаемся, может, ещё и гнаться за этими уродами придётся. На пустой желудок такое не делается.</text>
+</string>
+<string id="st_dyn_news_extended_conv_114_turn_6">
+    <text>На это нет времени, к тому моменту их уже может не быть. Погнали.</text>
+</string>
+<string id="st_dyn_news_extended_conv_114_turn_7">
+    <text>Да похуй. Ладно, погнали.</text>
+</string>
+
+
+
+<!-- Extended Conversation 115: Black Market Organ Trade -->
+<string id="st_dyn_news_extended_conv_115_meta">
+    <text>black_market,organ_trade,shady</text>
+</string>
+<string id="st_dyn_news_extended_conv_115_turn_1">
+    <text>Слышал, в Мертвом городе один док органы по-тихому толкает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_115_turn_2">
+    <text>Ага, "док" - громко сказано. Скорее мясник со скальпелем. Цены конские, риск ещё выше.</text>
+</string>
+<string id="st_dyn_news_extended_conv_115_turn_3">
+    <text>Люди уже настолько отчаялись, что платят за почку или печень? Пиздец.</text>
+</string>
+<string id="st_dyn_news_extended_conv_115_turn_4">
+    <text>Отчаяние порождает здесь странные сделки. Слышал, что некоторые из этих органов попадают в биоэксперименты.</text>
+</string>
+<string id="st_dyn_news_extended_conv_115_turn_5">
+    <text>Лучше держаться от этого дерьма подальше. Не хочу сам стать такой историей.</text>
+</string>
+
+<!-- Extended Conversation 116: Arms Deal Gone Wrong -->
+<string id="st_dyn_news_extended_conv_116_meta">
+    <text>black_market,arms_deal,conflict</text>
+</string>
+<string id="st_dyn_news_extended_conv_116_turn_1">
+    <text>Слышал про сделку с оружием на старом заводе прошлой ночью?</text>
+</string>
+<string id="st_dyn_news_extended_conv_116_turn_2">
+    <text>Ага. Ходят слухи, что какой-то новичок пытался надавить на продавца. Не закончилось хорошо.</text>
+</string>
+<string id="st_dyn_news_extended_conv_116_turn_3">
+    <text>Дай угадаю: стрельба и куча трупов?</text>
+</string>
+<string id="st_dyn_news_extended_conv_116_turn_4">
+    <text>Точно. Покупатель увез половину груза, остальная часть сгорела в огне.</text>
+</string>
+<string id="st_dyn_news_extended_conv_116_turn_5">
+    <text>Чёрный рынок - не место для дилетантов.</text>
+</string>
+
+<!-- Extended Conversation 117: Rare Artifact Hunt -->
+<string id="st_dyn_news_extended_conv_117_meta">
+    <text>black_market,artifact,hunting</text>
+</string>
+<string id="st_dyn_news_extended_conv_117_turn_1">
+    <text>Нарыл наводку на редкий артефакт: какая-то светящаяся хрень зарыта возле Юпитера.</text>
+</string>
+<string id="st_dyn_news_extended_conv_117_turn_2">
+    <text>Юпитер? Там же ебаная мясорубка, нахрена рисковать?</text>
+</string>
+<string id="st_dyn_news_extended_conv_117_turn_3">
+    <text>Потому что на черном рынке за него можно заработать большие деньги. Предположительно, какая-то старая советская технология слилась с аномальной энергией.</text>
+</string>
+<string id="st_dyn_news_extended_conv_117_turn_4">
+    <text>Звучит как миф. Но если это правда, то оно стоит больше, чем запас боеприпасов небольшой армии.</text>
+</string>
+<string id="st_dyn_news_extended_conv_117_turn_5">
+    <text>На следующей неделе отправляю группу. В деле?</text>
+</string>
+<string id="st_dyn_news_extended_conv_117_turn_6">
+    <text>Записывай меня. Только чтобы в этот раз бабки были настоящие.</text>
+</string>
+
+<!-- Extended Conversation 118: Organ Harvest Rumors -->
+<string id="st_dyn_news_extended_conv_118_meta">
+    <text>black_market,organ_harvest,rumors</text>
+</string>
+<string id="st_dyn_news_extended_conv_118_turn_1">
+    <text>Слышал, на прошлой неделе под Припятью схватили какого-то беднягу.</text>
+</string>
+<string id="st_dyn_news_extended_conv_118_turn_2">
+    <text>Пойман? Кем?</text>
+</string>
+<string id="st_dyn_news_extended_conv_118_turn_3">
+    <text>Какая-то группа по органам работает: схватили, распотрошили, продали. И без лишних вопросов.</text>
+</string>
+<string id="st_dyn_news_extended_conv_118_turn_4">
+    <text>Блять... и думаешь, кто хуже - мутанты или люди.</text>
+</string>
+<string id="st_dyn_news_extended_conv_118_turn_5">
+    <text>Люди, как обычно. Зона смертельная, но хотя бы в спину не пырнёт.</text>
+</string>
+
+<!-- Extended Conversation 119: Backroom Artifact Trade -->
+<string id="st_dyn_news_extended_conv_119_meta">
+    <text>black_market,artifact_trade,negotiation</text>
+</string>
+<string id="st_dyn_news_extended_conv_119_turn_1">
+    <text>%other_first_name%, мне в руки попал Шепчущий камень. Проверишь, сможешь его сбыть?</text>
+</string>
+<string id="st_dyn_news_extended_conv_119_turn_2">
+    <text>Шепчущий камень? Эти вещи приносят неудачу. Зачем рисковать?</text>
+</string>
+<string id="st_dyn_news_extended_conv_119_turn_3">
+    <text>Потому что для нужного покупателя это ебучее состояние. Риск большой, но и куш жирный.</text>
+</string>
+<string id="st_dyn_news_extended_conv_119_turn_4">
+    <text>Где встреча?</text>
+</string>
+<string id="st_dyn_news_extended_conv_119_turn_5">
+    <text>Скидываю тебе детали.</text>
+</string>
+<string id="st_dyn_news_extended_conv_119_turn_6">
+    <text>Принял. Надеюсь, покупатель такой же реальный, как и риски.</text>
+</string>
+
+
+
+<!-- Extended Conversation 120: Found PDA Entry -->
+<string id="st_dyn_news_extended_conv_120_meta">
+    <text>lost_messages,pda,reflection</text>
+</string>
+<string id="st_dyn_news_extended_conv_120_turn_1">
+    <text>Подобрал КПК у мёртвого одиночки возле Янова. Забит записями.</text>
+</string>
+<string id="st_dyn_news_extended_conv_120_turn_2">
+    <text>Какие записи? Обычный зональный дневник или что-то пикантное?</text>
+</string>
+<string id="st_dyn_news_extended_conv_120_turn_3">
+    <text>В основном параноидальный бред, заметки о «тени, наблюдающей за ним» и некоторые координаты.</text>
+</string>
+<string id="st_dyn_news_extended_conv_120_turn_4">
+    <text>"Тень наблюдает"? Похоже, зонное безумие уже подкралось.</text>
+</string>
+<string id="st_dyn_news_extended_conv_120_turn_5">
+    <text>Может быть. Но одна запись заканчивается словами: «Они ближе, чем я думал... больше не могу бежать».</text>
+</string>
+<string id="st_dyn_news_extended_conv_120_turn_6">
+    <text>Чёрт... аж не по себе. Что же его в итоге прикончило?</text>
+</string>
+
+<!-- Extended Conversation 121: Journal of a Dead Stalker -->
+<string id="st_dyn_news_extended_conv_121_meta">
+    <text>journal,lost_messages,stalker_reflection</text>
+</string>
+<string id="st_dyn_news_extended_conv_121_turn_1">
+    <text>Нашёл дневник на том последнем трупе.</text>
+</string>
+<string id="st_dyn_news_extended_conv_121_turn_2">
+    <text>Есть что-нибудь полезное или просто еще одно прощальное письмо?</text>
+</string>
+<string id="st_dyn_news_extended_conv_121_turn_3">
+    <text>Более того. Рассказывает о тайном бункере, странных ночных звуках и предательстве.</text>
+</string>
+<string id="st_dyn_news_extended_conv_121_turn_4">
+    <text>Предательство? Между сталкерами или чем-то похуже?</text>
+</string>
+<string id="st_dyn_news_extended_conv_121_turn_5">
+    <text>Непонятно. Но он написал: «Никому не доверяй, даже тем, у кого твоя кровь».</text>
+</string>
+<string id="st_dyn_news_extended_conv_121_turn_6">
+    <text>Жестко. Зона либо меняет людей, либо показывает, кто они на самом деле.</text>
+</string>
+
+<!-- Extended Conversation 122: Ghostly Radio Logs -->
+<string id="st_dyn_news_extended_conv_122_meta">
+    <text>radio_logs,lost_messages,mystery</text>
+</string>
+<string id="st_dyn_news_extended_conv_122_turn_1">
+    <text>Снял со старого КПК мёртвого сталкера несколько радиологов.</text>
+</string>
+<string id="st_dyn_news_extended_conv_122_turn_2">
+    <text>Например? Трёп про мутантов или про секретные лабы?</text>
+</string>
+<string id="st_dyn_news_extended_conv_122_turn_3">
+    <text>Больше похоже на загадочное сообщение, повторяющееся снова и снова: «Наблюдающий видит все. Конец близок».</text>
+</string>
+<string id="st_dyn_news_extended_conv_122_turn_4">
+    <text>Звучит как зональная чушь. Или предупреждение от кого-то сошедшего с ума.</text>
+</string>
+<string id="st_dyn_news_extended_conv_122_turn_5">
+    <text>Может, и то и другое. Я уже начинаю думать, что Зона давно не только про физику.</text>
+</string>
+
+<!-- Extended Conversation 123: Coordinates Without Return -->
+<string id="st_dyn_news_extended_conv_123_meta">
+    <text>lost_messages,coordinates,mystery</text>
+</string>
+<string id="st_dyn_news_extended_conv_123_turn_1">
+    <text>Нашёл КПК, весь исписанный координатами. Ни одна точка не совпадает с известными местами.</text>
+</string>
+<string id="st_dyn_news_extended_conv_123_turn_2">
+    <text>Может, тайники. Может, ловушки. А может, просто чей-то съехавший чердак.</text>
+</string>
+<string id="st_dyn_news_extended_conv_123_turn_3">
+    <text>В одной из записок говорилось: «Если хочешь выжить, встретимся здесь». Ни имени, ни даты.</text>
+</string>
+<string id="st_dyn_news_extended_conv_123_turn_4">
+    <text>И никто, судя по всему, не появился.</text>
+</string>
+<string id="st_dyn_news_extended_conv_123_turn_5">
+    <text>Ага. Только тишина и последняя надежда мертвого сталкера.</text>
+</string>
+
+
+<!-- Extended Conversation 124: Last Words on a PDA -->
+<string id="st_dyn_news_extended_conv_124_meta">
+    <text>lost_messages,last_words,pda</text>
+</string>
+<string id="st_dyn_news_extended_conv_124_turn_1">
+    <text>Прочитал последнее сообщение с КПК сталкера, которого нашли у электростанции.</text>
+</string>
+<string id="st_dyn_news_extended_conv_124_turn_2">
+    <text>Что там говорилось?</text>
+</string>
+<string id="st_dyn_news_extended_conv_124_turn_3">
+    <text>«Если ты это найдешь, я уйду навсегда. Зона не прощает, и люди здесь тоже».</text>
+</string>
+<string id="st_dyn_news_extended_conv_124_turn_4">
+    <text>Суровая правда. Никто не уходит невредимым.</text>
+</string>
+<string id="st_dyn_news_extended_conv_124_turn_5">
+    <text>Да... и сразу думаешь, сколько таких историй кончилось так же - в земле и в тишине.</text>
+</string>
+
+
+
+<!-- Extended Conversation 125: Fading Memories -->
+<string id="st_dyn_news_extended_conv_125_meta">
+    <text>lost_messages,journal,memory,paranoia</text>
+</string>
+<string id="st_dyn_news_extended_conv_125_turn_1">
+    <text>Нашёл дневник бедолаги, который уже терял счёт времени и местам.</text>
+</string>
+<string id="st_dyn_news_extended_conv_125_turn_2">
+    <text>Зона беспощадна. Когда неделями без отдыха, крышу рвёт быстро.</text>
+</string>
+<string id="st_dyn_news_extended_conv_125_turn_3">
+    <text>Он писал о том, что забыл, где он был и с кем был, и впал в паранойю.</text>
+</string>
+<string id="st_dyn_news_extended_conv_125_turn_4">
+    <text>Изоляция так и работает. Зона не всегда убивает сразу - чаще медленно стачивает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_125_turn_5">
+    <text>В последней записи было: "Если я полностью потеряю себя, кто тогда вообще выживет?"</text>
+</string>
+
+<!-- Extended Conversation 126: Betrayal Log -->
+<string id="st_dyn_news_extended_conv_126_meta">
+    <text>lost_messages,betrayal,journal</text>
+</string>
+<string id="st_dyn_news_extended_conv_126_turn_1">
+    <text>Нашел КПК, обвиняющий товарища по команде в том, что он сдал их во время рейда.</text>
+</string>
+<string id="st_dyn_news_extended_conv_126_turn_2">
+    <text>КПК пишет, кто это?</text>
+</string>
+<string id="st_dyn_news_extended_conv_126_turn_3">
+    <text>Только инициалы, но тон смертельно серьёзный - с прямыми угрозами.</text>
+</string>
+<string id="st_dyn_news_extended_conv_126_turn_4">
+    <text>Доверие в Зоне невелико, а между сталкерами еще меньше.</text>
+</string>
+<string id="st_dyn_news_extended_conv_126_turn_5">
+    <text>Иногда полезнее смотреть не вперёд, а себе за спину.</text>
+</string>
+
+<!-- Extended Conversation 127: The Lost Coordinates -->
+<string id="st_dyn_news_extended_conv_127_meta">
+    <text>lost_messages,coordinates,secret</text>
+</string>
+<string id="st_dyn_news_extended_conv_127_turn_1">
+    <text>Нашли в КПК нацарапанные координаты - мест, которые никто из наших не знает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_127_turn_2">
+    <text>Это могут быть тайные тайники или ловушки, расставленные бандитами.</text>
+</string>
+<string id="st_dyn_news_extended_conv_127_turn_3">
+    <text>В одной записке написано: «Встречайтесь здесь, если вам нужен товар». Ни имен, ни дат.</text>
+</string>
+<string id="st_dyn_news_extended_conv_127_turn_4">
+    <text>Похоже, кто-то исчез перед встречей.</text>
+</string>
+
+<!-- Extended Conversation 128: The Final Entry -->
+<string id="st_dyn_news_extended_conv_128_meta">
+    <text>lost_messages,last_entry,pda</text>
+</string>
+<string id="st_dyn_news_extended_conv_128_turn_1">
+    <text>Нашёл последнюю запись в КПК сталкера возле электростанции.</text>
+</string>
+<string id="st_dyn_news_extended_conv_128_turn_2">
+    <text>Что это было?</text>
+</string>
+<string id="st_dyn_news_extended_conv_128_turn_3">
+    <text>«Если ты это найдешь, я мертв. Зона забрала слишком много. Не верь никому».</text>
+</string>
+<string id="st_dyn_news_extended_conv_128_turn_4">
+    <text>Холодные слова, но здесь правда.</text>
+</string>
+
+<!-- Extended Conversation 129: Unfinished Transmission -->
+<string id="st_dyn_news_extended_conv_129_meta">
+    <text>lost_messages,radio,pda,unfinished</text>
+</string>
+<string id="st_dyn_news_extended_conv_129_turn_1">
+    <text>Нашёл в КПК незавершённое радиосообщение.</text>
+</string>
+<string id="st_dyn_news_extended_conv_129_turn_2">
+    <text>Что там говорилось?</text>
+</string>
+<string id="st_dyn_news_extended_conv_129_turn_3">
+    <text>"Долго не продержусь. Если кто это слышит - держитесь подальше от Сектора 9. Бандиты прут толпой."</text>
+</string>
+<string id="st_dyn_news_extended_conv_129_turn_4">
+    <text>Сектор 9 известен своими неприятностями. Ничего удивительного.</text>
+</string>
+
+
+<!-- Extended Conversation 130: Smuggler's Run -->
+<string id="st_dyn_news_extended_conv_130_meta">
+    <text>smuggling,gear,risk</text>
+</string>
+<string id="st_dyn_news_extended_conv_130_turn_1">
+    <text>Слышал про вчерашний рейс? Везли медицину, и всё пошло по пизде.</text>
+</string>
+<string id="st_dyn_news_extended_conv_130_turn_2">
+    <text>Ага, у южного блокпоста колонну приняли. Половину груза просрали.</text>
+</string>
+<string id="st_dyn_news_extended_conv_130_turn_3">
+    <text>Это должна была быть большая поставка, без права на ошибку.</text>
+</string>
+<string id="st_dyn_news_extended_conv_130_turn_4">
+    <text>Контрабанда в Зоне - это не игра. Один промах - и ты мертв или того хуже - никаких вопросов.</text>
+</string>
+
+<!-- Extended Conversation 131: Quiet Brokers -->
+<string id="st_dyn_news_extended_conv_131_meta">
+    <text>smuggling,brokers,information</text>
+</string>
+<string id="st_dyn_news_extended_conv_131_turn_1">
+    <text>Знаешь кого-то, кто сейчас гоняет товар по Чёрной дороге?</text>
+</string>
+<string id="st_dyn_news_extended_conv_131_turn_2">
+    <text>Хм, может, знаю одного. Тихий тип. Лишнего не скажет, пока не покажешь серьёзные деньги.</text>
+</string>
+<string id="st_dyn_news_extended_conv_131_turn_3">
+    <text>Так тут всё и устроено. С длинным языком в Зоне долго не живут.</text>
+</string>
+<string id="st_dyn_news_extended_conv_131_turn_4">
+    <text>Говорят, у него контакты по обе стороны границы. Схема вылизана.</text>
+</string>
+<string id="st_dyn_news_extended_conv_131_turn_5">
+    <text>Вот это дело, блин. Сведи меня с ним, скинь детали.</text>
+</string>
+
+<!-- Extended Conversation 132: Smuggling People -->
+<string id="st_dyn_news_extended_conv_132_meta">
+    <text>smuggling,people,risk</text>
+</string>
+<string id="st_dyn_news_extended_conv_132_turn_1">
+    <text>Слышал, в Зону сейчас возят каких-то странных типов, вообще дичь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_132_turn_2">
+    <text>Каких ещё?</text>
+</string>
+<string id="st_dyn_news_extended_conv_132_turn_3">
+    <text>Типа туристов, блять: богатые западники платят украинским военным за "сафари" и даже за отстрел одиночек. Из тёплой безопасной точки, которую им военные готовят.</text>
+</string>
+<string id="st_dyn_news_extended_conv_132_turn_4">
+    <text>Ты гонишь, звучит как ебучий бред.</text>
+</string>
+<string id="st_dyn_news_extended_conv_132_turn_4">
+    <text>Говорю тебе, у этих богатых уродов кончились развлечения. В Зоне хаос и толком нет законов - идеальное место для такой грязи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_132_turn_4">
+    <text>Я тут давно, но о таком не слышал. Извини, звучит дико.</text>
+</string>
+<string id="st_dyn_news_extended_conv_132_turn_4">
+    <text>Их наряжают в военное, сажают на удобные позиции на окраинах. Дают винтовку с оптикой - и сиди, жди. Если одиночку положат, всем похер. Мутанта снимут - вообще бонус.</text>
+</string>
+<string id="st_dyn_news_extended_conv_132_turn_4">
+    <text>М-да, заговоры с каждым днём жирнее.</text>
+</string>
+
+
+<!-- Extended Conversation 143: Life Before (REVISED - More Universal) -->
+<string id="st_dyn_news_extended_conv_143_meta">
+    <text>past,zone,casual</text>
+</string>
+<string id="st_dyn_news_extended_conv_143_turn_1">
+    <text>Ты вообще вспоминаешь, чем занимался до всей этой жести?</text>
+</string>
+<string id="st_dyn_news_extended_conv_143_turn_2">
+    <text>Иногда. В основном, когда я пьян.</text>
+</string>
+<string id="st_dyn_news_extended_conv_143_turn_3">
+    <text>Когда-то у меня была нормальная работа. Теперь посмотри на меня.</text>
+</string>
+<string id="st_dyn_news_extended_conv_143_turn_4">
+    <text>Зона меняет всех.</text>
+</string>
+<string id="st_dyn_news_extended_conv_143_turn_5">
+    <text>Ага. Хотя во что?</text>
+</string>
+<string id="st_dyn_news_extended_conv_143_turn_6">
+    <text>Тем, что даёт нам прожить ещё один день.</text>
+</string>
+
+
+
+<!-- Extended Conversation 144: Betrayal (REVISED - More Direct) -->
+<string id="st_dyn_news_extended_conv_144_meta">
+    <text>betrayal,revenge,conflict</text>
+</string>
+<string id="st_dyn_news_extended_conv_144_turn_1">
+    <text>Выяснил, кто оставил тебя на складе.</text>
+</string>
+<string id="st_dyn_news_extended_conv_144_turn_2">
+    <text>Кто?</text>
+</string>
+<string id="st_dyn_news_extended_conv_144_turn_3">
+    <text>Ты уверен, что хочешь знать?</text>
+</string>
+<string id="st_dyn_news_extended_conv_144_turn_4">
+    <text>Скажи мне.</text>
+</string>
+<string id="st_dyn_news_extended_conv_144_turn_5">
+    <text>Тебе решать, что будет дальше.</text>
+</string>
+
+
+
+<string id="st_dyn_news_extended_conv_145_meta">
+    <text>guilt,violence,initiation</text>
+</string>
+<string id="st_dyn_news_extended_conv_145_turn_1">
+    <text>Ты впервые завалил человека? Не мутанта, не бандита - обычного человека.</text>
+</string>
+<string id="st_dyn_news_extended_conv_145_turn_2">
+    <text>...какой-то патрульный. Он проверял документы на мосту. У меня была контрабанда. Давным-давно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_145_turn_3">
+    <text>До сих пор его лицо перед глазами?</text>
+</string>
+<string id="st_dyn_news_extended_conv_145_turn_4">
+    <text>Каждую чертову ночь. Козырек его шлема был треснут. Видел, как его глаза расширились.</text>
+</string>
+<string id="st_dyn_news_extended_conv_145_turn_5">
+    <text>Добро пожаловать в Зону. Здесь за лишний день жизни платят кусками души.</text>
+</string>
+
+
+<string id="st_dyn_news_extended_conv_146_meta">
+    <text>madness,psychosis,paranoia</text>
+</string>
+<string id="st_dyn_news_extended_conv_146_turn_1">
+    <text>Ты тоже это слышишь, не так ли? Это... жужжание. Как сломанное радио.</text>
+</string>
+<string id="st_dyn_news_extended_conv_146_turn_2">
+    <text>Это нереально. У тебя мозги от аномалий кипят.</text>
+</string>
+<string id="st_dyn_news_extended_conv_146_turn_3">
+    <text>Это реально. Оно зовет меня. Говорит разные вещи: мое имя, места, даты...</text>
+</string>
+<string id="st_dyn_news_extended_conv_146_turn_4">
+    <text>Иди к Экологам. Сейчас. Пока не стал как монолитовец.</text>
+</string>
+<string id="st_dyn_news_extended_conv_146_turn_5">
+    <text>...Что, если они правы? Что, если оно *говорит*?</text>
+</string>
+
+
+
+<string id="st_dyn_news_extended_conv_147_meta">
+    <text>loss,grief,brotherhood</text>
+</string>
+<string id="st_dyn_news_extended_conv_147_turn_1">
+    <text>Сегодня похоронили еще одного. Сталкер по имени Вихрь. Хороший человек.</text>
+</string>
+<string id="st_dyn_news_extended_conv_147_turn_2">
+    <text>Как это произошло?</text>
+</string>
+<string id="st_dyn_news_extended_conv_147_turn_3">
+    <text>Электроаномалия вблизи Юпитера. Принял это за свечение артефакта.</text>
+</string>
+<string id="st_dyn_news_extended_conv_147_turn_4">
+    <text>Он заслуживал лучшего, чем неглубокая могила и ржавая бирка.</text>
+</string>
+<string id="st_dyn_news_extended_conv_147_turn_5">
+    <text>Мы все заслуживали бы лучшего. Только Зона не раздаёт по заслугам.</text>
+</string>
+
+
+
+<string id="st_dyn_news_extended_conv_148_meta">
+    <text>morality,sacrifice,hard_choices</text>
+</string>
+<string id="st_dyn_news_extended_conv_148_turn_1">
+    <text>Вчера видел пацана, лет восемнадцать-девятнадцать, полез грабить военный патруль. Идиот.</text>
+</string>
+<string id="st_dyn_news_extended_conv_148_turn_2">
+    <text>Остановил его?</text>
+</string>
+<string id="st_dyn_news_extended_conv_148_turn_3">
+    <text>Нет. Отпустил. Решил, что пули научат его лучше, чем мои слова.</text>
+</string>
+<string id="st_dyn_news_extended_conv_148_turn_4">
+    <text>Господи... жёстко.</text>
+</string>
+<string id="st_dyn_news_extended_conv_148_turn_5">
+    <text>Нет. По-настоящему хладнокровно было бы добить его самому, чтобы не мучился.</text>
+</string>
+
+
+
+<string id="st_dyn_news_extended_conv_149_meta">
+    <text>fatalism,last_rites,acceptance</text>
+</string>
+<string id="st_dyn_news_extended_conv_149_turn_1">
+    <text>Ты снова кашляешь кровью.</text>
+</string>
+<string id="st_dyn_news_extended_conv_149_turn_2">
+    <text>Экологи подтвердили это сегодня утром. Зона наконец-то забрала меня.</text>
+</string>
+<string id="st_dyn_news_extended_conv_149_turn_3">
+    <text>Сука... Сколько тебе осталось?</text>
+</string>
+<string id="st_dyn_news_extended_conv_149_turn_4">
+    <text>Достаточно долго, чтобы свести счеты. Настолько коротко, что больно дышать.</text>
+</string>
+<string id="st_dyn_news_extended_conv_149_turn_5">
+    <text>Говори, что тебе нужно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_149_turn_6">
+    <text>Просто неси водку. И не дай этим уродам закопать меня в безымянной канаве.</text>
+</string>
+
+
+
+<!-- Extended Conversation 150: CNPP Run (REVISED - More Casual) -->
+<string id="st_dyn_news_extended_conv_150_meta">
+    <text>cnpp,dangerous,leaving</text>
+</string>
+<string id="st_dyn_news_extended_conv_150_turn_1">
+    <text>Завтра поеду в реактор.</text>
+</string>
+<string id="st_dyn_news_extended_conv_150_turn_2">
+    <text>Это самоубийство. Почему?</text>
+</string>
+<string id="st_dyn_news_extended_conv_150_turn_3">
+    <text>Лучшие артефакты там. Один удачный заход - и я сваливаю.</text>
+</string>
+<string id="st_dyn_news_extended_conv_150_turn_4">
+    <text>Оттуда никто не возвращается.</text>
+</string>
+<string id="st_dyn_news_extended_conv_150_turn_5">
+    <text>Тогда я буду первым. Или я не буду.</text>
+</string>
+<string id="st_dyn_news_extended_conv_150_turn_5">
+    <text>Живой труп.</text>
+</string>
+
+
+<!-- Extended Conversation 151: Zone's Appetite -->
+<string id="st_dyn_news_extended_conv_151_meta">
+    <text>mutants,loss,adaptation</text>
+</string>
+<string id="st_dyn_news_extended_conv_151_turn_1">
+    <text>Вчера видел, как стая псевдособак расправилась с двумя сталкерами возле болот.</text>
+</string>
+<string id="st_dyn_news_extended_conv_151_turn_2">
+    <text>Впервые в Зоне? Мутанты учатся быстрее, чем мы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_151_turn_3">
+    <text>Они зашли с флангов... как ебаные тактики.</text>
+</string>
+<string id="st_dyn_news_extended_conv_151_turn_4">
+    <text>Хватит смотреть на них как на зверей. Это хищники. Иначе сам станешь кормом.</text>
+</string>
+
+<!-- Extended Conversation 152: Anomaly Sickness -->
+<string id="st_dyn_news_extended_conv_152_meta">
+    <text>radiation,sickness,denial</text>
+</string>
+<string id="st_dyn_news_extended_conv_152_turn_1">
+    <text>%other_last_name%, когда ты в последний раз проверял дозиметр?</text>
+</string>
+<string id="st_dyn_news_extended_conv_152_turn_2">
+    <text>Батарейка сдохла пару недель назад. И что?</text>
+</string>
+<string id="st_dyn_news_extended_conv_152_turn_3">
+    <text>Дело в том, чтобы знать, копать ли себе могилу сейчас или позже.</text>
+</string>
+<string id="st_dyn_news_extended_conv_152_turn_4">
+    <text>Мы все умираем. Просто некоторые быстрее, чем другие.</text>
+</string>
+<string id="st_dyn_news_extended_conv_152_turn_5">
+    <text>Тогда хотя бы умри полезным. Отдай мне этот детектор, пока не упал в обморок.</text>
+</string>
+
+<!-- Extended Conversation 153: False Hope -->
+<string id="st_dyn_news_extended_conv_153_meta">
+    <text>artifacts,deception,desperation</text>
+</string>
+<string id="st_dyn_news_extended_conv_153_turn_1">
+    <text>Слышали об артефакте «золотой шар» возле цементного завода?</text>
+</string>
+<string id="st_dyn_news_extended_conv_153_turn_2">
+    <text>Очередная сказка для новичков.</text>
+</string>
+<string id="st_dyn_news_extended_conv_153_turn_3">
+    <text>На прошлой неделе команда отправилась на поиски. Никто не вернулся.</text>
+</string>
+<string id="st_dyn_news_extended_conv_153_turn_4">
+    <text>Зона не делает чудес. Она штампует трупы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_153_turn_5">
+    <text>Тогда почему мы продолжаем верить?</text>
+</string>
+<string id="st_dyn_news_extended_conv_153_turn_6">
+    <text>Потому что альтернативой является признание того, что все это напрасно.</text>
+</string>
+
+<!-- Extended Conversation 154: Debt Collector -->
+<string id="st_dyn_news_extended_conv_154_meta">
+    <text>debt,consequences,hard_lessons</text>
+</string>
+<string id="st_dyn_news_extended_conv_154_turn_1">
+    <text>%other_last_name%, Марков тебя ищет. Говорит, ты ему должен две доли с артов.</text>
+</string>
+<string id="st_dyn_news_extended_conv_154_turn_2">
+    <text>Скажи ему, отдам после следующего рейда.</text>
+</string>
+<string id="st_dyn_news_extended_conv_154_turn_3">
+    <text>У тебя уже кончились "следующие рейды". Ему нужны деньги сейчас... или твои пальцы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_154_turn_4">
+    <text>Чертов стервятник. Скажи ему, что ему заплатят, если я вытащу из трупа что-нибудь ценное.</text>
+</string>
+<string id="st_dyn_news_extended_conv_154_turn_5">
+    <text>Поторопись. Его сборщики теперь сначала стреляют, потом разговаривают.</text>
+</string>
+
+<!-- Extended Conversation 155: Unmarked Graves -->
+<string id="st_dyn_news_extended_conv_155_meta">
+    <text>remembrance,loss,tradition</text>
+</string>
+<string id="st_dyn_news_extended_conv_155_turn_1">
+    <text>Зачем оставляете гильзы на придорожных крестах?</text>
+</string>
+<string id="st_dyn_news_extended_conv_155_turn_2">
+    <text>Чтобы мёртвые знали: мы не забыли. И чтобы мы сами помнили - следующими можем быть мы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_155_turn_3">
+    <text>Это просто гниющее дерево и ржавый металл.</text>
+</string>
+<string id="st_dyn_news_extended_conv_155_turn_4">
+    <text>Здесь всё гниёт. Но след всё равно нужно оставлять.</text>
+</string>
+<string id="st_dyn_news_extended_conv_155_turn_5">
+    <text>...Есть лишняя гильза?</text>
+</string>
+
+
+<!-- Extended Conversation 156: Artifact Scam -->
+<string id="st_dyn_news_extended_conv_156_meta">
+    <text>artifacts,scam,anger</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_1">
+    <text>%speaker1_first_name% на связи. Тот "Светлячок", что ты мне впарил, фальшивый как хер знает что!</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_2">
+    <text>Что? Нет, я сам проверял перед продажей.</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_3">
+    <text>Это просто светящаяся радиоактивная хрень! Ты меня угробить решил?</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_4">
+    <text>Слушай, может, он деградировал. С артефактами такое бывает...</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_5">
+    <text>Пиздёж! Верни мои 30к, или будут проблемы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_6">
+    <text>Все продажи окончательные. Правила ты знаешь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_7">
+    <text>Тогда в следующий раз я с тебя это силой сниму, понял?</text>
+</string>
+
+
+<!-- Extended Conversation 157: Stalker Competition -->
+<string id="st_dyn_news_extended_conv_157_meta">
+    <text>competition,territory,tension</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_1">
+    <text>Эй, %other_first_name%, слышал, ты в моём секторе работаешь. Не по-пацански.</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_2">
+    <text>Твоём секторе? С каких пор ты Зоной владеешь?</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_3">
+    <text>С тех пор как три месяца там пашу. Ищи себе другие угодья.</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_4">
+    <text>Отвали. Кто первый встал, того и тапки. Зона никому не принадлежит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_5">
+    <text>Дави дальше - посмотрим, чем это для тебя кончится.</text>
+</string>
+
+
+
+<!-- Extended Conversation 158: Monolith Sighting -->
+<string id="st_dyn_news_extended_conv_158_meta">
+    <text>monolith,danger,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_1">
+    <text>СРОЧНО: патруль Монолита замечен, двигается к %location%!</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_2">
+    <text>Сколько их? Чем вооружены?</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_3">
+    <text>Минимум 4, а может и больше. Экзоскелеты и тяжелое вооружение.</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_4">
+    <text>Сука. Это тяжёлая разведгруппа. Всем максимальная готовность.</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_5">
+    <text>Они что-то скандируют... у меня мурашки по коже.</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_6">
+    <text>Не слушай их. Просто сваливай оттуда нахер!</text>
+</string>
+
+
+
+<!-- Extended Conversation 159: Pseudodog Pack Leader -->
+<string id="st_dyn_news_extended_conv_159_meta">
+    <text>mutants,hunting,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_1">
+    <text>Только что увидел самую большую гребаную псевдособаку, которую я когда-либо видел.</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_2">
+    <text>Насколько здоровая?</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_3">
+    <text>Размером с малолитражку. Белая, как снег. И ведёт стаю минимум из двадцати.</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_4">
+    <text>Это тот самый альфа-альбинос, о котором все трещат. За тушу дают 50к.</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_5">
+    <text>Ага? Что ж, тот, кто хочет этой награды, может ее получить. Существо выглядело умным.</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_6">
+    <text>Умный как?</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_7">
+    <text>Он заметил, что я его беру в прицел, и увёл всю стаю в укрытие. Будто знает, что такое винтовка.</text>
+</string>
+
+
+<!-- Extended Conversation 160: Faction Politics -->
+<string id="st_dyn_news_extended_conv_160_meta">
+    <text>faction,betrayal,politics</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_1">
+    <text>Говорят, эти %other_faction% уроды готовят против нас что-то крупное.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_2">
+    <text>Пусть попробуют. Мы удерживали эту территорию много лет.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_3">
+    <text>Нет, я про реально КРУПНОЕ. Видели, как они таскали тяжёлое вооружение.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_4">
+    <text>Где ты это услышал?</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_5">
+    <text>Торговец в баре. Сказал, что один из их парней напился и слишком много болтал.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_6">
+    <text>Может быть дезинформация. Но нам все равно следует подготовиться.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_7">
+    <text>Уже начал. Ребята проверяют все оборонные точки.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_8">
+    <text>Хорошо. Если они хотят войны, мы дадим им ее.</text>
+</string>
+
+
+<!-- Extended Conversation 156: Artifact Scam -->
+<string id="st_dyn_news_extended_conv_156_meta">
+    <text>artifacts,scam,anger</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_1">
+    <text>%speaker1_first_name% на связи. Тот "Светлячок", что ты мне впарил, фальшивый как хер знает что!</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_2">
+    <text>Что? Нет, я сам проверял перед продажей.</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_3">
+    <text>Это просто светящаяся радиоактивная хрень! Ты меня угробить решил?</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_4">
+    <text>Слушай, может, он деградировал. С артефактами такое бывает...</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_5">
+    <text>Пиздёж! Верни мои 30к, или будут проблемы.</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_6">
+    <text>Все продажи окончательные. Правила ты знаешь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_156_turn_7">
+    <text>Тогда в следующий раз я с тебя шкуру спущу, понял?</text>
+</string>
+
+<!-- Extended Conversation 157: Stalker Competition -->
+<string id="st_dyn_news_extended_conv_157_meta">
+    <text>competition,territory,tension</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_1">
+    <text>Эй, %other_first_name%, слышал, ты в моём секторе работаешь. Не по-пацански.</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_2">
+    <text>Твоём секторе? С каких пор ты Зоной владеешь?</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_3">
+    <text>С тех пор как три месяца там пашу. Ищи себе другие угодья.</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_4">
+    <text>Отвали. Кто первый встал, того и тапки. Зона никому не принадлежит.</text>
+</string>
+<string id="st_dyn_news_extended_conv_157_turn_5">
+    <text>Дави дальше - посмотрим, чем это для тебя кончится.</text>
+</string>
+
+<!-- Extended Conversation 158: Monolith Sighting -->
+<string id="st_dyn_news_extended_conv_158_meta">
+    <text>monolith,danger,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_1">
+    <text>СРОЧНО: патруль Монолита замечен, двигается к %location%!</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_2">
+    <text>Сколько их? Чем вооружены?</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_3">
+    <text>Минимум 8, а может и больше. Экзоскелеты и тяжелое вооружение.</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_4">
+    <text>Дерьмо. Это отряд смерти. Всем срочно отходить.</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_5">
+    <text>Они что-то скандируют... у меня мурашки по коже.</text>
+</string>
+<string id="st_dyn_news_extended_conv_158_turn_6">
+    <text>Не слушай это. Просто сваливай оттуда нахер!</text>
+</string>
+
+<!-- Extended Conversation 159: Pseudodog Pack Leader -->
+<string id="st_dyn_news_extended_conv_159_meta">
+    <text>mutants,hunting,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_1">
+    <text>Только что увидел самую большую гребаную псевдособаку, которую я когда-либо видел.</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_2">
+    <text>Насколько здоровая?</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_3">
+    <text>Размером с малолитражку. Белая как снег. Ведёт стаю минимум из двадцати.</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_4">
+    <text>Это тот альфа-альбинос, о котором все говорят. За тушу дают 100к.</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_5">
+    <text>Ага? Что ж, тот, кто хочет этой награды, может ее получить. Существо выглядело умным.</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_6">
+    <text>В каком смысле умная?</text>
+</string>
+<string id="st_dyn_news_extended_conv_159_turn_7">
+    <text>Она заметила, что я её веду в прицел, и сразу увела всю стаю в укрытие. Будто понимает, что такое винтовка.</text>
+</string>
+
+<!-- Extended Conversation 160: Faction Politics -->
+<string id="st_dyn_news_extended_conv_160_meta">
+    <text>faction,betrayal,politics</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_1">
+    <text>Ходят слухи, что %other_faction% замышляет против нас что-то большое.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_2">
+    <text>Пусть попробуют. Мы удерживали эту территорию много лет.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_3">
+    <text>Нет, я про реально КРУПНОЕ. Видели, как они таскали тяжёлое вооружение.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_4">
+    <text>Где ты это услышал?</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_5">
+    <text>Торговец в баре. Сказал, что один из их парней напился и слишком много болтал.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_6">
+    <text>Может быть дезинформация. Но нам все равно следует подготовиться.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_7">
+    <text>Уже начал. Ребята проверяют все оборонные позиции.</text>
+</string>
+<string id="st_dyn_news_extended_conv_160_turn_8">
+    <text>Хорошо. Если они хотят войны, мы дадим им ее.</text>
+</string>
+
+<!-- Extended Conversation 161: Artifact Cooking -->
+<string id="st_dyn_news_extended_conv_161_meta">
+    <text>artifacts,dangerous,experiment</text>
+</string>
+<string id="st_dyn_news_extended_conv_161_turn_1">
+    <text>%other_first_name%, ты когда-нибудь пробовал "варить" артефакты?</text>
+</string>
+<string id="st_dyn_news_extended_conv_161_turn_2">
+    <text>Готовить? Что, черт возьми, это значит?</text>
+</string>
+<string id="st_dyn_news_extended_conv_161_turn_3">
+    <text>Подставляешь их под конкретные аномалии, чтобы изменить свойства.</text>
+</string>
+<string id="st_dyn_news_extended_conv_161_turn_4">
+    <text>Звучит как хороший способ взорвать себя.</text>
+</string>
+<string id="st_dyn_news_extended_conv_161_turn_5">
+    <text>Может быть. Но я так превратил дешёвую "Каменную кровь" в штуку втрое дороже.</text>
+</string>
+<string id="st_dyn_news_extended_conv_161_turn_6">
+    <text>Как?</text>
+</string>
+<string id="st_dyn_news_extended_conv_161_turn_7">
+    <text>Электроаномалия, 30 секунд. Полностью меняет радиационную сигнатуру.</text>
+</string>
+<string id="st_dyn_news_extended_conv_161_turn_8">
+    <text>А если что-то пойдет не так?</text>
+</string>
+<string id="st_dyn_news_extended_conv_161_turn_9">
+    <text>Потом ты собираешь с потолка кусочки себя.</text>
+</string>
+
+
+
+<!-- Extended Conversation 163: Medical Emergency -->
+<string id="st_dyn_news_extended_conv_162_meta">
+    <text>medical,emergency,radiation</text>
+</string>
+<string id="st_dyn_news_extended_conv_162_turn_1">
+    <text>Нужен антирад СЕЙЧАС! %speaker1_first_name%, меня жарит изнутри!</text>
+</string>
+<string id="st_dyn_news_extended_conv_162_turn_2">
+    <text>Где ты? Что случилось?</text>
+</string>
+<string id="st_dyn_news_extended_conv_162_turn_3">
+    <text>Влетел в радкарман у старых грузовиков. Гейгер орёт как бешеный!</text>
+</string>
+<string id="st_dyn_news_extended_conv_162_turn_4">
+    <text>Пробивайся к медику в %location%! Я передам ему по рации!</text>
+</string>
+<string id="st_dyn_news_extended_conv_162_turn_5">
+    <text>Не могу... в глазах плывёт. Всё крутится.</text>
+</string>
+<string id="st_dyn_news_extended_conv_162_turn_6">
+    <text>ШЕВЕЛИ ЖОПОЙ! Остановишься - сдохнешь!</text>
+</string>
+
+
+<!-- Extended Conversation 163: Anomaly Research -->
+<string id="st_dyn_news_extended_conv_163_meta">
+    <text>anomaly,research,discovery</text>
+</string>
+<string id="st_dyn_news_extended_conv_163_turn_1">
+    <text>Эти яйцеголовые из мобильной лаборатории совершили прорыв.</text>
+</string>
+<string id="st_dyn_news_extended_conv_163_turn_2">
+    <text>О чем? Еще больше бесполезных теорий?</text>
+</string>
+<string id="st_dyn_news_extended_conv_163_turn_3">
+    <text>Нет, они поняли, как предсказывать движение аномалий.</text>
+</string>
+<string id="st_dyn_news_extended_conv_163_turn_4">
+    <text>Чушь собачья. Аномалии не движутся по закономерностям.</text>
+</string>
+<string id="st_dyn_news_extended_conv_163_turn_5">
+    <text>Мы так думали. Но, видимо, они следуют какому-то циклу.</text>
+</string>
+<string id="st_dyn_news_extended_conv_163_turn_6">
+    <text>Даже если это правда, как это нам поможет?</text>
+</string>
+<string id="st_dyn_news_extended_conv_163_turn_7">
+    <text>Безопасные маршруты. Будем знать, когда и где идти. Это может спасти жизни.</text>
+</string>
+
+
+<!-- Extended Conversation 164: Zone Philosophy -->
+<string id="st_dyn_news_extended_conv_164_meta">
+    <text>philosophy,zone,drunk</text>
+</string>
+<string id="st_dyn_news_extended_conv_164_turn_1">
+    <text>Знаешь что? Зона похожа на женщину.</text>
+</string>
+<string id="st_dyn_news_extended_conv_164_turn_2">
+    <text>О, бля, началось. Сколько водки ты в себя влил?</text>
+</string>
+<string id="st_dyn_news_extended_conv_164_turn_3">
+    <text>Нет, послушай! Она красива, опасна и полна тайн.</text>
+</string>
+<string id="st_dyn_news_extended_conv_164_turn_4">
+    <text>И она убьет тебя, если ты не уважаешь ее.</text>
+</string>
+<string id="st_dyn_news_extended_conv_164_turn_5">
+    <text>ТОЧНО! Этот парень понимает!</text>
+</string>
+<string id="st_dyn_news_extended_conv_164_turn_6">
+    <text>Передай бутылку. Если уж философствуем, я тоже хочу быть в хлам.</text>
+</string>
+
+
+<!-- Extended Conversation 165: Stalker Veteran -->
+<string id="st_dyn_news_extended_conv_165_meta">
+    <text>veteran,stories,advice</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_1">
+    <text>%other_first_name%, как долго ты находишься в Зоне?</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_2">
+    <text>Скоро семь лет. Ты?</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_3">
+    <text>У меня только второй месяц пошёл. Есть советы, как выжить?</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_4">
+    <text>Ага. Доверяй чутью, а не глазам. Зона любит наёбывать.</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_5">
+    <text>Что за трюки?</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_6">
+    <text>Призрачные звуки, фальшивые артефакты, меняющиеся пути. Оставайся параноиком.</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_7">
+    <text>Пиздец... да, похоже, я был недостаточно параноиком.</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_8">
+    <text>И никогда, НИКОГДА не иди ночью за Огнями. Как бы дружелюбно они ни выглядели.</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_9">
+    <text>Почему? Кто они такие?</text>
+</string>
+<string id="st_dyn_news_extended_conv_165_turn_10">
+    <text>Никто из тех, кто следовал за ними, так и не вернулся, чтобы рассказать.</text>
+</string>
+
+
+
+<!-- Extended Conversation 166: Chimera Hunt -->
+<string id="st_dyn_news_extended_conv_166_meta">
+    <text>hunting,chimera,teamwork</text>
+</string>
+<string id="st_dyn_news_extended_conv_166_turn_1">
+    <text>Эта Химера до сих пор терроризирует северный блокпост.</text>
+</string>
+<string id="st_dyn_news_extended_conv_166_turn_2">
+    <text>Сколько людей оно уже убило?</text>
+</string>
+<string id="st_dyn_news_extended_conv_166_turn_3">
+    <text>Четыре сталкера за две недели. Прорывает доспехи, как бумагу.</text>
+</string>
+<string id="st_dyn_news_extended_conv_166_turn_4">
+    <text>Нужна нормальная охотгруппа. Никакого героизма в одно рыло.</text>
+</string>
+<string id="st_dyn_news_extended_conv_166_turn_5">
+    <text>Я в деле. Но нам нужно как минимум пять парней.</text>
+</string>
+<string id="st_dyn_news_extended_conv_166_turn_6">
+    <text>И тот, кто действительно знает, как выследить этого ублюдка.</text>
+</string>
+
+
+<!-- Extended Conversation 167: Mysterious Trader -->
+<string id="st_dyn_news_extended_conv_167_meta">
+    <text>trader,mystery,suspicious</text>
+</string>
+<string id="st_dyn_news_extended_conv_167_turn_1">
+    <text>На %location% появился новый торговец. Что-то с ним нечисто.</text>
+</string>
+<string id="st_dyn_news_extended_conv_167_turn_2">
+    <text>Как? Плохие цены? Поддельный товар?</text>
+</string>
+<string id="st_dyn_news_extended_conv_167_turn_3">
+    <text>Наоборот. Слишком хорошие цены. Военный хабар почти за бесценок.</text>
+</string>
+<string id="st_dyn_news_extended_conv_167_turn_4">
+    <text>Пахнет подставой. Никто так дёшево без причины не продаёт.</text>
+</string>
+<string id="st_dyn_news_extended_conv_167_turn_5">
+    <text>Вот и я о том. Плюс он задаёт странные вопросы про конкретных сталкеров.</text>
+</string>
+<string id="st_dyn_news_extended_conv_167_turn_6">
+    <text>Держись подальше. Может быть, военная разведка или что-то похуже.</text>
+</string>
+<string id="st_dyn_news_extended_conv_167_turn_7">
+    <text>Уже предупредил остальных. Но некоторые идиоты всё ещё покупают.</text>
+</string>
+
+
+<!-- Extended Conversation 168: Zone Corruption -->
+<string id="st_dyn_news_extended_conv_168_meta">
+    <text>corruption,body_horror,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_168_turn_1">
+    <text>Не суйтесь к аномалии плоти на свиноферме.</text>
+</string>
+<string id="st_dyn_news_extended_conv_168_turn_2">
+    <text>Почему? Очередная мерзость Зоны?</text>
+</string>
+<string id="st_dyn_news_extended_conv_168_turn_3">
+    <text>Нет. Видел, как сталкер её коснулся. У него рука... начала обрастать чем-то.</text>
+</string>
+<string id="st_dyn_news_extended_conv_168_turn_4">
+    <text>Обрастать чем именно?</text>
+</string>
+<string id="st_dyn_news_extended_conv_168_turn_5">
+    <text>Глаза. Зубы. Пальцы, которые принадлежали не ему. Пришлось отрезать всю руку.</text>
+</string>
+<string id="st_dyn_news_extended_conv_168_turn_6">
+    <text>Господи Иисусе...</text>
+</string>
+<string id="st_dyn_news_extended_conv_168_turn_7">
+    <text>Зона всё изобретательнее придумывает, как нас убивать.</text>
+</string>
+
+
+<!-- Extended Conversation 169: Sniper Warning -->
+<string id="st_dyn_news_extended_conv_169_meta">
+    <text>sniper,danger,warning</text>
+</string>
+<string id="st_dyn_news_extended_conv_169_turn_1">
+    <text>ОДИНОКИЙ СНАЙПЕР работает на мосту! Всем лежать и не высовываться!</text>
+</string>
+<string id="st_dyn_news_extended_conv_169_turn_2">
+    <text>Где сидит? Кто-нибудь его засёк?</text>
+</string>
+<string id="st_dyn_news_extended_conv_169_turn_3">
+    <text>На водонапорке с северной стороны. Уже снял двоих наших.</text>
+</string>
+<string id="st_dyn_news_extended_conv_169_turn_4">
+    <text>Военный? Наёмник? Кто?</text>
+</string>
+<string id="st_dyn_news_extended_conv_169_turn_5">
+    <text>Не разобрал. Но стрелок он лютый.</text>
+</string>
+
+
+<!-- Extended Conversation 170: Memory Loss -->
+<string id="st_dyn_news_extended_conv_170_meta">
+    <text>memory,psychological,zone_effect</text>
+</string>
+<string id="st_dyn_news_extended_conv_170_turn_1">
+    <text>У кого-нибудь еще были проблемы с запоминанием вещей в последнее время?</text>
+</string>
+<string id="st_dyn_news_extended_conv_170_turn_2">
+    <text>Что за вещи?</text>
+</string>
+<string id="st_dyn_news_extended_conv_170_turn_3">
+    <text>Типа... зачем я приехал в Зону. Больше не могу вспомнить.</text>
+</string>
+<string id="st_dyn_news_extended_conv_170_turn_4">
+    <text>Это Зона тебя жрёт. С большинством рано или поздно так бывает.</text>
+</string>
+<string id="st_dyn_news_extended_conv_170_turn_5">
+    <text>Но у меня была причина. Я ЗНАЮ, что у меня была причина. Это было важно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_170_turn_6">
+    <text>Что бы там ни было, сейчас это неважно. Важно только дожить до вечера.</text>
+</string>
+
+
+<!-- Extended Conversation 171: Trading Gone Wrong -->
+<string id="st_dyn_news_extended_conv_171_meta">
+    <text>trading,conflict,violence</text>
+</string>
+<string id="st_dyn_news_extended_conv_171_turn_1">
+    <text>%other_first_name%, сделка в полночь - подстава. Не ходи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_171_turn_2">
+    <text>С чего ты взял?</text>
+</string>
+<string id="st_dyn_news_extended_conv_171_turn_3">
+    <text>Слышал, как они это обсуждали. Им нужны и твои артефакты, и твоя голова.</text>
+</string>
+<string id="st_dyn_news_extended_conv_171_turn_4">
+    <text>Эти ублюдки... Я знал, что что-то не так.</text>
+</string>
+<string id="st_dyn_news_extended_conv_171_turn_5">
+    <text>Хочешь перевернуть расклад? Я знаю, где они сядут в засаду.</text>
+</string>
+<string id="st_dyn_news_extended_conv_171_turn_6">
+    <text>Слушаю. Переходим на другой канал.</text>
+</string>
+
+
+<!-- Extended Conversation 172: Final Warning -->
+<string id="st_dyn_news_extended_conv_172_meta">
+    <text>warning,danger,faction</text>
+</string>
+<string id="st_dyn_news_extended_conv_172_turn_1">
+    <text>%other_first_name%, последнее предупреждение. Выходи из здания, или сдохнешь.</text>
+</string>
+<string id="st_dyn_news_extended_conv_172_turn_2">
+    <text>Ты пристрелишь меня, если я выйду.</text>
+</string>
+<string id="st_dyn_news_extended_conv_172_turn_3">
+    <text>Мы тебя окружили. Десять стволов держат твою точку.</text>
+</string>
+<string id="st_dyn_news_extended_conv_172_turn_4">
+    <text>Я насчитал шесть и готов лечь тут сам. Либо валите нахер, либо штурмуйте.</text>
+</string>
+<string id="st_dyn_news_extended_conv_172_turn_5">
+    <text>Последний шанс. Выходи.</text>
+</string>
+<string id="st_dyn_news_extended_conv_172_turn_6">
+    <text>Знаешь что?!</text>
+</string>
+<string id="st_dyn_news_extended_conv_172_turn_7">
+    <text>СУКА БЛЯТЬ! ГРАНАТА!</text>
+</string>
+<string id="st_dyn_news_extended_conv_172_turn_8">
+    <text>Что, всё ещё "десять" стволов снаружи?!</text>
+</string>
+<string id="st_dyn_news_extended_conv_172_turn_9">
+    <text>КОНТАКТ! ПОШЁЛ! ПОШЁЛ!</text>
+</string>
+
+
+<!-- Extended Conversation 173: Weird Dreams -->
+<string id="st_dyn_news_extended_conv_173_meta">
+    <text>dreams,zone,psychological</text>
+</string>
+<string id="st_dyn_news_extended_conv_173_turn_1">
+    <text>Сны становятся все хуже.</text>
+</string>
+<string id="st_dyn_news_extended_conv_173_turn_2">
+    <text>Какие сны? Зонные кошмары?</text>
+</string>
+<string id="st_dyn_news_extended_conv_173_turn_3">
+    <text>Ага. Постоянно вижу комнату, забитую трупами. И каждый - это я.</text>
+</string>
+<string id="st_dyn_news_extended_conv_173_turn_4">
+    <text>Дерьмо. Это тяжело. Как долго это продолжается?</text>
+</string>
+<string id="st_dyn_news_extended_conv_173_turn_5">
+    <text>Уже неделю. И каждую ночь там на один труп больше.</text>
+</string>
+<string id="st_dyn_news_extended_conv_173_turn_6">
+    <text>Может, держись подальше от пси-полей какое-то время.</text>
+</string>
+<string id="st_dyn_news_extended_conv_173_turn_7">
+    <text>Я к ним даже не подходил. В этом и пиздец.</text>
+</string>
+
+
+<!-- Extended Conversation 174: Controller Aftermath -->
+<string id="st_dyn_news_extended_conv_174_meta">
+    <text>controller,aftermath,psychological</text>
+</string>
+<string id="st_dyn_news_extended_conv_174_turn_1">
+    <text>%speaker1_first_name%, я выбрался. Контроллер мертв.</text>
+</string>
+<string id="st_dyn_news_extended_conv_174_turn_2">
+    <text>Чёрт возьми, ты правда убил его? Как?</text>
+</string>
+<string id="st_dyn_news_extended_conv_174_turn_3">
+    <text>Гранаты. Много. Но... со мной теперь что-то не так.</text>
+</string>
+<string id="st_dyn_news_extended_conv_174_turn_4">
+    <text>Что не так?</text>
+</string>
+<string id="st_dyn_news_extended_conv_174_turn_5">
+    <text>Я слышу мысли каждого. Не слова, просто... чувства. Это громко.</text>
+</string>
+<string id="st_dyn_news_extended_conv_174_turn_6">
+    <text>Сука. Контролёр, похоже, мозги тебе поджарил.</text>
+</string>
+<string id="st_dyn_news_extended_conv_174_turn_7">
+    <text>Мне надо уйти подальше от людей. Слишком давит. Пропаду с радаров на время.</text>
+</string>
+
+
+<!-- Extended Conversation 175: Strange Radio Signal -->
+<string id="st_dyn_news_extended_conv_175_meta">
+    <text>mystery,radio,signal</text>
+</string>
+<string id="st_dyn_news_extended_conv_175_turn_1">
+    <text>Кто-нибудь еще ловит этот странный сигнал на канале 14.5?</text>
+</string>
+<string id="st_dyn_news_extended_conv_175_turn_2">
+    <text>Номерная станция? Ага, жуткая херня.</text>
+</string>
+<string id="st_dyn_news_extended_conv_175_turn_3">
+    <text>Нет, это другое. Это... музыка? Но как-то неправильно.</text>
+</string>
+<string id="st_dyn_news_extended_conv_175_turn_4">
+    <text>Не слушай это. Помнишь, что стало с Пашкой.</text>
+</string>
+<string id="st_dyn_news_extended_conv_175_turn_5">
+    <text>Что случилось с Павлом?</text>
+</string>
+<string id="st_dyn_news_extended_conv_175_turn_6">
+    <text>Час слушал странный сигнал. На следующий день с улыбкой вошёл в аномалию.</text>
+</string>
+<string id="st_dyn_news_extended_conv_175_turn_7">
+    <text>...Переключаю канал прямо сейчас.</text>
+</string>
+
+
+
+<!-- Extended Conversation 176: Nightmare Fuel -->
+<string id="st_dyn_news_extended_conv_176_meta">
+    <text>horror,zone,nightmare</text>
+</string>
+<string id="st_dyn_news_extended_conv_176_turn_1">
+    <text>Я не могу развидеть то, что нашел в том подвале.</text>
+</string>
+<string id="st_dyn_news_extended_conv_176_turn_2">
+    <text>Хочу ли я вообще знать?</text>
+</string>
+<string id="st_dyn_news_extended_conv_176_turn_3">
+    <text>Человек-паук. Серьёзно. Человеческий торс, паучьи лапы. И оно было живое.</text>
+</string>
+<string id="st_dyn_news_extended_conv_176_turn_4">
+    <text>Какого хрена... зонная мутация?</text>
+</string>
+<string id="st_dyn_news_extended_conv_176_turn_5">
+    <text>Нет. Хирургические шрамы. Кто-то СДЕЛАЛ это. Оно умоляло меня убить его.</text>
+</string>
+<string id="st_dyn_news_extended_conv_176_turn_6">
+    <text>Господи... ты это сделал?</text>
+</string>
+<string id="st_dyn_news_extended_conv_176_turn_7">
+    <text>ДА НИХЕРА! Я оттуда съебался бегом! Пусть с этим кто-то другой разбирается. Фу, блядь.</text>
+</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</string_table>

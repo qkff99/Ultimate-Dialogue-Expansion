@@ -1,0 +1,3237 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Trading / Repair dialog -->
+	<string id="st_stalker_trade_dialog_init">
+		<text>Есть что продать? %c[d_orange][Торговля]</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_1">
+		<text>Не ожидайте ничего особенного. Вот что я получил.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_2">
+		<text>Хорошо.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_3">
+		<text>Э-э... конечно.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_4">
+		<text>Конечно, вот что я получил.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_5">
+		<text>Посмотрите.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_6">
+		<text>Конечно, давай торговаться.</text>
+	</string>
+<string id="st_stalker_trade_dialog_reply_7">
+    <text>Хорошо, но не ожидайте слишком многого.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_8">
+    <text>Да, хорошо. Посмотрим, что у меня с собой.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_9">
+    <text>Погоди. Вот чем могу поделиться.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_10">
+    <text>Эх, почему бы и нет. Посмотрите.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_11">
+    <text>Ладно, вот мой тайник... немного, но посмотрите сами.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_12">
+    <text>Только не трать мое время, ладно? Держи.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_13">
+    <text>Давай, взгляни. Только быстро.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_14">
+    <text>Ладно, давай покончим с этим.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_15">
+    <text>Да, конечно. Только не пытайся сбивать цену.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_16">
+    <text>Почему нет? Взгляни, есть ли что стоящее.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_17">
+    <text>Хорошо, но если ты попробуешь что-нибудь смешное, я выйду.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_18">
+    <text>Ладно, но если начнешь творить херню, я сваливаю.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_19">
+    <text>Слушай, не жди многого. Но ладно, держи.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_20">
+    <text>Хорошо, вот что у меня есть. Давай быстро.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_21">
+    <text>Конечно, взгляните. Не вините меня, если это не так уж и много.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_22">
+    <text>Давай поторгуемся, если ты серьезно.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_23">
+    <text>Да, почему бы и нет. Посмотрим, чего ты хочешь.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_24">
+    <text>Хорошо, но не распространяйся об этом.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_25">
+    <text>Давай просто посмотрим, что у тебя есть, ладно?</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_26">
+   <text>Ладно, ладно... вот. Просто сделай это побыстрее, ладно?</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_27">
+    <text>Ух, ты всегда ищешь возможность торговать, не так ли? Вот, взгляните.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_28">
+    <text>Ух, вечно тебе надо торговаться, да? Вот, смотри.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_29">
+    <text>Хорошо, здесь. Но я не в настроении для полноценного бартера.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_30">
+    <text>Можем ли мы сделать это быстро? У меня есть другие дела.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_31">
+    <text>Хорошо, но не ждите ничего хорошего. Лучше бы это стоило моего времени.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_32">
+    <text>Вот. И только не ной из-за выбора.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_33">
+    <text>Хорошо, но давайте покончим с этим. У меня есть дела поважнее.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_34">
+    <text>Угу, да, конечно. Не заставляй меня сожалеть об этом.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_35">
+    <text>Почему ты всегда беспокоишь меня по поводу сделок? Хорошо, здесь.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_36">
+    <text>Хорошо, но сегодня это в последний раз. Я серьезно.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_37">
+    <text>Здесь. И в следующий раз найди кого-нибудь другого, да?</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_38">
+    <text>Конечно, я буду торговать. Но не жди, что я этому обрадуюсь.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_39">
+    <text>Серьезно? Снова? Хорошо, просто поторопись.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_40">
+    <text>Хорошо, хорошо. Вот что я получил. Но делайте это быстро.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_41">
+    <text>Да-да, держи. Только не ройся во всём, как на шведском столе.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_42">
+    <text>Не то чтобы в восторге от этого, но... неважно. Посмотрите.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_43">
+    <text>Конечно, здесь. Не то чтобы у меня был выбор, верно?</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_44">
+    <text>Ладно. Но в следующий раз принеси что-нибудь стоящее, если хочешь меня доставать.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_45">
+    <text>Хорошо, но не веди себя так, будто заключаешь сделку.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_46">
+    <text>Здесь. Не трать мое время на пустые разговоры.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_47">
+    <text>Вот. И не трать мое время на пустые разговоры.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_48">
+    <text>Да, да, что угодно. Давай просто покончим с этим.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_49">
+    <text>Если вам нужно. Но клянусь, сегодня это в последний раз.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_50">
+    <text>Если так надо. Но клянусь, сегодня это в последний раз.</text>
+</string>
+
+
+
+	<string id="st_stalker_trade_dialog_reply_no_1">
+		<text>Неа. Ищи другого.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_2">
+		<text>Извините, я бы предпочел оставить свои вещи при себе.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_3">
+		<text>Я бы предпочел нет.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_4">
+		<text>Отвали.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_5">
+		<text>Я для тебя похож на трейдера?</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_6">
+		<text>Уйди отсюда, сталкер.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_7">
+    <text>Думаешь, я здесь, чтобы раздавать халяву? Проваливай.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_8">
+    <text>Для тебя тут ничего нет. Проходи мимо.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_9">
+    <text>Какую часть слова «нет» ты не понял?</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_10">
+    <text>Меня не интересует, чем ты торгуешь.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_11">
+    <text>От тебя несет дерьмом, отойди.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_12">
+    <text>Я тебе ничего не должен, особенно свое снаряжение.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_13">
+    <text>Отойди. Я не в настроении общаться.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_14">
+    <text>Убирайся, сталкер. Это не твой счастливый день.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_15">
+    <text>Если вы ищете подачку, продолжайте искать.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_16">
+    <text>Шутишь? С незнакомцами не торгую.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_17">
+    <text>Никакой сделки. А теперь уйди от моего лица.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_18">
+    <text>Нечего тебе продать, а теперь иди на хер.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_19">
+    <text>Я не чертова благотворительная организация. Уйди отсюда.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_20">
+    <text>В последний раз: нет. Намеки понимаешь?</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_21">
+    <text>Найдите другого бедного придурка, с которым можно торговать.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_22">
+    <text>Не выйдет, сталкер. Уходи.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_23">
+    <text>Иди раздражай кого-нибудь другого; У меня есть дела поважнее.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_24">
+    <text>Для тебя здесь только разочарование.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_25">
+    <text>Слушай, у меня нет времени на твое дерьмо. Проваливай.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_26">
+    <text>Неа. Ни сегодня, ни когда-либо.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_27">
+    <text>У меня нет того, что тебе нужно. А теперь потеряйся.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_28">
+    <text>Если у вас нет денег, у меня нет времени.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_29">
+    <text>Ага, щас. Попробуй найти кого-то попроще.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_30">
+    <text>Хватит тратить мое время. У меня нет ничего для тебя.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_31">
+    <text>Здесь ничего нет, но мое терпение на исходе.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_32">
+    <text>Слушай, у меня для тебя ничего нет. Теперь уходи.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_33">
+    <text>Если вы ищете благотворительность, продолжайте искать.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_34">
+    <text>Найдите другого лоха; этот закрыт по делам.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_35">
+    <text>Я тебе не доверяю и не торгую с тобой.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_36">
+    <text>У тебя нет ничего стоящего моего времени, так что проваливай.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_37">
+    <text>Если у тебя нет золота, мне это не интересно.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_38">
+    <text>Хватит меня приставать, сталкер.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_39">
+    <text>Зря воздух сотрясаешь. Для тебя здесь ничего нет.</text>
+</string>
+<string id="st_stalker_trade_dialog_reply_no_40">
+    <text>У меня ноль интереса тебе помогать. Проваливай.</text>
+</string>
+
+	
+	<string id="st_trader_dialog_init">
+		<text>Я хочу купить кое-какое оборудование. %c[d_orange][Торговля]</text>
+	</string>
+	<string id="st_trader_dialog_reply_1">
+		<text>Конечно.</text>
+	</string>
+	<string id="st_trader_dialog_reply_2">
+		<text>Смотри.</text>
+	</string>
+	<string id="st_trader_dialog_reply_3">
+		<text>Вот что у меня есть.</text>
+	</string>
+	<string id="st_trader_dialog_reply_4">
+		<text>Конечно, вот что у меня есть.</text>
+	</string>
+	<string id="st_trader_dialog_reply_5">
+		<text>Дайте мне знать, если что-то привлечет ваше внимание.</text>
+	</string>
+<string id="st_trader_dialog_reply_6">
+    <text>Есть свежие запасы, выбирайте сами.</text>
+</string>
+<string id="st_trader_dialog_reply_7">
+    <text>Всегда рад поторговаться с человеком, который знает, что ему нужно.</text>
+</string>
+<string id="st_trader_dialog_reply_8">
+    <text>Смотри, может, найдешь что-то, о чем даже не думал.</text>
+</string>
+<string id="st_trader_dialog_reply_9">
+    <text>Ищешь что-то конкретное? Сейчас посмотрим, есть ли у меня это.</text>
+</string>
+<string id="st_trader_dialog_reply_10">
+    <text>Смотри спокойно, не спеши. Качество суеты не любит.</text>
+</string>
+<string id="st_trader_dialog_reply_11">
+    <text>Только что приобрел новое оборудование. Возможно, вы захотите его проверить.</text>
+</string>
+<string id="st_trader_dialog_reply_12">
+    <text>Не стесняйтесь просматривать. Здесь у всего есть история.</text>
+</string>
+<string id="st_trader_dialog_reply_13">
+    <text>Нужно что-то, чтобы выжить в этой мясорубке? Ты по адресу.</text>
+</string>
+<string id="st_trader_dialog_reply_14">
+    <text>Выбирай, на полки у меня попадает только лучшее.</text>
+</string>
+<string id="st_trader_dialog_reply_15">
+    <text>Давай сделаем так, чтобы ты был нормально экипирован.</text>
+</string>
+<string id="st_trader_dialog_reply_16">
+    <text>Хотите пополнить запасы? У меня есть то, что вам нужно.</text>
+</string>
+<string id="st_trader_dialog_reply_17">
+    <text>Если вам нужно именно это снаряжение, вы попали по адресу.</text>
+</string>
+<string id="st_trader_dialog_reply_18">
+    <text>Давайте настроим вас на хорошие вещи.</text>
+</string>
+<string id="st_trader_dialog_reply_19">
+    <text>Только что пришёл новый товар, может, как раз то, что ищешь.</text>
+</string>
+<string id="st_trader_dialog_reply_20">
+    <text>Сегодня получил несколько редких находок. Посмотрите что-нибудь, что вам нравится?</text>
+</string>
+<string id="st_trader_dialog_reply_21">
+    <text>Давай, посмотри. Качество гарантировано.</text>
+</string>
+<string id="st_trader_dialog_reply_22">
+    <text>Вот что есть в наличии. Только первоклассное оборудование.</text>
+</string>
+<string id="st_trader_dialog_reply_23">
+    <text>Что бы вам ни понадобилось, я сделаю все возможное, чтобы найти это для вас.</text>
+</string>
+<string id="st_trader_dialog_reply_24">
+    <text>Сегодня получил кое-что необычное, возможно, стоит посмотреть.</text>
+</string>
+<string id="st_trader_dialog_reply_25">
+    <text>Если вы хотите выжить, у меня есть все необходимое прямо здесь.</text>
+</string>
+<string id="st_trader_dialog_reply_26">
+    <text>Вот что могу предложить. Не тяни, хороший товар быстро уходит.</text>
+</string>
+<string id="st_trader_dialog_reply_27">
+    <text>Вот, смотри. Если что-то приглянется - говори.</text>
+</string>
+<string id="st_trader_dialog_reply_28">
+    <text>Качество превыше количества, всегда. Посмотрите.</text>
+</string>
+<string id="st_trader_dialog_reply_29">
+    <text>Ищете что-то конкретное? Возможно, у меня есть именно то, что нужно.</text>
+</string>
+<string id="st_trader_dialog_reply_30">
+    <text>Проверьте это, но помните: лучшие предложения не ждут вечно.</text>
+</string>
+<string id="st_trader_dialog_reply_31">
+    <text>Мой запас ограничен, но все высшего качества. Посмотрите сами.</text>
+</string>
+<string id="st_trader_dialog_reply_32">
+    <text>Не торопитесь: чтобы оценить качество, нужно время.</text>
+</string>
+<string id="st_trader_dialog_reply_33">
+    <text>Мои запасы - ваш спасательный круг. Выбирайте мудро.</text>
+</string>
+<string id="st_trader_dialog_reply_34">
+    <text>Мои запасы - твой шанс выжить. Выбирай с умом.</text>
+</string>
+<string id="st_trader_dialog_reply_35">
+    <text>Вам нужно преимущество? Не смотрите дальше.</text>
+</string>
+<string id="st_trader_dialog_reply_36">
+    <text>Нужно преимущество? Дальше можешь не искать.</text>
+</string>
+<string id="st_trader_dialog_reply_37">
+    <text>Посмотрите, и если вам нужен совет, я здесь.</text>
+</string>
+<string id="st_trader_dialog_reply_38">
+    <text>Подборка вручную. Надо держать уровень, сам понимаешь.</text>
+</string>
+<string id="st_trader_dialog_reply_39">
+    <text>Давай, посмотрим, заинтересует ли тебя что-нибудь.</text>
+</string>
+<string id="st_trader_dialog_reply_40">
+    <text>Никакой спешки. Но хорошие предложения не ждут вечно.</text>
+</string>
+<string id="st_trader_dialog_reply_41">
+    <text>Только лучшие припасы для такого сталкера, как ты.</text>
+</string>
+<string id="st_trader_dialog_reply_42">
+    <text>Вот что свежее в наличии. Первый пришел, первый обслужен.</text>
+</string>
+<string id="st_trader_dialog_reply_43">
+    <text>Если вам важно качество, вы попали по адресу.</text>
+</string>
+<string id="st_trader_dialog_reply_44">
+    <text>Ассортимент скромный, но всё нужное есть.</text>
+</string>
+<string id="st_trader_dialog_reply_45">
+    <text>Выбирай. Тут каждая вещь может спасти тебе жизнь.</text>
+</string>
+<string id="st_trader_dialog_reply_46">
+    <text>Топовая снаряга по честной цене. Смотри.</text>
+</string>
+<string id="st_trader_dialog_reply_47">
+    <text>Смотри. Хороший шмот здесь надолго не задерживается.</text>
+</string>
+<string id="st_trader_dialog_reply_48">
+    <text>Товар на месте, к торговле готов. Берёшь?</text>
+</string>
+<string id="st_trader_dialog_reply_49">
+    <text>Вот и всё. Если нужен совет - скажи.</text>
+</string>
+<string id="st_trader_dialog_reply_50">
+    <text>Добро пожаловать в мой магазин. Давай убедимся, что ты готов.</text>
+</string>
+<string id="st_trader_dialog_reply_51">
+    <text>Давай, разбирай мои товары. Только не трать мое чертово время.</text>
+</string>
+<string id="st_trader_dialog_reply_52">
+    <text>Вот нормальный товар. Если не по карману - не ной.</text>
+</string>
+<string id="st_trader_dialog_reply_53">
+    <text>Посмотрите, но не приходите плакать, если не можете себе этого позволить.</text>
+</string>
+<string id="st_trader_dialog_reply_54">
+    <text>Здесь всякое дерьмо. Просто следите за своими пальцами; некоторые из них кусаются.</text>
+</string>
+<string id="st_trader_dialog_reply_55">
+    <text>Здесь только первоклассное снаряжение, приятель. Никакой этой дешевой ерунды.</text>
+</string>
+<string id="st_trader_dialog_reply_56">
+    <text>Оглянитесь вокруг - держу пари, что лучшего снаряжения в этой богом забытой Зоне вы не найдете.</text>
+</string>
+<string id="st_trader_dialog_reply_57">
+    <text>Надеюсь, ты принес с собой достаточно денег, потому что это не благотворительность.</text>
+</string>
+<string id="st_trader_dialog_reply_58">
+    <text>Давай, бери что-нибудь. Только не пытайся сбить цену в ноль.</text>
+</string>
+<string id="st_trader_dialog_reply_59">
+    <text>Сломал - купил. И даже не думай испытывать мое терпение.</text>
+</string>
+<string id="st_trader_dialog_reply_60">
+    <text>Найдётся что-то на любой бюджет, даже у самых дешёвых ублюдков.</text>
+</string>
+<string id="st_trader_dialog_reply_61">
+    <text>Это не чертов комиссионный магазин; вы платите за качество.</text>
+</string>
+<string id="st_trader_dialog_reply_62">
+    <text>Видишь что-то стоящее? Отлично, долго это тут не залежится.</text>
+</string>
+<string id="st_trader_dialog_reply_63">
+    <text>Лучше возьми его, пока он здесь. Я не часто пополняю запасы, приятель.</text>
+</string>
+<string id="st_trader_dialog_reply_64">
+    <text>Посмотрите вокруг. Сегодня эта штука здесь, завтра ее уже нет.</text>
+</string>
+<string id="st_trader_dialog_reply_65">
+    <text>Не трать мое время, новичок. Либо ты покупаешь, либо уходишь.</text>
+</string>
+<string id="st_trader_dialog_reply_66">
+    <text>Тебе нужно качество или убогий хлам? У меня нормальный товар.</text>
+</string>
+<string id="st_trader_dialog_reply_67">
+    <text>Есть всевозможные инструменты для выживания - только не жалуйтесь на цену.</text>
+</string>
+<string id="st_trader_dialog_reply_68">
+    <text>Если вы ищете скидки, идите в другое место. Это дерьмо стоит каждого рубля.</text>
+</string>
+<string id="st_trader_dialog_reply_69">
+    <text>Не пытайтесь торговаться. Вы либо платите, либо уходите к черту.</text>
+</string>
+<string id="st_trader_dialog_reply_70">
+    <text>Вот что у меня есть. Не нравится? Твои проблемы.</text>
+</string>
+<string id="st_trader_dialog_reply_71">
+    <text>Здесь только лучшее. Хотя это не бесплатно.</text>
+</string>
+<string id="st_trader_dialog_reply_72">
+    <text>Давай, не стесняйся. Только не занудствуй, как бухгалтер.</text>
+</string>
+<string id="st_trader_dialog_reply_73">
+    <text>Если вы здесь, чтобы жаловаться на цены, я внимательно слушаю, но вам это не поможет.</text>
+</string>
+<string id="st_trader_dialog_reply_74">
+    <text>Ладно, видишь что-нибудь? Лучше хватай его, пока он не исчез.</text>
+</string>
+<string id="st_trader_dialog_reply_75">
+    <text>Я не продаю барахло, поэтому не ведите себя так, будто вы делаете мне одолжение, покупая.</text>
+</string>
+<string id="st_trader_dialog_reply_76">
+    <text>Давай, давай покончим с этим. У меня есть дела поважнее.</text>
+</string>
+<string id="st_trader_dialog_reply_77">
+    <text>Если просто поглазеть - иди в другое место.</text>
+</string>
+<string id="st_trader_dialog_reply_78">
+    <text>Слушай, у меня нет всего дня. Возьмите то, что вам нужно, и заплатите.</text>
+</string>
+<string id="st_trader_dialog_reply_79">
+    <text>Шмот не дешёвый, зато работает как надо.</text>
+</string>
+<string id="st_trader_dialog_reply_80">
+    <text>Не стесняйтесь просматривать, но не испытывайте мое терпение.</text>
+</string>
+<string id="st_trader_dialog_reply_81">
+    <text>Посмотрите что-нибудь, что вам нравится? Тогда перестаньте пялиться и начните покупать.</text>
+</string>
+<string id="st_trader_dialog_reply_82">
+    <text>Давай, побалуй себя. Возможно, это последнее, что спасет твою задницу.</text>
+</string>
+<string id="st_trader_dialog_reply_83">
+    <text>Тут ничего не дёшево, но и жизнь в Зоне тоже.</text>
+</string>
+<string id="st_trader_dialog_reply_84">
+    <text>Если вы ищете халяву, вы находитесь не в том месте.</text>
+</string>
+<string id="st_trader_dialog_reply_85">
+    <text>Вот мой товар. Цены не нравятся? Не повезло.</text>
+</string>
+<string id="st_trader_dialog_reply_86">
+    <text>Помните: качество имеет свою цену. Плати или молчи.</text>
+</string>
+<string id="st_trader_dialog_reply_87">
+    <text>Будьте осторожны с товаром - я не хочу, чтобы вы его испортили, а я - вас.</text>
+</string>
+<string id="st_trader_dialog_reply_88">
+    <text>Я тебе не нянька, так что выбирай быстрее.</text>
+</string>
+<string id="st_trader_dialog_reply_89">
+    <text>Как хотите. Мне плевать.</text>
+</string>
+<string id="st_trader_dialog_reply_90">
+    <text>Если ты серьезно настроен выжить, мое снаряжение - это то, что тебе нужно.</text>
+</string>
+<string id="st_trader_dialog_reply_91">
+    <text>Видите что-нибудь? Тогда раскошелитесь на рубли и приступайте к делу.</text>
+</string>
+<string id="st_trader_dialog_reply_92">
+    <text>Слушай, новичок, это снаряжение не для витринных покупателей.</text>
+</string>
+<string id="st_trader_dialog_reply_93">
+    <text>Я не продаю дерьмо. Ты скажешь мне спасибо, когда не умрешь.</text>
+</string>
+<string id="st_trader_dialog_reply_94">
+    <text>Мои акции только для тех, кто знает им цену. Не тратьте мое время, если вы этого не сделаете.</text>
+</string>
+<string id="st_trader_dialog_reply_95">
+    <text>Здесь только топовый товар. Не хочешь - не бери.</text>
+</string>
+<string id="st_trader_dialog_reply_96">
+    <text>Если вы торгуетесь, идите куда-нибудь еще. Эти цены не подлежат обсуждению.</text>
+</string>
+<string id="st_trader_dialog_reply_97">
+    <text>Выбирайте свой яд, новичок, и помните: вы получаете то, за что платите.</text>
+</string>
+<string id="st_trader_dialog_reply_98">
+    <text>Единственное, что вы получите бесплатно, это мой совет: покупайте качественно, иначе пожалеете.</text>
+</string>
+<string id="st_trader_dialog_reply_99">
+    <text>Вы не единственный, кто гонится за моими акциями, так что не тяните с этим.</text>
+</string>
+<string id="st_trader_dialog_reply_100">
+    <text>Вернёшься с деньгами - тогда и поговорим о деле.</text>
+</string>
+	
+	
+	<string id="st_mechanic_dialog_init">
+		<text>Мое оборудование нуждается в доработке. %c[d_orange][Ремонт/Обновление]</text>
+	</string>
+	<string id="st_mechanic_dialog_reply_1">
+		<text>Понятно, покажи мне оборудование... И деньги свои тоже.</text>
+	</string>
+	<string id="st_mechanic_dialog_reply_2">
+		<text>Опять железо чинить? Ну, давай.</text>
+	</string>
+	<string id="st_mechanic_dialog_reply_3">
+		<text>Отлично, больше работы.</text>
+	</string>
+	<string id="st_mechanic_dialog_reply_4">
+		<text>Посмотрим, смогу ли я привести это в порядок.</text>
+	</string>
+<string id="st_mechanic_dialog_reply_5">
+    <text>Ладно, какую хреновину ты мне принес на этот раз?</text>
+</string>
+<string id="st_mechanic_dialog_reply_6">
+    <text>Ещё одна работа, ещё один хлам. Давай глянем.</text>
+</string>
+<string id="st_mechanic_dialog_reply_7">
+    <text>Ладно, ладно. Только не трать мое время, если это уже труп.</text>
+</string>
+<string id="st_mechanic_dialog_reply_8">
+    <text>Ты сломаешь, я починю... Что за чертов цикл. Давай покончим с этим.</text>
+</string>
+<string id="st_mechanic_dialog_reply_9">
+    <text>Принеси это. Только не жди чудес, сталкер.</text>
+</string>
+<string id="st_mechanic_dialog_reply_10">
+    <text>Черт, давай посмотрим, стоит ли оно вообще этих чертовых хлопот.</text>
+</string>
+<string id="st_mechanic_dialog_reply_11">
+    <text>Ладно, новичок. Выкладывай - если в хлам разбито, возьму дороже.</text>
+</string>
+<string id="st_mechanic_dialog_reply_12">
+    <text>Еще один день, еще один кусок барахла... ладно, давайте посмотрим.</text>
+</string>
+<string id="st_mechanic_dialog_reply_13">
+    <text>Если оно убито так же, как ты выглядишь, выйдет дорого.</text>
+</string>
+<string id="st_mechanic_dialog_reply_14">
+    <text>Хорошо, покажи мне. Только не нойте потом о стоимости.</text>
+</string>
+<string id="st_mechanic_dialog_reply_15">
+    <text>Посмотрим, какое «чудо» вам понадобится на этот раз.</text>
+</string>
+<string id="st_mechanic_dialog_reply_16">
+    <text>Если бы у меня был рубль за каждую сломанную штуковину, которую я увижу... Ладно, покажи.</text>
+</string>
+<string id="st_mechanic_dialog_reply_17">
+    <text>Принеси это. Просто знай, что я не чертов волшебник.</text>
+</string>
+<string id="st_mechanic_dialog_reply_18">
+    <text>Ах, ты вернулся. И я уверен, что это не для того, чтобы сказать спасибо. Что сейчас сломано?</text>
+</string>
+<string id="st_mechanic_dialog_reply_19">
+    <text>Отдай, сталкер. Посмотрим, смогу ли я вообще исправить этот беспорядок.</text>
+</string>
+<string id="st_mechanic_dialog_reply_20">
+    <text>Если он сломан, я беру дополнительную плату. Передайте это.</text>
+</string>
+<string id="st_mechanic_dialog_reply_21">
+    <text>Ещё одна? Ладно, кидай в кучу.</text>
+</string>
+<string id="st_mechanic_dialog_reply_22">
+    <text>Конечно, просто принесите эту чертову штуку сюда и не жалуйтесь на цену.</text>
+</string>
+<string id="st_mechanic_dialog_reply_23">
+    <text>Давай тогда покажи мне, какой беспорядок ты устроил на этот раз.</text>
+</string>
+<string id="st_mechanic_dialog_reply_24">
+    <text>Посмотрим, смогу ли сделать из этого снова рабочую вещь.</text>
+</string>
+<string id="st_mechanic_dialog_reply_25">
+    <text>Ладно-ладно, покажи мне это дерьмо. Не то чтобы у меня были дела поважнее.</text>
+</string>
+<string id="st_mechanic_dialog_reply_26">
+    <text>Еще один сломанный кусок? Вы, сталкеры, наверняка не слишком заботитесь о своем снаряжении.</text>
+</string>
+<string id="st_mechanic_dialog_reply_27">
+    <text>Ещё один убитый кусок? Вы, сталкеры, вообще не жалеете снарягу.</text>
+</string>
+<string id="st_mechanic_dialog_reply_28">
+    <text>Если вы испортили его без возможности сохранения, даже не беспокойтесь.</text>
+</string>
+<string id="st_mechanic_dialog_reply_29">
+    <text>Ты сломаешь, я починю - история моей жизни. Передайте это.</text>
+</string>
+<string id="st_mechanic_dialog_reply_30">
+    <text>Ладно, новичок, сдавай свою сломанную хрень. Давай покончим с этим.</text>
+</string>
+<string id="st_mechanic_dialog_reply_31">
+    <text>Если ты сломал его, я починю его. Но это будет стоить вам денег.</text>
+</string>
+<string id="st_mechanic_dialog_reply_32">
+    <text>Еще один сломанный кусок? Хорошо, покажи мне.</text>
+</string>
+<string id="st_mechanic_dialog_reply_33">
+    <text>Ладно, посмотрим, стоит ли вообще чинить этот кусок барахла.</text>
+</string>
+<string id="st_mechanic_dialog_reply_34">
+    <text>Показывай, и не ной, когда назову цену.</text>
+</string>
+<string id="st_mechanic_dialog_reply_35">
+    <text>Есть для меня новый гемор? Ладно, тащи.</text>
+</string>
+<string id="st_mechanic_dialog_reply_36">
+    <text>Если бы мне давали по рублю за каждую увиденную сломанную вещь, я бы вышел на пенсию. Давайте посмотрим.</text>
+</string>
+<string id="st_mechanic_dialog_reply_37">
+    <text>Давай покончим с этим. Просто покажи мне это чертово снаряжение.</text>
+</string>
+<string id="st_mechanic_dialog_reply_38">
+    <text>Отдайте его, но не нойте, если его уже не спасти.</text>
+</string>
+<string id="st_mechanic_dialog_reply_39">
+    <text>Если это в хлам ушатано, не удивляйся двойному ценнику.</text>
+</string>
+<string id="st_mechanic_dialog_reply_40">
+    <text>Конечно, покажи. И лучше, чтобы оно не было разбито на части.</text>
+</string>
+<string id="st_mechanic_dialog_reply_41">
+    <text>Давай сюда. Скажу, есть ли смысл это чинить.</text>
+</string>
+<string id="st_mechanic_dialog_reply_42">
+    <text>Хорошо, я посмотрю. Но помните: я механик, а не волшебник.</text>
+</string>
+<string id="st_mechanic_dialog_reply_43">
+    <text>Еще убитое железо? Отлично. Показывай, что там.</text>
+</string>
+<string id="st_mechanic_dialog_reply_44">
+    <text>Если уже не спасти, не жди от меня сочувствия.</text>
+</string>
+<string id="st_mechanic_dialog_reply_45">
+    <text>Хорошо, передай. Давайте посмотрим, что нужно исправить на этот раз.</text>
+</string>
+<string id="st_mechanic_dialog_reply_46">
+    <text>Ладно, новичок. Посмотрим, сколько тебе удалось разрушить.</text>
+</string>
+<string id="st_mechanic_dialog_reply_47">
+    <text>Больше работы - больше денег. Показывай.</text>
+</string>
+<string id="st_mechanic_dialog_reply_48">
+    <text>Просто покажи мне этот беспорядок. О стоимости поговорим позже.</text>
+</string>
+<string id="st_mechanic_dialog_reply_49">
+    <text>Отдайте, и я вам скажу, стоит ли оно своих рублей.</text>
+</string>
+<string id="st_mechanic_dialog_reply_50">
+    <text>Если деньги есть, инструменты найдутся. Показывай урон.</text>
+</string>
+
+	
+	<string id="st_medic_dialog_init">
+		<text>Я хочу купить медицинские товары. %c[d_orange][Торговля]</text>
+	</string>
+	<string id="st_medic_dialog_reply_1">
+		<text>У меня заканчиваются запасы, но вот что у меня есть.</text>
+	</string>
+	<string id="st_medic_dialog_reply_2">
+		<text>Блин, у меня скоро закончится это дерьмо... В любом случае, здесь.</text>
+	</string>
+	<string id="st_medic_dialog_reply_3">
+		<text>Ладно. Только не просри это впустую.</text>
+	</string>
+	<string id="st_medic_dialog_reply_4">
+		<text>У меня немного, но кое-что выделю.</text>
+	</string>
+	<string id="st_medic_dialog_reply_5">
+		<text>Надеюсь, ты не наркоман. В любом случае, я полагаю, это не имеет значения.</text>
+	</string>
+<string id="st_medic_dialog_reply_6">
+    <text>Хорошо, но если ты здесь только ради пластырей, не трать мое время.</text>
+</string>
+<string id="st_medic_dialog_reply_7">
+    <text>Давай посмотрим, что тебе нужно. Только не проси невозможного.</text>
+</string>
+<string id="st_medic_dialog_reply_8">
+    <text>Отлично, еще один запасается. Надеюсь, это не войдет в привычку.</text>
+</string>
+<string id="st_medic_dialog_reply_9">
+    <text>Раз пришел ко мне, значит дело серьезное?</text>
+</string>
+<string id="st_medic_dialog_reply_10">
+    <text>Ладно, давай покончим с этим. Однако с поставками туго.</text>
+</string>
+<string id="st_medic_dialog_reply_11">
+    <text>Опять решил выгрести мои запасы? Ладно, давай.</text>
+</string>
+<string id="st_medic_dialog_reply_12">
+    <text>Если царапина - справишься сам. У меня тут реально тяжёлые раненые.</text>
+</string>
+<string id="st_medic_dialog_reply_13">
+    <text>Ладно, посмотрим, в какую лажу ты вляпался на этот раз.</text>
+</string>
+<string id="st_medic_dialog_reply_14">
+    <text>Припасов мало, поэтому я надеюсь, что вы не тратите мои запасы зря.</text>
+</string>
+<string id="st_medic_dialog_reply_15">
+    <text>Хорошо, но побыстрее. Здесь не совсем бесплатная клиника.</text>
+</string>
+<string id="st_medic_dialog_reply_16">
+    <text>Давай посмотрим, что тебе нужно, но не выжимай меня досуха.</text>
+</string>
+<string id="st_medic_dialog_reply_17">
+    <text>Сразу скажу: я не благотворитель. Показывай.</text>
+</string>
+<string id="st_medic_dialog_reply_18">
+    <text>Хорошо, просто скажи мне, что тебе нужно, прежде чем я пожалею об этом.</text>
+</string>
+<string id="st_medic_dialog_reply_19">
+    <text>Перейдем к делу: что будет на этот раз?</text>
+</string>
+<string id="st_medic_dialog_reply_20">
+    <text>Хорошо, покажи мне, что такое срочное, что ты не можешь исправить это сам.</text>
+</string>
+<string id="st_medic_dialog_reply_21">
+    <text>Хорошо, поехали снова. Не ждите никаких скидок.</text>
+</string>
+<string id="st_medic_dialog_reply_22">
+    <text>Лучше покупай, а не просто пялься.</text>
+</string>
+<string id="st_medic_dialog_reply_23">
+    <text>Хорошо, но давайте побыстрее. У меня есть работа.</text>
+</string>
+<string id="st_medic_dialog_reply_24">
+    <text>Ну, надеюсь, у вас есть на это рубли. Давайте посмотрим.</text>
+</string>
+<string id="st_medic_dialog_reply_25">
+    <text>Не говорите мне, что вам нужен весь запас - просто дайте мне знать, чего вы хотите.</text>
+</string>
+<string id="st_medic_dialog_reply_26">
+    <text>Хорошо, но припасы даются нелегко, так что учтите это.</text>
+</string>
+<string id="st_medic_dialog_reply_27">
+    <text>Давай, но если ты зря тратишь припасы, это на тебе.</text>
+</string>
+<string id="st_medic_dialog_reply_28">
+    <text>Если вам нужны лекарства, хорошо, но не относитесь к этому как к походу по магазинам.</text>
+</string>
+<string id="st_medic_dialog_reply_29">
+    <text>Говори, что нужно. Только премиум у меня не по дешёвке.</text>
+</string>
+<string id="st_medic_dialog_reply_30">
+    <text>Посмотрите, если нужно, но постарайтесь не обескровить меня.</text>
+</string>
+<string id="st_medic_dialog_reply_31">
+    <text>Ну, поехали. Только быстро, я тут не больницу держу.</text>
+</string>
+<string id="st_medic_dialog_reply_32">
+    <text>Хорошо, что тебе нужно на этот раз? Припасов мало, так что будьте благоразумны.</text>
+</string>
+<string id="st_medic_dialog_reply_33">
+    <text>Надеюсь, вы платите наличными, потому что это не благотворительность.</text>
+</string>
+<string id="st_medic_dialog_reply_34">
+    <text>Конечно, давайте посмотрим. Но пусть это стоит моего времени.</text>
+</string>
+<string id="st_medic_dialog_reply_35">
+    <text>Хорошо, но я здесь не держу чертовой аптеки.</text>
+</string>
+<string id="st_medic_dialog_reply_36">
+    <text>Давай быстрее. Ты сюда за припасами пришел, а не болтать.</text>
+</string>
+<string id="st_medic_dialog_reply_37">
+    <text>Просто скажи, что нужно. Припасов меньше, чем ты думаешь.</text>
+</string>
+<string id="st_medic_dialog_reply_38">
+    <text>Если это незначительно, не тратьте мое время. В противном случае, давайте продолжим.</text>
+</string>
+<string id="st_medic_dialog_reply_39">
+    <text>Вам нужны припасы? Хорошо, только не забирай весь мой запас.</text>
+</string>
+<string id="st_medic_dialog_reply_40">
+    <text>Хорошо, что это будет? Поторопитесь, у меня есть работа.</text>
+</string>
+<string id="st_medic_dialog_reply_41">
+    <text>Давай покончим с этим. Скажи мне, что тебе нужно.</text>
+</string>
+<string id="st_medic_dialog_reply_42">
+    <text>Хорошо, но не ждите подачек. Скажи мне, что тебе нужно.</text>
+</string>
+<string id="st_medic_dialog_reply_43">
+    <text>Надеюсь, оно того стоит. Я не раздаю припасы ради прикола.</text>
+</string>
+<string id="st_medic_dialog_reply_44">
+    <text>Скажи, что платишь сразу. И чего тебе надо?</text>
+</string>
+<string id="st_medic_dialog_reply_45">
+    <text>Если берёшь - делай это быстро. У меня и без тебя дел полно.</text>
+</string>
+<string id="st_medic_dialog_reply_46">
+    <text>Хорошо, поехали. Однако не ждите никакой благотворительности.</text>
+</string>
+<string id="st_medic_dialog_reply_47">
+    <text>Да, да, давайте посмотрим. Надеюсь, у тебя есть деньги.</text>
+</string>
+<string id="st_medic_dialog_reply_48">
+    <text>Скажи мне, что тебе нужно, но не жди чудес.</text>
+</string>
+<string id="st_medic_dialog_reply_49">
+    <text>Припасов мало, так что не еби мозги ерундой.</text>
+</string>
+<string id="st_medic_dialog_reply_50">
+    <text>Хорошо, посмотрим, что я могу сделать. Надеюсь, дело не только в порезах и синяках.</text>
+</string>
+
+	
+	<string id="st_bartender_dialog_init">
+		<text>Что у тебя есть на продажу? %c[d_orange][Торговля]</text>
+	</string>
+	<string id="st_bartender_dialog_reply_1">
+		<text>Еда, напитки, дым... чего ты хочешь?</text>
+	</string>
+	<string id="st_bartender_dialog_reply_2">
+		<text>Голодный? У меня найдется, чем тебя накормить.</text>
+	</string>
+	<string id="st_bartender_dialog_reply_3">
+		<text>Что сегодня будешь пить? Водку или «Путинку»?</text>
+	</string>
+<string id="st_bartender_dialog_reply_4">
+    <text>Смотря чего хочешь: выпить или брюхо набить?</text>
+</string>
+<string id="st_bartender_dialog_reply_5">
+    <text>Есть свежее рагу, чуть радиоактивное, как ты любишь. И стандартный набор выпивки.</text>
+</string>
+<string id="st_bartender_dialog_reply_6">
+    <text>Ну, если вы покупаете, там есть выпивка, жратва и немного сплетен о Зоне.</text>
+</string>
+<string id="st_bartender_dialog_reply_7">
+    <text>Выбирай: крепкое, черствый хлеб или пара баек.</text>
+</string>
+<string id="st_bartender_dialog_reply_8">
+    <text>Водка, пиво и немного консервированного дерьма. Выбирай.</text>
+</string>
+<string id="st_bartender_dialog_reply_9">
+    <text>Всё как вчера: бухло и еда, которая пока не сдохла.</text>
+</string>
+<string id="st_bartender_dialog_reply_10">
+    <text>Есть напитки, которые согреют ваши кости, и еда, которая, возможно, не убьет вас.</text>
+</string>
+<string id="st_bartender_dialog_reply_11">
+    <text>Насколько вы голодны? У меня есть еда для всех уровней отчаяния.</text>
+</string>
+<string id="st_bartender_dialog_reply_12">
+    <text>Посмотрим... консервы, водка и сигареты. Какой у тебя яд?</text>
+</string>
+<string id="st_bartender_dialog_reply_13">
+    <text>Напитки холодные, еда горячая. Какой из них вам нужен?</text>
+</string>
+<string id="st_bartender_dialog_reply_14">
+    <text>Если ты испытываешь жажду или голод, я могу тебя накормить. Если нет, не тратьте мое время.</text>
+</string>
+<string id="st_bartender_dialog_reply_15">
+    <text>Выпивка течёт, а еда... съедобная. По большей части.</text>
+</string>
+<string id="st_bartender_dialog_reply_16">
+    <text>Водка и тушенка - Зональная диета. Нужна тарелка или стакан?</text>
+</string>
+<string id="st_bartender_dialog_reply_17">
+    <text>Есть местное пойло, если хватит смелости рискнуть.</text>
+</string>
+<string id="st_bartender_dialog_reply_18">
+    <text>Еда, напитки, дым... выбери свой яд.</text>
+</string>
+<string id="st_bartender_dialog_reply_19">
+    <text>Водка крепкая, рагу теплое, а истории бесплатные. Что это будет?</text>
+</string>
+<string id="st_bartender_dialog_reply_20">
+    <text>Надеюсь, ты не придирчив. Еда ограничена, а водка - из партии прошлого месяца.</text>
+</string>
+<string id="st_bartender_dialog_reply_21">
+    <text>Выбирайте: разбавленное пиво или суп, который поддержит вас.</text>
+</string>
+<string id="st_bartender_dialog_reply_22">
+    <text>Да, тут всего понемногу. Есть деньги - налью.</text>
+</string>
+<string id="st_bartender_dialog_reply_23">
+    <text>Водка, чтобы согреться, еда, чтобы сохранить жизнь. Нужны оба?</text>
+</string>
+<string id="st_bartender_dialog_reply_24">
+    <text>Гурманства не жди. Тут то, что нужно, а не то, что хочется.</text>
+</string>
+<string id="st_bartender_dialog_reply_25">
+    <text>Длинный день в Зоне? Меня ждут напитки и горячая еда.</text>
+</string>
+<string id="st_bartender_dialog_reply_26">
+    <text>Нужно снять остроту? Для этого есть подходящие напитки.</text>
+</string>
+<string id="st_bartender_dialog_reply_27">
+    <text>Желудок набить или мозги притупить? И то и другое есть.</text>
+</string>
+<string id="st_bartender_dialog_reply_28">
+    <text>Если тебе нужно выпить, я твой парень. Еда просто бонус.</text>
+</string>
+<string id="st_bartender_dialog_reply_29">
+    <text>Хорошо, что это будет? Напиток, еда, а может быть, что-то покрепче?</text>
+</string>
+<string id="st_bartender_dialog_reply_30">
+    <text>Голодный или жаждущий? В любом случае, мне есть чем помочь.</text>
+</string>
+<string id="st_bartender_dialog_reply_31">
+    <text>Хотите пить, голодны или просто хотите отдохнуть? Я тебя прикрою.</text>
+</string>
+<string id="st_bartender_dialog_reply_32">
+    <text>Напиток? Еда? Сигареты? Или все трое?</text>
+</string>
+<string id="st_bartender_dialog_reply_33">
+    <text>Ладно, есть водка, тушёнка и сигареты. Выбирай.</text>
+</string>
+<string id="st_bartender_dialog_reply_34">
+    <text>Выбор невелик, но то, что у меня есть, пожалуйста.</text>
+</string>
+<string id="st_bartender_dialog_reply_35">
+    <text>Добро пожаловать. Хотите еще выпить или вы здесь, чтобы полноценно поесть?</text>
+</string>
+<string id="st_bartender_dialog_reply_36">
+    <text>Ладно, вот что в меню: выпивка, тушеное мясо и немного сплетен.</text>
+</string>
+<string id="st_bartender_dialog_reply_37">
+    <text>Водка, хлеб, может сигарета. Тебе зайдёт?</text>
+</string>
+<string id="st_bartender_dialog_reply_38">
+    <text>Что надо - налью или на тарелку кину. Выбор за тобой.</text>
+</string>
+<string id="st_bartender_dialog_reply_39">
+    <text>Хотите выпить, покурить или что-нибудь пожевать?</text>
+</string>
+<string id="st_bartender_dialog_reply_40">
+    <text>Конечно, у меня есть кое-что, чтобы успокоить твой желудок. Посмотрите.</text>
+</string>
+<string id="st_bartender_dialog_reply_41">
+    <text>Если вы ищете тонизирующее средство, у меня есть лекарство прямо здесь.</text>
+</string>
+<string id="st_bartender_dialog_reply_42">
+    <text>Напиток, чтобы согреться, или еда, чтобы насытиться. Выбирайте.</text>
+</string>
+<string id="st_bartender_dialog_reply_43">
+    <text>Выпить или пожрать? В любом случае организую.</text>
+</string>
+<string id="st_bartender_dialog_reply_44">
+    <text>Хорошо, здесь есть то, что вам нужно. Только не ждите пятизвездочного обслуживания.</text>
+</string>
+<string id="st_bartender_dialog_reply_45">
+    <text>Конечно, посмотрите. Еда горячая, напитки холодные - более или менее.</text>
+</string>
+<string id="st_bartender_dialog_reply_46">
+    <text>Да, да, что это будет? Пить или что-нибудь есть?</text>
+</string>
+<string id="st_bartender_dialog_reply_47">
+    <text>Хочешь пожрать, выпить или просто передохнуть? Всё будет.</text>
+</string>
+<string id="st_bartender_dialog_reply_48">
+    <text>Голодный - накормлю. Мучает сушняк - тоже вылечим.</text>
+</string>
+<string id="st_bartender_dialog_reply_49">
+    <text>Есть все необходимое: выпивка, еда и, возможно, история, если вы платите.</text>
+</string>
+<string id="st_bartender_dialog_reply_50">
+    <text>Хорошо, оглянись вокруг. Есть выпивка, немного перекуса и, может быть, парочка сигарет.</text>
+</string>
+	
+
+<!-- Selling important documents -->
+	<string id="st_trade_important_documents_0">
+		<text>Я нашел несколько старых документов, вам интересно?</text>
+	</string>
+	<string id="st_trade_important_documents_1">
+		<text>Конечно! Посмотрим, что у вас там есть.</text>
+	</string>
+	<string id="st_trade_important_documents_2">
+		<text>Вот, взгляните.</text>
+	</string>
+	<string id="st_trade_important_documents_4">
+		<text>По рукам.</text>
+	</string>
+	<string id="st_trade_important_documents_5">
+		<text>Думаю, я их пока оставлю...</text>
+	</string>
+	<string id="st_trade_important_documents_7">
+		<text>Тогда ладно.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_esc_m_trader">
+		<text>Я даже не стану спрашивать, где ты это взял. Документы исключительные. Почти все от них выиграют... и я в том числе. Готов купить прямо сейчас за %s RU, плюс подкину хорошую вещь из своих запасов. Что скажешь?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_esc_m_trader">
+		<text>Отлично! Найдёшь ещё такое - сразу тащи ко мне. Я позабочусь, чтобы ты не остался в накладе... Хе-хе.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_bar_visitors_barman_stalker_trader">
+		<text>Так-так... Слушай сюда. Документы стоящие, там инфа об экспериментах с Зоной. На твоём месте я бы аккуратнее выбирал, кому это отдавать. Предлагаю сделку: %s RU - нормальная цена. И дополнительным товаром помогу. Принесёшь ещё документы - добавлю денег. Что думаешь?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_bar_visitors_barman_stalker_trader">
+		<text>Отлично! Будет ещё такое - ты знаешь, где меня искать.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_zat_b7_bandit_boss_sultan">
+		<text>Посмотри на себя, маленький храбрый герой, который неожиданно наткнулся на это. Сегодня я буду вести себя хорошо и проигнорирую эти детали. Я знаю людей, которые готовы убить за такие документы, это то, что скрывалось долгие годы, знаете ли. %s RU, и вам советую хорошенько подумать.</text>
+	</string>
+	<string id="st_trade_important_documents_answer_zat_b7_bandit_boss_sultan">
+		<text>Красавчик, пацан. В следующий раз, как «найдёшь» что-то подобное, сразу ко мне.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_mar_smart_terrain_base_stalker_leader_marsh">
+		<text>Думаю, эти документы ценны для нашей группы. Но сейчас у нас тяжёлые времена, только встаём на ноги. Могу предложить лишь %s RU, прости.</text>
+	</string>
+	<string id="st_trade_important_documents_answer_mar_smart_terrain_base_stalker_leader_marsh">
+		<text>Спасибо! Понимаю, что этого мало за такую инфу. Поговорю с нашим торговцем Диспетом, может отложит тебе снарягу на будущее. Когда встанем на ноги, за такое буду платить больше, обещаю!</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_bar_dolg_leader">
+		<text>Интересно... Давайте поступим следующим образом... Правильная цена будет %s RU. Не говоря уже о том, что «Duty» сейчас не в лучшей форме. Благодаря этим документам мы сможем организовать поставки необходимого нам оборудования. Я думаю, что и вы от этого что-то получите. Вы согласны?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_bar_dolg_leader">
+		<text>Сегодня я начну переговоры с военными, думаю, это не займет много времени, чтобы увидеть какие-то результаты. Когда в следующий раз ты принесешь нам такие документы, я подберу для тебя более достойную награду. А пока возьмите это в благодарность от «Долга»!</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_agr_smart_terrain_1_6_near_2_military_colonel_kovalski">
+		<text>Интересно... очень интересно. Сделаю вид, что не заметил, как ты «случайно» это нашёл. Предлагаю так: передаёшь документы мне и забываешь, что видел их. Найдёшь ещё - несёшь лично мне, без посредников. Я плачу наличными: %s RU за каждый документ. Договорились?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_agr_smart_terrain_1_6_near_2_military_colonel_kovalski">
+		<text>Значит, договорились. Пока держи немного денег из моего кармана, чтобы без обид.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_cit_killers_merc_trader_stalker">
+		<text>Любопытно... Документы об экспериментах в Зоне... Раньше за такое наши клиенты отваливали баснословные суммы. Сейчас времена другие, но ценность информации всё ещё высокая. Беру их за %s RU. По рукам?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_cit_killers_merc_trader_stalker">
+		<text>Отлично. Найдёшь ещё такие документы - приноси, не стесняйся.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_yan_stalker_sakharov">
+		<text>Действительно очень интересная вещь! Подобные документы не являются нашей специальностью, но их содержание может пролить свет на многие наши исследования. Кроме того, я не сомневаюсь, что наши спонсоры будут крайне заинтересованы в их наличии, что очень положительно отразится на нашем финансировании. Хотите заключить с нами специальную сделку по этому поводу? За подобные документы вы можете получить от нас денежное вознаграждение. Я могу организовать %s RU за документы, которые вы мне только что дали.</text>
+	</string>
+	<string id="st_trade_important_documents_answer_yan_stalker_sakharov">
+		<text>Спасибо! Я очень доволен нашим новым сотрудничеством.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_mil_smart_terrain_7_7_freedom_leader_stalker">
+		<text>Ха, где ты это откопал? Такая инфа может перевернуть всё вверх дном. Я это прятать не стану: если в прошлом были незаконные эксперименты, люди должны знать правду. И это в твоих руках только начало. Предлагаю %s RU. Перед тем как отказаться, подумай: сегодня ты делаешь правильное дело, завтра оно вернётся к тебе втройне.</text>
+	</string>
+	<string id="st_trade_important_documents_answer_mil_smart_terrain_7_7_freedom_leader_stalker">
+		<text>Отлично! Если найдешь еще что-то полезное для нас, буду очень благодарен.</text>
+	</string>
+	
+	
+<!-- Swap items with Companions -->
+	<string id="st_companion_inv_show_gui">
+		<text>Мне нужно разобраться с вещами, которые ты несешь.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items">
+		<text>Мне нужно, чтобы ты понес мой лут.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_dummy"> <!-- NPC will refuse -->
+		<text>Бля, Мне нужно, чтобы ты отнес мою добычу.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_response_accept_1">
+		<text>Конечно, скажи мне, когда захочешь вернуть свои вещи.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_response_accept_2">
+		<text>Эх, ты заставляешь меня нести тяжелые вещи, не так ли? Хорошо, тогда.</text>
+	</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_3">
+    <text>Хорошо, но если мы попадем в засаду, тебе лучше бежать первым.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_4">
+    <text>Хорошо, передай. Будем надеяться, что мне не придется таскать кирпичи.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_5">
+    <text>Пока есть место, я возьму его.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_6">
+    <text>Да-да, просто грузи сюда.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_7">
+    <text>Конечно, положи это сюда.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_8">
+    <text>Отлично. Но в следующий раз я оставлю хорошие вещи.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_9">
+    <text>Понятно. Только не делайте это привычкой.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_10">
+    <text>Ладно, но не удивляйся, если что-то «потеряется».</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_11">
+    <text>Думаю, я сегодня счастливый мул, да?</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_12">
+    <text>Понял тебя. Но ты мне должен.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_13">
+    <text>Хорошо, но если мы скоро поругаемся, ты возьмешь на себя инициативу.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_14">
+    <text>Ладно, давай сюда. Надеюсь, оно того стоит.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_15">
+    <text>Если это позволит мне выпить позже, конечно.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_16">
+    <text>Да, просто скинь это сюда.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_17">
+    <text>Хорошо, но если я потяну мышцу, ты понесешь меня.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_18">
+    <text>Я буду держаться за это, но не ожидайте этого каждый раз.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_19">
+    <text>Ладно, но всё ценное - мне первому.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_20">
+    <text>Для тебя? Хорошо. Просто не ждите чудес.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_21">
+    <text>Хорошо, но после этого ты должен мне пиво.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_22">
+    <text>Думаю, сегодня я твой вьючный мул. Пойдем.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_23">
+    <text>Хорошо, просто брось это сюда.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_24">
+    <text>Думаю, это я сейчас делаю тяжелую работу.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_25">
+    <text>Я возьму это. Но в следующий раз ты понесешь мое снаряжение.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_26">
+    <text>Хорошо, загрузи меня. Но не жди, что я побегу.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_27">
+    <text>Ладно, договорились.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_28">
+    <text>Хорошо, но если я найду здесь камни, мы поговорим.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_29">
+    <text>Хорошо, дай сюда. У меня сильные плечи.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_30">
+    <text>Думаю, я твой носильщик на сегодня. Пойдем.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_31">
+    <text>Конечно, но если он весит тонну, ты покупаешь ужин.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_32">
+    <text>Хорошо. Давайте двигаться, пока я не пожалел об этом.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_33">
+    <text>Понятно. Надеюсь, ты не забудешь позже облегчить мою ношу.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_34">
+    <text>Я буду держаться за это. Только не проси меня бежать.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_35">
+    <text>Хорошо, передай. Но в следующий раз твоя очередь.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_36">
+    <text>Я сделаю это, но ты покупаешь следующий раунд.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_37">
+    <text>Ладно, но надеюсь, из этого мне хоть патронов перепадет.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_38">
+    <text>Да, хорошо. Только не перегружайте меня.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_39">
+    <text>Передайте это. Но не делайте это привычкой.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_40">
+    <text>Да, я понесу. Только не тормози нас.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_41">
+    <text>Хорошо. Давайте загрузимся и выедем.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_42">
+    <text>Для Зоны, да? Давай сделаем это.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_43">
+    <text>Да-да, понял. Я прикрою.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_44">
+    <text>Хорошо, просто следи за тем, что я несу.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_45">
+    <text>Ладно, давай покончим с этим.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_46">
+    <text>Понятно. Только не дави на меня слишком сильно.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_47">
+    <text>Хорошо, только не заставляй меня нести кухонную раковину.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_48">
+    <text>Да, да, загрузи его. Поехали.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_49">
+    <text>Меня устраивает. Только не жалуйтесь, если я буду двигаться медленно.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_accept_50">
+    <text>Хорошо. Лучше бы это того стоило.</text>
+</string>
+	
+	
+	<string id="st_companion_inv_take_all_my_items_response_refuse_1">
+		<text>Подожди, чувак, у меня тоже есть вещи! Я не могу вынести весь ваш мусор сразу!</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_response_refuse_2">
+		<text>Извините, но мой рюкзак уже полон.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_response_refuse_3">
+		<text>Я что, мул? Да ладно, чувак, у меня рюкзак уже лопается!</text>
+	</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_4">
+    <text>Ни в коем случае, мой рюкзак и так полон.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_5">
+    <text>Найди другого мула. Мне и со своим барахлом проблем хватает.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_6">
+    <text>Ни за что. Я и со своим барахлом еле двигаюсь.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_7">
+    <text>Ты шутишь? Я уже несу на своей спине половину Зоны.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_8">
+    <text>Я не могу быть твоим проклятым вьючным мулом, ясно?</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_9">
+    <text>Нет, я уже загрузился. Удачи, однако.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_10">
+    <text>Я тебе не вьючный мул, ясно? Тащи своё сам.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_11">
+    <text>Смотри, моя сумка уже лопается. Спросите кого-нибудь еще.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_12">
+    <text>Ни в коем случае, я уже исчерпал свой предел.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_13">
+    <text>Забудь это. Я не несу твои вещи.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_14">
+    <text>Да, нет. Моя сумка чертовски полна.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_15">
+    <text>Ищи другого, я под завязку.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_16">
+    <text>Моя сумка уже натянута до предела. Не могу этого сделать.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_17">
+    <text>Давай, чувак. Я тоже не таскаю все твои вещи.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_18">
+    <text>Ни в коем случае, я и так перегружен.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_19">
+    <text>Я уже ношу слишком много. Вы сами по себе.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_20">
+    <text>Сам разбирайся, у меня места нет.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_21">
+    <text>Не помогу, у меня рюкзак забит под завязку.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_22">
+    <text>Извините, но нет. Мой рюкзак уже полон.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_23">
+    <text>У меня нет места. Придётся тащить самому.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_24">
+    <text>Я тоже не буду таскать твой груз. Моя спина не выдержит.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_25">
+    <text>Неа. Рюкзак забит, ищи другого.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_26">
+    <text>Моя сумка уже плотно упакована. Извини.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_27">
+    <text>Ха! Ты мечтаешь, если думаешь, что я несу все это.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_28">
+    <text>Нет, спасибо. Моя спина уже не та, что раньше.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_29">
+    <text>Я бы с радостью помог, но я уже выдохся.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_30">
+    <text>Не могу этого сделать. Уже тащу свои проблемы.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_31">
+    <text>Не сегодня, друг. Мой рюкзак на пределе.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_32">
+    <text>Вам придется разобраться в этом самостоятельно.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_33">
+    <text>Да, я уже таскаю тонну. Нет, не могу.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_34">
+    <text>Извините, но у меня не осталось места.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_35">
+    <text>Нет, моя спина и так вот-вот откажется.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_36">
+    <text>Ты мечтаешь, если думаешь, что я тоже за это возьмусь.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_37">
+    <text>Извините, у меня здесь не осталось места.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_38">
+    <text>Я уже выдохся, найди другого лоха.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_39">
+    <text>Здесь не осталось места. Похоже, тебе не повезло.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_40">
+    <text>Боюсь, нет, друг. Я и так загружен.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_41">
+    <text>Я бы помог, но места вообще не осталось.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_42">
+    <text>Извините, нет, не могу. Я уже загружен.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_43">
+    <text>Не в этот раз. Я и так на пределе.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_44">
+    <text>Не могу. Для твоего хлама места нет.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_45">
+    <text>Моя спина и так вот-вот сломается. Ни за что.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_46">
+    <text>Найди кого-нибудь еще, мой рюкзак уже набит.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_47">
+    <text>Смотри, я уже тащу свою долю. И этого достаточно.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_48">
+    <text>Я не несу и твой груз, я не вьючный мул.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_49">
+    <text>Я под завязку. Удачи найти другого.</text>
+</string>
+<string id="st_companion_inv_take_all_my_items_response_refuse_50">
+    <text>Здесь не осталось места. Вы сами по себе.</text>
+</string>
+	
+	
+	<string id="st_companion_inv_give_me_back_all_items">
+		<text>Теперь моя очередь быть вьючным мулом. Можешь передать добычу?</text>
+	</string>
+	<string id="st_companion_inv_give_me_back_all_items_response">
+		<text>Конечно, вот.</text>
+	</string>
+
+<!-- Paid Companions -->
+	<string id="st_paid_companion_dialog_text_0">
+		<text>Ищу отряд сопровождения. Интересует?</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_1">
+		<text>За предоплату я тебя прикрываю. 24 часа - %s, 48 часов - %s. Но если полезешь в лаборатории или на территорию Монолита, там сам по себе, понял?</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_2">
+		<text>Извините, у нас уже есть другие работы.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_3">
+		<text>Мне хватит 24 часов. %c[d_orange][%s RU]</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_4">
+		<text>Ладно, два дня %c[d_orange][%s RU].</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_5">
+		<text>На самом деле... я передумал.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_6">
+		<text>Погнали.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_7">
+		<text>Погнали.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_8">
+		<text>Хорошо, тогда.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_9">
+		<text>Хорошо.</text>
+	</string>
+	<string id="st_paid_companion_contract_timeout_1">
+		<text>Контракт закончился. Теперь ты сам по себе, береги себя.</text>
+	</string>
+	<string id="st_paid_companion_contract_timeout_2">
+		<text>Моя часть сделки выполнена, я возвращаюсь. Береги себя.</text>
+	</string>
+	<string id="st_paid_companion_danger_1">
+		<text>Это не то, о чем мы договорились. Извините, у меня нет планов на самоубийство сегодня. Сделка окончена.</text>
+	</string>
+	<string id="st_paid_companion_danger_2">
+		<text>Серьезно?! Что я сказал тебе, когда ты принял мою помощь? Я не пойду в эти места, я ухожу отсюда.</text>
+	</string>
+
+<!-- Medic general -->
+	<string id="st_dm_medic_general_text_0">
+		<text>Мне нужна медицинская помощь.</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_0">
+		<text>Могу вылечить все ваши травмы за 1850 РУ. У меня есть специальная сыворотка, которая мгновенно поставит тебя на ноги. Если только вы не облучены, сыворотка этого не исправит. Но я бы мог смыть с тебя всё это светящееся дерьмо ещё одной обработкой за 1480 RU. Итак, что вы решили?</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_1">
+		<text>Ах, конечно, даже себя в целости удержать не можешь. Давайте посмотрим...</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_2">
+		<text>Хм? Хорошо, приходи.</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_3">
+		<text>Да, я тебя починю... за определенную плату.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_0">
+		<text>У тебя ни ран, ни признаков облучения. Ты в порядке.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_1">
+		<text>Сейчас гляну... Хм... По-моему, с тобой всё нормально.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_2">
+		<text>Хм... Руки-ноги в порядке... голова на месте... Да, с тобой все в порядке.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_3">
+		<text>Чувак, ты здоровее кровососа.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_4">
+		<text>Не неси чепуху. С тобой всё нормально.</text>
+	</string>
+	<string id="st_dm_medic_general_text_2">
+		<text>Подлечи мои раны. %c[d_orange][1,850 RU]</text>
+	</string>
+	<string id="st_dm_medic_general_text_3">
+		<text>Выведи из меня радиацию. %c[d_orange][1,480 RU]</text>
+	</string>
+	<string id="st_dm_medic_general_text_4">
+		<text>К чёрту всё, мне нужно привести себя в форму. %c[d_orange][3,350 RU]</text>
+	</string>
+	<string id="st_dm_medic_general_text_5">
+		<text>Знаешь что, док? Себя сначала подлечи!</text>
+	</string>
+	
+	<string id="st_dm_medic_general_text_6">
+		<text>Держи, в следующий раз береги себя.</text>
+	</string>
+	<string id="st_dm_medic_general_text_7">
+		<text>Вам решать.</text>
+	</string>
+
+
+<!-- Unlock PDAs -->
+	<string id="st_encrypted_pda_text_0">
+		<text>У меня зашифрованный КПК, не отвечает. Сможешь вскрыть?</text>
+	</string>
+	<string id="st_encrypted_pda_text_1">
+		<text>Если заплатишь - без проблем. По 500 RU за каждый КПК, который смогу разблокировать.</text>
+	</string>
+	<string id="st_encrypted_pda_text_2">
+		<text>Ладно, держи.</text>
+	</string>
+	<string id="st_encrypted_pda_text_3">
+		<text>Неважно...</text>
+	</string>
+	<string id="st_encrypted_pda_text_4">
+		<text>Вот, теперь можешь пользоваться. Развлекайся.</text>
+	</string>
+	<string id="st_encrypted_pda_text_5">
+		<text>Хорошо, тогда.</text>
+	</string>
+	
+	
+<!-- Faction bribe -->
+	<string id="st_bribe_text_0">
+		<text>У тебя же есть связи, да? Поможешь уладить вопрос с некоторыми людьми?</text>
+	</string>
+	<string id="st_bribe_text_1">
+		<text>Может быть. Кого ты разозлил?</text>
+	</string>
+	
+	<string id="st_bribe_text_2">
+		<text>Я хочу, чтобы украинские войска здесь оставили меня в покое.</text>
+	</string>
+	<string id="st_bribe_text_21">
+		<text>Хм. Сделаем так: один их офицер нарисует тебе временные документы. 5000 RU хватит на пропуск на два дня. 10 000 RU - на четыре. Пока пропуск действует, в тебя с ходу стрелять не будут, но лучше судьбу не испытывай.</text>
+	</string>
+	
+	<string id="st_bribe_text_3">
+		<text>Я хочу, чтобы люди Султана перестали меня беспокоить.</text>
+	</string>
+	<string id="st_bribe_text_31">
+		<text>Перестать? Они не перестанут никогда. Но могут временно отстать, если им выгодно. 5000 RU - на два дня, 10 000 RU - на четыре. Что выбираешь?</text>
+	</string>
+	
+	<string id="st_bribe_text_4">
+		<text>Я произвел плохое впечатление на «Чистое небо» и хочу показать, что не имею в виду ничего плохого.</text>
+	</string>
+	<string id="st_bribe_text_41">
+		<text>Не представляю, чем ты умудрился так выбесить болотников. Но 5000 RU хватит, чтобы они остыли на день-два. 10 000 RU - и отстанут примерно на четыре дня.</text>
+	</string>
+	
+	<string id="st_bribe_text_5">
+		<text>Долг преследует меня, и я хочу, чтобы они прекратили.</text>
+	</string>
+	<string id="st_bribe_text_51">
+		<text>Несмотря на все свои идеалы «справедливости» и «порядка», они не брезгуют какое-то время игнорировать так называемых «анархистов и преступников», если вы им заплатите. 5000 РУ умиротворят их на два дня, 10 000 РУ на четыре.</text>
+	</string>
+	
+	<string id="st_bribe_text_6">
+		<text>Есть одно недоразумение с экологами... и их охраной.</text>
+	</string>
+	<string id="st_bribe_text_61">
+		<text>Учёных убедить несложно. За 5,000 RU вопрос закроется на день-два. За 10,000 RU - на четыре дня.</text>
+	</string>
+	
+	<string id="st_bribe_text_7">
+		<text>Я разозлил Свободу.</text>
+	</string>
+	<string id="st_bribe_text_71">
+		<text>Свободу? Ну ты и фашист. Шучу. 5000 RU - будут игнорить тебя день-два, 10 000 RU - около четырех дней.</text>
+	</string>
+	
+	<string id="st_bribe_text_8">
+		<text>Наемники. Как будто за мою голову назначили цену.</text>
+	</string>
+	<string id="st_bribe_text_81">
+		<text>Вероятно, да. К счастью, они живут ради денег. 5000 RU могут откупить их за день-два, 10 000 RU - за четыре.</text>
+	</string>
+	
+	<string id="st_bribe_text_9">
+		<text>Бесплатные Сталкеры. Каким-то образом мне удалось завоевать у них плохую репутацию.</text>
+	</string>
+	<string id="st_bribe_text_91">
+		<text>Ладно... стой, всех сразу? Да ты мастер заводить друзей. За 5000 RU уговорю их не трогать тебя пару дней. За 10 000 RU - на четыре. По рукам?</text>
+	</string>
+	
+	<string id="st_bribe_text_13">
+		<text>Вот, двух дней должно хватить.</text>
+	</string>
+	<string id="st_bribe_text_14">
+		<text>Хорошо, пусть это будет четыре дня.</text>
+	</string>
+	
+	<string id="st_bribe_text_10">
+		<text>Я передумал.</text>
+	</string>
+	<string id="st_bribe_text_11">
+		<text>Хорошо.</text>
+	</string>
+	<string id="st_bribe_text_12">
+		<text>Я свяжусь с ними, чтобы разобраться во всем, так что заканчивайте свои дела, пока они не передумали. И помните: держите дистанцию. Если вы подошли достаточно близко, они начнут действовать.</text>
+	</string>
+	
+<!-- Guide Job -->
+	<string id="st_jg_1">
+		<text>Я услышал ваше сообщение. Нужен гид?</text>
+	</string>
+	<string id="st_jg_1_alt">
+		<text>О работе...</text>
+	</string>
+	<string id="st_jg_2">
+		<text>Да, поможешь?</text>
+	</string>
+	<string id="st_jg_2_alt">
+		<text>Что это такое?</text>
+	</string>
+	<string id="st_jg_3">
+		<text>Дайте мне некоторые подробности.</text>
+	</string>
+	<string id="st_jg_4">
+		<text>Хорошо, поехали.</text>
+	</string>
+	<string id="st_jg_5">
+		<text>Вперед, сталкер! Когда мы доберемся туда, куда мне нужно, поговори со мной еще раз, и я заплачу тебе.</text>
+	</string>
+	<string id="st_jg_6">
+		<text>Извини, но у тебя не хватит денег заплатить мне, если план сорвётся.</text>
+	</string>
+	<string id="st_jg_mlr_1">
+		<text>Я даже не знаю, кто ты. Нет, спасибо, сталкер.</text>
+	</string>
+	<string id="st_jg_7">
+		<text>Напомни мне, куда мы идем?</text>
+	</string>
+	<string id="st_jg_8">
+		<text>Вот мы и здесь.</text>
+	</string>
+	<string id="st_jg_9">
+		<text>Наконец-то! Спасибо, сталкер, отлично сработал. Вот твои деньги.</text>
+	</string>
+	<string id="st_jg_10">
+		<text>Я передумал. Я бы предпочёл отменить работу.</text>
+	</string>
+	<string id="st_jg_11">
+		<text>Действительно? Вы уверены в этом?</text>
+	</string>
+	<string id="st_jg_12">
+		<text>Да, я уверен.</text>
+	</string>
+	<string id="st_jg_13">
+		<text>На самом деле, неважно.</text>
+	</string>
+	<string id="st_jg_14">
+		<text>Ищу опытного сталкера, чтобы довёл меня до %s. Сейчас я в %s. Зовут %s.</text>
+	</string>
+	<string id="st_jg_15">
+		<text>Мы опоздали. Извини, но это не по договору, полную оплату не получишь.</text>
+	</string>
+	<string id="st_jg_16">
+		<text>Условия такие: за %s часов мне нужно попасть в %s. Плачу %s рублей, но если не успеем вовремя, полной выплаты не будет.</text>
+	</string>
+	<string id="st_jg_17">
+		<text>Мне нужно попасть в</text>
+	</string>
+	<string id="st_jg_18">
+		<text>Тогда я продолжу сам и возьму эти деньги. Какой позор.</text>
+	</string>
+	<string id="st_jg_19">
+		<text>Протяженность, включая старт и точку назначения:&#032;</text>
+	</string>
+	<string id="st_jg_29">
+		<text>Сталкер должен быть</text>
+	</string>
+	
+	<string id="st_jg_cancel_1">
+		<text>Отлично. Спасибо ни за что.</text>
+	</string>
+	<string id="st_jg_cancel_2">
+		<text>Какой позор.</text>
+	</string>
+	<string id="st_jg_cancel_3">
+		<text>Спасибо, что потратил мое время.</text>
+	</string>
+	
+<!-- Debt / Loan -->
+	<string id="debt_register_0">
+		<text>%s, можешь одолжить мне денег?</text>
+	</string>
+	<string id="debt_register_1">
+		<text>Тебе деньги явно нужны не просто так... но и мне тоже. Вернёшь сумму плюс 50% сверху. И запомни: пока долг не погашен, к моим товарам доступа не будет.</text>
+	</string>
+	<string id="debt_register_2">
+		<text>Мне нужно всего %c[d_orange][5,000 RU].</text>
+	</string>
+	<string id="debt_register_3">
+		<text>Хорошо, дайте мне %c[d_orange][10 000 RU].</text>
+	</string>
+	<string id="debt_register_4">
+		<text>Я хочу %c[d_orange][15 000 RU].</text>
+	</string>
+	<string id="debt_register_5">
+		<text>Меня устраивает. Я возьму %c[d_orange][20 000 RU].</text>
+	</string>
+	<string id="debt_register_6">
+		<text>Неважно...</text>
+	</string>
+	<string id="debt_register_7">
+		<text>Даю в долг только потому, что о тебе хорошо отзывались. Надеюсь, не подведёшь. Держи. В следующий раз принесёшь %c[d_orange][%s RU]%c[255,160,160,190].</text>
+	</string>
+	<string id="debt_register_8">
+		<text>Хорошо.</text>
+	</string>
+	<string id="debt_register_10">
+		<text>Должен ли я разбрасываться деньгами каждый раз, когда кто-то приносит сюда свою жалкую задницу? Ответ - нет.</text>
+	</string>
+	
+	<string id="debt_pay_off_0">
+		<text>О деньгах, которые я тебе должен...</text>
+	</string>
+	<string id="debt_pay_off_1">
+		<text>Ну что, долг закроешь?</text>
+	</string>
+	<string id="debt_pay_off_2">
+		<text>Конечно, вот ваши деньги %c[d_orange][%s RU].</text>
+	</string>
+	<string id="debt_pay_off_3">
+		<text>Хм... Я все еще работаю над этим.</text>
+	</string>
+	<string id="debt_pay_off_4">
+		<text>Отлично, теперь ты чист.</text>
+	</string>
+	<string id="debt_pay_off_5">
+		<text>Тебе лучше поторопиться.</text>
+	</string>
+	
+	<string id="st_debt_no_trade_1">
+		<text>Я так не думаю. Ты должен мне денег, помнишь? Тебе лучше поскорее выплатить свой долг.</text>
+	</string>
+
+<!-- purchase extra equipment -->
+	<string id="buy_extra_items_0">
+		<text>Есть какие-нибудь специальные предложения?</text>
+	</string>
+	<string id="buy_extra_items_1">
+		<text>Что у тебя на уме?</text>
+	</string>
+	<string id="buy_extra_items_2">
+		<text>Я хотел бы приобрести дополнительное оборудование.</text>
+	</string>
+	<string id="buy_extra_items_3">
+		<text>Теоретически можно, но сейчас никто не продаст тебе лишнего. Сначала набей репутацию и опыт, тогда откроется оптовка.</text>
+	</string>
+	<string id="buy_extra_items_4">
+		<text>Я хотел бы приобрести дополнительное оборудование.</text>
+	</string>
+	<string id="buy_extra_items_5">
+		<text>Что вас интересует?</text>
+	</string>
+		<string id="buy_extra_items_6">
+			<text>Медицинские принадлежности.</text>
+		</string>
+		<string id="buy_extra_items_7">
+			<text>Провизия.</text>
+		</string>
+		<string id="buy_extra_items_8">
+			<text>Боеприпасы.</text>
+		</string>
+		<string id="buy_extra_items_9">
+			<text>Выбрать.</text>
+		</string>
+		<string id="buy_extra_items_10">
+			<text>Выбрать.</text>
+		</string>
+		<string id="buy_extra_items_11">
+			<text>Выбрать.</text>
+		</string>
+	<string id="buy_extra_items_12">
+		<text>Я передумал.</text>
+	</string>
+	
+	<string id="buy_extra_items_txt">
+		<text>%s %c[d_orange][%s RU]</text>
+	</string>
+
+
+<!-- Purchase routes -->
+	<string id="st_buy_route_0">
+		<text>Я хотел бы приобрести информацию о скрытых маршрутах.</text>
+	</string>
+	<string id="st_buy_route_1">
+		<text>У меня есть кое-какая информация. \nВосемь тысяч рублей - обычная цена для большинства зон и локаций, десять тысяч - за секретные точки и двенадцать тысяч - за информацию о скрытых ходах. \nЕсли вам интересно, могу поделиться информацией о конкретных «секретных» маршрутах. Тысяч сорок рублей, не меньше.</text>
+	</string>
+	<string id="st_buy_route_2">
+		<text>Для меня это немного дорого.</text>
+	</string>
+	<string id="st_buy_route_3">
+		<text>Это не моя проблема, приходи, когда будешь серьезно относиться к этому.</text>
+	</string>
+	<string id="st_buy_route_4">
+		<text>Ну вот.</text>
+	</string>
+	<string id="st_buy_route_dialog">
+		<text>%c[255,160,160,190]•%c[255,220,220,220] %s - %s для %c[255,160,160,190][%s RU]</text>
+	</string>
+	
+	<string id="st_route_open_title">
+		<text>Разведка маршрутов</text>
+	</string>
+	<string id="st_route_open_msg">
+		<text>%c[255,160,160,190]Обнаружен новый путь между %c[255,220,220,220](%s)%c[255,160,160,190] и %c[255,220,220,220](%s)</text>
+	</string>
+	<string id="st_route_unknown">
+		<text>Неизвестный путь</text>
+	</string>
+
+	<string id="st_route_aes1">
+		<text>ЧАЭС Юг</text>
+	</string>
+	<string id="st_route_aes2">
+		<text>ЧАЭС Север</text>
+	</string>
+	<string id="st_route_agr">
+		<text>Агропром</text>
+	</string>
+	<string id="st_route_bar">
+		<text>Росток</text>
+	</string>
+	<string id="st_route_cit">
+		<text>Мёртвый город</text>
+	</string>
+	<string id="st_route_dsc">
+		<text>Тёмный пейзаж</text>
+	</string>
+	<string id="st_route_esc">
+		<text>Кордон</text>
+	</string>
+	<string id="st_route_gar">
+		<text>Свалка</text>
+	</string>
+	<string id="st_route_gen">
+		<text>Генераторы</text>
+	</string>
+	<string id="st_route_jup">
+		<text>Юпитер</text>
+	</string>
+	<string id="st_route_kat">
+		<text>Заброшенная больница</text>
+	</string>
+	<string id="st_route_lim">
+		<text>Лиманск</text>
+	</string>
+	<string id="st_route_mar">
+		<text>Великие Болота</text>
+	</string>
+	<string id="st_route_mil">
+		<text>Армейские склады</text>
+	</string>
+	<string id="st_route_out">
+		<text>Окраина</text>
+	</string>
+	<string id="st_route_pol">
+		<text>Луг</text>
+	</string>
+	<string id="st_route_pri">
+		<text>Припять</text>
+	</string>
+	<string id="st_route_rad">
+		<text>Радар</text>
+	</string>
+	<string id="st_route_red">
+		<text>Рыжий лес</text>
+	</string>
+	<string id="st_route_ros">
+		<text>Дикая территория</text>
+	</string>
+	<string id="st_route_trc">
+		<text>Кладбище грузовиков</text>
+	</string>
+	<string id="st_route_val">
+		<text>Тёмная долина</text>
+	</string>
+	<string id="st_route_yan">
+		<text>Янтарь</text>
+	</string>
+	<string id="st_route_zat">
+		<text>Затон</text>
+	</string>
+	<string id="st_route_x8">
+		<text>Лаборатория Х-8</text>
+	</string>
+	<string id="st_route_x16">
+		<text>Лаборатория Х-16</text>
+	</string>
+	<string id="st_route_x18">
+		<text>Лаборатория Х-18</text>
+	</string>
+	<string id="st_route_x19">
+		<text>Лаборатория Х-19</text>
+	</string>
+	<string id="st_route_mar_h">
+		<text>Скрытый путь Чистого Неба</text>
+	</string>
+	<string id="st_route_agr_u">
+		<text>Подземелья Агропрома</text>
+	</string>
+	<string id="st_route_jup_u">
+		<text>Подземка Юпитера</text>
+	</string>
+	<string id="st_route_sar">
+		<text>Саркофаг</text>
+	</string>
+	<string id="st_route_s_lab">
+		<text>Центр управления Монолитом</text>
+	</string>
+	<string id="st_route_w_lab">
+		<text>Военная лаборатория Монолита</text>
+	</string>
+	
+	<!-- Travel - unused -->
+	<string id="ka_travel_dialog_ask">
+		<text>Мне нужно куда-то поехать... Ты можешь мне это организовать?</text>
+	</string>
+	<string id="ka_travel_dialog_response">
+		<text>Конечно. Куда бы вы хотели пойти?</text>
+	</string>
+	<string id="ka_travel_dialog_nevermind">
+		<text>Неважно.</text>
+	</string>
+	<string id="ka_travel_dialog_accept">
+		<text>Звучит великолепно.</text>
+	</string>
+	<string id="ka_travel_dialog_change">
+		<text>Вообще-то мне нужно в другое место...</text>
+	</string>
+	<string id="ka_travel_dialog_deny">
+		<text>Это слишком дорого.</text>
+	</string>
+	<string id="ka_travel_dialog_cost">
+		<text>Это будет стоить вам %s рублей.</text>
+	</string>
+	
+	<string id="ka_travel_dialog_zaton">
+		<text>Скадовск в Затоне.</text>
+	</string>
+	<string id="ka_travel_dialog_jupiter">
+		<text>Станция Янов на Юпитере.</text>
+	</string>
+	<string id="ka_travel_dialog_yantar">
+		<text>Научная лаборатория на Янтаре.</text>
+	</string>
+	<string id="ka_travel_dialog_cordon">
+		<text>Деревня новичков на Кордоне.</text>
+	</string>
+	<string id="ka_travel_dialog_bar">
+		<text>Бар в Ростоке.</text>
+	</string>
+	<string id="ka_travel_dialog_warehouses">
+		<text>База Свободы на армейских складах.</text>
+	</string>
+	<string id="ka_travel_dialog_city">
+		<text>База наемников в Мертвом городе.</text>
+	</string>
+	<string id="ka_travel_dialog_agroprom">
+		<text>Военная база в Агропроме.</text>
+	</string>
+	<string id="ka_travel_dialog_swamp">
+		<text>База «Чистое небо» в Великих болотах.</text>
+	</string>
+	
+	<!-- About Quests Bandit -->
+	<string id="about_quests_dialog_bandit_0">
+		<text>Слышали ли здесь какие-нибудь новости в последнее время?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_1">
+		<text>Как что?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_10">
+		<text>Что ты думаешь о Нимбле?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_101">
+		<text>Шустрый? Думаю, на днях мы с этим скользким придурком попрыгаем в тихом месте!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_11">
+		<text>Ты слышал что-нибудь об Оазисе?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_111">
+		<text>Ну, однажды слышал забавную байку. Пацаны на Свалке пустили слух, где якобы Оазис, и сделали всё очень правдоподобно. Потом сели там в засаде. В итоге набежала куча доверчивых лошков с хабаром, и затейники вскоре свалили из Зоны обеспеченными. Только один остался, вроде какой-то Йога...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_112">
+		<text>Типа придёшь туда - и все проблемы решатся... Звучит удобно: ни похмелья, ни геморроя. Найти бы это место, открыть курорт и грести бабло.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_113">
+		<text>Зачем мне вообще слушать эту чушь? Всё это - дешёвая болтовня для неудачников... Настоящие мужчины в эту чушь не верят. Знаешь, ты сидишь в баре с холодной в руке, а вокруг гудят сталкеры, спорят, где находится Оазис. И каждый из этих лохов клянётся, что знает это место... Хотя у каждого лоха оно почему-то разное.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_12">
+		<text>Вы когда-нибудь встречали сталкера по имени Сорока?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_121">
+		<text>Конечно... Один взгляд на него сказал мне, что он полный лох, а потом я услышал, как сталкеры говорили, что он тоже полный отброс. Хотя я не знаю, где он... Если ты преследуешь его, тебе придется найти его самому.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_122">
+		<text>Нее... Впервые слышу это имя, приятель.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_13">
+		<text>Знаете ли вы, кто мог украсть вещи из личного ящика?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_131">
+		<text>Крыса. Я думаю, тебе лучше спросить у начальства в Янове, а то они известны своей охотой на крыс.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_14">
+		<text>Кто мог бы помочь мне с расшифровкой чего-либо здесь?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_141">
+		<text>Ну я слышал, Нитро у Янова хорошее. Видимо, когда он не работал в «Долге», ребята пару раз заставляли его взламывать сталкерские КПК... Эх, старые добрые времена...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_143">
+		<text>Не надо выдвигать ко мне всякую научную ерунду, шеф. Для этого дерьма тебе понадобится хакер. Когда я отбывал срок, я встретил одного в банке, но это единственный, кого я знаю. Когда я вышел, у него еще оставалось около пятерки...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_15">
+		<text>У меня есть КПК трейдера Duty. Вы знаете кого-нибудь, кому это будет интересно?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_151">
+		<text>В Скадовске есть торговец Сыч. Он неплохо платит, и ребята время от времени продают ему сталкерские КПК. Он также не задает слишком много вопросов, так что все хорошо.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_152">
+		<text>Да почти кому угодно, приятель. Его фракция бы его живьём закопала, другие тоже шум поднимут, а Сова на Затоне этот КПК тихо пристроит. Вопрос только куда он потом всплывёт - это знает только он.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_16">
+		<text>Где я могу найти здесь инструменты?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_165">
+		<text>Если нужны хирургические инструменты - ищи в больницах и на скорых. Стройинструмент обычно в карьере на Юпитере. Мелочь ищи по старым мастерским.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_166">
+		<text>Откуда мне знать? Мне не нужны инструменты, чтобы убедить сталкеров откашляться, просто чтобы вы знали... Расслабьтесь, я просто шучу.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_17">
+		<text>Кто может разблокировать модуль памяти?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_171">
+		<text>Хороший вопрос! Я имею в виду, что это то, на чем я специализируюсь, верно? Ха! Ты тупой, приятель? Это будут либо техники, либо учёные... Вы ведь не думаете, что я имею дело с таким дерьмом, не так ли?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_172">
+		<text>Я буду с вами честен: в последний раз я разблокировал модули памяти еще в школе, и модуль памяти представлял собой чертову дискету. Иди поговори с экспертами и надери им яйца по этому поводу.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_18">
+		<text>Кто мог взломать стальной контейнер?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_181">
+		<text>Знаешь Кардана на Скадовске? Недавно он в хлам напился и гонял какого-то мудака с монтировкой. Думаю, эту штуку он может пустить в дело и вскрыть что нужно.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_182">
+		<text>Ну, с правильными инструментами даже я смог бы это сделать, но кто тогда тащит с собой в Зону технику? Сходи к техникам, приятель, они в этом хорошо разбираются.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_19">
+		<text>Я ищу сталкера по имени Коряга. Знаешь, где я могу его найти?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_191">
+		<text>Кто знает? Спроси Султана на Скадовске. Босс обычно в курсе, где ошиваются все лохи.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_193">
+		<text>Да, я слышал об этом неудачнике. Обычно он ошивается в Затоне, так что вы его здесь не найдете.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_2">
+		<text>Знаете ли вы что-нибудь о разбившихся вертолетах?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_20">
+		<text>Кому может быть интересна информация об основателе Duty?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_201">
+		<text>Я не знаю никого, кому это было бы не интересно! Это взрывная информация, приятель, так что лучше всего пройти через Сову в Скадовске - так ты получишь немного денег, но не наживешь врагов.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_22">
+		<text>Нет. У меня слева Долг, справа Свобода, и сталкеры в печёнках - а ты хочешь, чтобы я ещё в небо пялился?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_23">
+		<text>Ну, мальчики сказали, что заметили одного, качающегося на тросах в Железном лесу, но там вы увидите гораздо больше... Вы обязательно наткнетесь на аномалию или вам раздробит череп полтергейстом.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_24">
+		<text>Да, некоторые ребята видели, как один из них упал на плато, но дело в том, что туда нет пути... они сказали, что он летел так странно, что казалось, будто пилот проглотил таблетку или что-то в этом роде.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_26">
+		<text>Я слышал, как вертолет упал прямо в болотную воду. Он довольно быстро сел на мель, да и вода там не совсем полезна для здоровья - яд, химикаты и прочее дерьмо.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_3">
+		<text>Вы видели поблизости военных?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_30">
+		<text>Кого могут заинтересовать карты местности между Затоном и Юпитером?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_301">
+		<text>Пилот, я считаю, он главный проводник в тех краях. Было бы хорошо, если бы у него были карты, а не звезды, как он делает сейчас...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_31">
+		<text>Ребята рассказали, что армейский отряд направился по южному плато прямо к лагерю наемников. Они решили, что вот-вот начнется дерьмо, поэтому поспешили уйти.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_32">
+		<text>Я слышал историю о том, как армейские тараканы пытались вытащить дерьмо из своего разбитого вертолета на болоте. Представьте себе, пятеро армейцев в форме прыгают по болоту, стараясь не промокнуть...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_33">
+		<text>Один парень рассказал мне, как он преследовал преследователя, чтобы получить часть его добычи, когда услышал выстрелы и прочее дерьмо. Оказалось, что армия сражалась с наемниками. Он спрятался и переждал перестрелку, но к тому времени сталкер убежал. Не повезло, да?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_34">
+		<text>Ну, брат рассказал мне о том, как стал свидетелем довольно забавной сцены. Представьте себе эту баржу с мельницей наверху и рядом с ней тявкающий Ной, весь в ярости и дерьме, и десять армейских мальчишек, пытающихся уйти как можно дальше от собаки Ноя. Ну, мой брат посмеялся и предоставил цирк самому себе.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_35">
+		<text>Нет, это довольно сомнительное место, полное ребят с усиленными стрелками и всем остальным... У меня нет времени проверять, кто из них военный, а кто дежурит на задании.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_4">
+		<text>Знаете ли вы, как добраться до Припяти?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_40">
+		<text>Кого я мог бы нанять для защиты ученых?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_403">
+		<text>Ха, мы с ребятами сделаем эту работу! Мы обеспечим им защиту, как будто их никогда не видели! Сталкерам и мутантам будет чертовски страшно подойти к этому чертовому месту, поверьте мне! Выкашливайте тесто каждую неделю, и мы все ваши. И не забудьте рождественский бонус!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_41">
+		<text>Прогулкой, приятель. Идите дальше к Юпитеру и задавайте там свои вопросы, потому что прямого пути от Затона до Припяти нет и это научный факт.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_43">
+		<text>Эй, приятель, я похож на гида или как? Я имею в виду, есть ли у меня на лбу татуировка с надписью «Задавай здесь глупые вопросы» или что-то в этом роде? Спроси Пилота, ему платят за то, чтобы он отвечал на вопросы об этом дерьме.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_44">
+		<text>Нет... Что бы я там делал? Там нет сталкеров, которых можно обдирать!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_5">
+		<text>Можешь подсказать кого-то не слишком занятого, кто рискнёт рвануть к Припяти?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_51">
+		<text>Припять - не место для таких, как мы. Вдумайтесь, здесь полно мутантов и аномалий... как и вся Зона... но без сталкеров и их добычи. Когда в Припяти появятся сталкеры, дайте нам знать, и мы отправимся туда, чтобы поддерживать естественный порядок вещей.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_57">
+		<text>Без понятия, приятель. Извини.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_6">
+		<text>Нашёл необычный ствол. Знаешь, кто может в таком разбираться?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_62">
+		<text>Ну я бы у техников спросил. Я имею в виду, их дело знать это дерьмо, верно?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_63">
+		<text>Хрен его знает, но сталкеры на Скадовске считают Кардана технарём от бога. Поговори с ним, если надо... хотя по мне так старый алкаш.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_7">
+		<text>Кого я мог бы нанять для проведения измерений для ученых?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_73">
+		<text>Это легко - наши мальчики справятся. Я имею в виду, что они не ходили в школу или что-то в этом роде, но они возьмут кого хочешь и очень хорошо измерят его. Как только они получат размеры, все, что им нужно, это красивая могила, и это тоже не проблема!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_8">
+		<text>Я нашел очень странный артефакт. Можете подсказать покупателя?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_81">
+		<text>Странный артефакт, говорите? Давай посмотрим... Отдай, чтобы я мог лучше рассмотреть... Ха, расслабься, приятель, я просто шучу, но на твоем месте я бы держал подобные вещи вне поля зрения. У других может не быть такого хорошего чувства юмора.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_83">
+		<text>Смелый ты, раз светишь таким артом тут. Респект. Но продавать это лучше Бороде на Скадовске. Как он вывозит арты из Зоны - никто толком не знает, но покупает без проблем.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_9">
+		<text>Неподалеку я нашел целое логово кровососов. Что мы будем делать?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_91">
+		<text>Э-э, что делать? Валить к чертям, вот что!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_98">
+		<text>Ладно, забудь об этом.</text>
+	</string>
+
+	<!-- About Quests Duty -->
+	<string id="about_quests_dialog_dolg_0">
+		<text>Слышали ли здесь какие-нибудь новости в последнее время?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_1">
+		<text>Как что?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_10">
+		<text>Что ты думаешь о Нимбле?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_101">
+		<text>Шустрый? Никогда о нем не слышал. Может, он в другом отряде или что-то в этом роде?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_11">
+		<text>Ты слышал что-нибудь об Оазисе?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_111">
+		<text>Это сталкерская сказка. Вот что делают сталкеры: выдумывают всякую ерунду, а потом собираются вместе и ищут ее! Я бы проигнорировал это на вашем месте. Это похоже на миф о вратах: поверьте ему, и вскоре вы поверите, что Исполнитель Желаний существует.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_112">
+		<text>Ах, это место, где раны заживают сами по себе, а твоя энергия волшебным образом восполняется? У меня для тебя новость, друг: его не существует. Сталкеры придумывают эту чушь, чтобы Зона казалась менее опасной, чем она есть на самом деле, но суровая реальность такова, что в Зоне нет безопасных мест. И ты должен твердо осознавать эту реальность здесь, приятель: мечтатели в Зоне долго не задерживаются.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_113">
+		<text>Да, и все артефакты там на вес золота и преподносятся тебе на серебряном блюде, пока ты натираешь ноги... Я, конечно, шучу. Я сомневаюсь, что оно существует, хотя было бы неплохо, если бы оно существовало. Мы могли бы даже построить там больницу без необходимости в каких-либо медиках - люди могли бы просто приходить туда и лечить... Блин, какая это несбыточная мечта.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_12">
+		<text>Вы когда-нибудь встречали сталкера по имени Сорока?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_121">
+		<text>Мне сложно вспомнить всех людей из «Долга», а ты спрашиваешь меня о сталкерах? У них база в Скадовске - спросите там.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_122">
+		<text>Нет, не встречал.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_13">
+		<text>Знаете ли вы, кто мог украсть вещи из личного ящика?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_131">
+		<text>Ну начинается. На базе Долга такого быть не может, а тут полно свободовских уебков - я бы с них начал.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_14">
+		<text>Кто мог бы помочь мне с расшифровкой чего-либо здесь?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_141">
+		<text>На станции Янов есть техник по имени Нитро. Он неплохо разбирается в электронике. Однажды я забыл пароль к своему КПК, и он взломал его за пять секунд!</text>
+	</string>
+	<string id="about_quests_dialog_dolg_143">
+		<text>Тебе в Янов, к Нитро. Он в таком шарит.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_15">
+		<text>У меня есть КПК трейдера Duty. Вы знаете кого-нибудь, кому это будет интересно?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_151">
+		<text>Торговец у Долга? Сомнительно. Но если у тебя есть инфа, неси её подполковнику Шульге - он разберётся.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_16">
+		<text>Где я могу найти здесь инструменты?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_163">
+		<text>Рядом целый завод. Конечно, возможно, его уже разграбили, но я бы на вашем месте все равно проверил склады завода.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_165">
+		<text>На вашем месте я бы начал искать в старых мастерских. Вы также можете найти что-то в магазинах.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_166">
+		<text>Тут кругом мутанты и аномалии. Ха! В аномалиях инструменты не ищут, и бюреры с контролёрами тебе не помощники.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_169">
+		<text>Вообще-то, здесь под мостом поезд. Я видел их раньше - обычно они используются для перевозки технического персонала, так что, возможно, вы сможете найти там кое-какие инструменты.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_17">
+		<text>Кто может разблокировать модуль памяти?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_171">
+		<text>Нитро - он единственный человек на станции Янов, который что-либо знает о таких вещах.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_172">
+		<text>По этому поводу вам нужно обратиться к техническому специалисту. Единственный приличный техник - Нитро из Янова.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_18">
+		<text>Кто мог взломать стальной контейнер?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_181">
+		<text>Говорят, среди сталкеров есть техник. Он пьян, но знает, что делает. Поговорите с ним.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_182">
+		<text>Ха, с таким же успехом можешь сейф на спине таскать. Нитро с обычным железом вряд ли поможет... если замок электронный - это уже другой разговор.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_19">
+		<text>Я ищу сталкера по имени Коряга. Знаешь, где я могу его найти?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_191">
+		<text>Спроси у сталкеров - они своих знают. Про Корягу я ничего не слышал.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_2">
+		<text>Знаете ли вы что-нибудь о разбившихся вертолетах?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_20">
+		<text>Кому может быть интересна информация об основателе Duty?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_201">
+		<text>Наш командир, конечно. Сообщите все, что вам известно, Шульге, и вы обязательно получите благодарность Долга.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_22">
+		<text>Да, наши разведчики видели, как военный вертолет снижался к запасным площадкам Юпитера. Они сказали, что продолжали подавать им сигналы о необходимости изменить курс, но я думаю, что у пилотов были другие поводы для беспокойства. Интересно, удалось ли армейским ребятам выбраться с минного поля?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_23">
+		<text>Не здесь, нет. Наше присутствие здесь ограничено... попробуйте спросить у наших ребят из Янова.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_25">
+		<text>Наш патруль сообщил, что военный вертолет совершил аварийную посадку возле завода «Юпитер». К сожалению, вертолет врезался прямо в крышу над цехами. Выживших, вероятно, нет - после крушения патруль не получал никаких сигналов бедствия.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_3">
+		<text>Вы видели поблизости военных?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_30">
+		<text>Кого могут заинтересовать карты местности между Затоном и Юпитером?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_301">
+		<text>Кто-то, кому они могут пригодиться. Я говорю о Пилоте - он гид на маршруте Янов-Скадовск, поэтому ему эти карты пригодятся, это точно.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_31">
+		<text>Военный? Я здесь никого не видел, но мы не проводим много времени в этом районе.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_35">
+		<text>Недавно на минном поле был замечен труп солдата. Вероятно, он один из тех парней, которые прилетели на этом вертолете. На вертолете помимо экипажа находится до восьми человек, значит, они, должно быть, нашли выход, хотя куда они направились, никто не знает.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_36">
+		<text>У бункера ученых видели военного, да и добрался он туда совсем недавно. Я не знаю подробностей.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_37">
+		<text>На днях в здание комплекса ПВО «Волхов» видели входящего в здание какого-то парня в военной форме. Хотя вполне возможно, что это был просто зомби, принятый за солдата.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_38">
+		<text>Сталкеры заметили воинскую часть возле завода «Юпитер». Судя по описанию это был спецназ. Их сопровождал неизвестный сталкер, и они направились в сторону Припяти. Это звучит достоверно, но опыт показывает, что такой информации обычно нельзя доверять.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_4">
+		<text>Знаете ли вы, как добраться до Припяти?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_40">
+		<text>Кого я мог бы нанять для защиты ученых?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_401">
+		<text>Они не найдут лучшей защиты, чем предоставит Долг. Сходите к подполковнику Шульге в Янов - я уверен, вы двое что-нибудь придумаете.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_402">
+		<text>Нет. Хотя на них работают люди из «Свободы», мы будем держаться подальше от этого места. Слушать целый день, как эти идиоты отпускают свои дерьмовые шутки, - судьба хуже смерти.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_42">
+		<text>У Долга сейчас нет причин искать дорогу в Припять, но мы все равно собираем информацию. Есть неподтвержденные сведения, что тоннели под заводом «Юпитер» ведут в Припять. Проверка этой информации потребует тщательного обыска всего на территории завода.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_43">
+		<text>Нет. Если вам нужна такая информация, вам придется поговорить с гражданским гидом - у наших разведчиков и так достаточно забот.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_44">
+		<text>Наши разведчики регулярно проверяют местность на предмет безопасных путей к Припяти, но пока это не дало никаких результатов.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_5">
+		<text>Можете ли вы порекомендовать кого-нибудь, кто не слишком скован, кто был бы готов сделать шаг в пользу Припяти?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_51">
+		<text>Наше присутствие здесь ограничено. Поговори с нашими на Янове.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_52">
+		<text>Ходят слухи, что у учёных в бункере находится военный. Однако у него нет особого выхода. Понимаете, учёные пробудут там от двенадцати до восемнадцати месяцев, а до края Зоны пешком и самостоятельно он не доберётся. Учитывая это, держу пари, что ему будет интересно.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_53">
+		<text>Ищи среди любителей приключений. Например, Вано на Янове. Ему плевать, в какое дерьмо лезть, а в аномалиях он ориентируется с закрытыми глазами.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_54">
+		<text>Ну, можно было бы начать вербовочную кампанию в психбольнице... Опять же, я знаю хорошую альтернативу - бойцов Монолита. Кстати, их отряд был замечен возле комплекса ПВО, и они, наверное, даже знают дорогу до Припяти... Эй, чувак, надеюсь, ты не воспринимаешь меня всерьез...</text>
+	</string>
+	<string id="about_quests_dialog_dolg_56">
+		<text>Ищите добровольцев в Долге. Страйдер, например. У него еще нет задания, так что я думаю, подполковник может отпустить его с вами.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_57">
+		<text>Все знают, что у «Долга» лучшие бойцы... но сейчас у нас другие цели.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_6">
+		<text>Нашёл необычный ствол. Знаешь, кто может в таком разбираться?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_62">
+		<text>Вот это пушка! Сам сделал или правда нашёл? Никогда такого не видел... иди к техникам.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_7">
+		<text>Кого я мог бы нанять для проведения измерений для ученых?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_71">
+		<text>Странный вопрос. Конечно, Долг. У нас опытных бойцов хватает, с учёными уже работали. Иди к Шульге, он подберёт отряд.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_72">
+		<text>Кто захочет там работать, если бункер охраняется Свободой? Эти чертовы пацифисты большую часть времени настолько накурены, что готовы стрелять друг в друга с такой же вероятностью, как и во врага.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_8">
+		<text>Я нашел очень странный артефакт. Можете подсказать покупателя?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_81">
+		<text>Арты все странные, и таскать их на себе я не советую. Отдай спецам и закрой вопрос.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_83">
+		<text>Покажи эту штуку сталкерам - они в этом лучше разбираются. Ещё лучше - тому, кому они обычно арты сбывают.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_9">
+		<text>Неподалеку я нашел целое логово кровососов. Что мы будем делать?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_91">
+		<text>Сейчас отряды Долга здесь зачистку не ведут, так что логово подождёт.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_98">
+		<text>Ладно, забудь об этом.</text>
+	</string>
+
+	<!-- About Quests Freedom -->
+	<string id="about_quests_dialog_freedom_0">
+		<text>Слышали ли здесь какие-нибудь новости в последнее время?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_1">
+		<text>Как что?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_10">
+		<text>Что ты думаешь о Нимбле?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_101">
+		<text>Я о нем мало что слышал... Лучше у сталкеров спроси, он один из них, не так ли?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_11">
+		<text>Ты слышал что-нибудь об Оазисе?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_111">
+		<text>Да, слышал много. Красивая сказка: дворец в песках, остров в тумане, замок в небе... Шангри-Ла, Эдем, Оазис. У каждого свободного есть мечта - и я их за это не виню.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_112">
+		<text>Ну, я услышал интересную историю от одного сталкера. Думаю, он был первым, кто упомянул мне об Оазисе. Он сказал, что по легенде там заживают все твои раны и ты становишься спокойным и расслабленным, как будто ты вообще не в Зоне. С тех пор я его не видел... И только после того, как он ушел, я вспомнил, что раньше он ходил прихрамывая, но когда он ушел, он шел прямо и выглядел так, будто чертовски сильно помолодел.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_113">
+		<text>Да, вольные сталкеры дали мне координаты... Десять разных наборов координат. Если сложить их вместе, то получится территория от «Скорчера» до ЧАЭС с баром «Янов» где-то недалеко от центра. Вполне возможно, что мы сейчас находимся в Оазисе, так что наслаждайтесь!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_12">
+		<text>Вы когда-нибудь встречали сталкера по имени Сорока?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_121">
+		<text>Нет. Я не знаю здесь много свободных сталкеров.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_122">
+		<text>Сорока? Нет, но это классное имя.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_13">
+		<text>Знаете ли вы, кто мог украсть вещи из личного ящика?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_131">
+		<text>Нет, тут таких нет. Хлеб у тебя подрезать или из фляги отхлебнуть - могут, но откровенных воров среди нас нет.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_14">
+		<text>Кто мог бы помочь мне с расшифровкой чего-либо здесь?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_141">
+		<text>Слышал, Нитро на Янове тащится по шифрам и алгоритмам. Лично не общался - он с Долгом трётся, ему до нас не особо есть дело.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_143">
+		<text>Я не спец по местным спецам... спроси наших на Янове, они точно подскажут.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_15">
+		<text>У меня есть КПК трейдера Duty. Вы знаете кого-нибудь, кому это будет интересно?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_151">
+		<text>Звучит интересно! Я бы отдал это Локи, нашему лидеру на Янове. Он сделает так, чтобы вольные сталкеры узнали, какой сброд Долг набирает в свои ряды.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_16">
+		<text>Где я могу найти здесь инструменты?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_163">
+		<text>На заводе, чувак, где ж ещё? Там не сахар, но на складах жить можно. И шансы найти нормальные инструменты там хорошие.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_165">
+		<text>Это хороший вопрос, чувак. Давайте подумаем об этом. Где найти инструменты за пределами Зоны? Вот если у тебя есть полмозга, ты покупаешь их в магазине... Если нет, ищешь инструменты и мозг в мастерской. Верно? В Зоне то же самое - искать приходится в тех же местах. Всё так просто, сталкер!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_166">
+		<text>Инструменты? Слушай, чувак, это код для чего-то? Здесь нет свиней и прочего, можешь говорить свободно... О, ты серьёзно? В таком случае я действительно не знаю.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_169">
+		<text>Слышал, один из наших искал инструменты и залез в поезд под мостом. Говорит, там «Тесла» шарашит... короче, веселья мало. Инструменты видел, но не взял - слишком опасно.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_17">
+		<text>Кто может разблокировать модуль памяти?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_171">
+		<text>Что ж, Тукарев в бункере ученых может это сделать. Он быстрый, хороший и вежливый. Еще есть Нитро у Янова, прихлебателя Долга. Он дешевый и дерьмовый, но, вероятно, справится со своей задачей.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_172">
+		<text>Нужен толковый техник. Местный больше по железкам, так что с такими делами лучше спросить на Юпитере.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_18">
+		<text>Кто мог взломать стальной контейнер?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_181">
+		<text>Ну Кардан в Скадовске должен быть хорош. Люди говорят, что он знает, что делает, хотя большую часть времени он пьян. Возможно, он сможет помочь вам взломать этот контейнер.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_182">
+		<text>Кто-то, кто профи по вскрытию стали. Нитро вряд ли подойдёт - он больше по электронике.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_19">
+		<text>Я ищу сталкера по имени Коряга. Знаешь, где я могу его найти?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_191">
+		<text>Никогда о нем не слышал... На вашем месте я бы спросил других вольных сталкеров.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_2">
+		<text>Знаете ли вы что-нибудь о разбившихся вертолетах?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_20">
+		<text>Кому может быть интересна информация об основателе Duty?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_201">
+		<text>Локи, без вопросов. Он наш лидер здесь, в Янове. Даже если он не знает, что делать с информацией - главное, чтобы Долг не заполучил ее. Вы представляете, сколько пропагандистской чуши это породит? У меня чертовски болит голова, просто подумав об этом.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_22">
+		<text>Да, ты слышал историю про вертолет на минном поле? По сути, банкиголовы врезались в запасную посадочную площадку, которую шесть лет назад заминировали их собратья-кусоголовы. Сейчас некоторые говорят, что сделали это по глупости, но я думаю, что дело не только в этом. Посмотрите на это так: туда никто не пойдет, поэтому, как только армейцы выполнят свою миссию, они смогут вернуться в вертолет, подлатать его немного и поехать. Мне бы хотелось знать, какова их миссия...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_23">
+		<text>Я не местный, приятель, ни черта не знаю. Загляни к нам на Янов - пацаны расскажут и то, что нужно, и то, что не нужно.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_25">
+		<text>Да, наши видели вертушку - шла криво, как пьяная. Села тоже хреново: прямо в крышу на Юпитере. Говорят, пробила перекрытие и утащила за собой кучу хлама.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_3">
+		<text>Вы видели поблизости военных?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_30">
+		<text>Кого могут заинтересовать карты местности между Затоном и Юпитером?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_301">
+		<text>Пилот, конечно. Он тут главный проводник у вольных сталкеров - по картам это к нему.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_31">
+		<text>Расслабься, чувак. Тут нет ни ментов, ни армейских касок - для Зоны место более-менее спокойное.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_35">
+		<text>Нет, но парни говорили, что видели армейцев на минном поле у вертоплощадок. Хотели помочь, но передумали: эти вояки непредсказуемые, могут и в спину пальнуть.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_36">
+		<text>Сам не видел, но слухи ходят, что в бункере учёных сидит армеец. Озерский говорил, что он из той вертушки, что ушла в завод. Шутят, что ботаны завели себе карманного солдата.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_37">
+		<text>Лично нет, но вольные шептали, что у «Волхова» видели военного. Может, призрак, а может зомби, хрен поймёшь.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_38">
+		<text>Нет. Один тип втирал, что видел семерых солдат, идущих за вольным сталкером к Припяти. Похоже на байку - видимо, мужик перегрелся.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_4">
+		<text>Знаете ли вы, как добраться до Припяти?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_40">
+		<text>Кого я мог бы нанять для защиты ученых?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_401">
+		<text>Свободу, кого же ещё. Мы с учёными постоянно работаем, охрана для нас не проблема. Иди к Локи на Янове, он точно подпишется.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_402">
+		<text>Я не уверен, друг, потому что, судя по тому, что я слышал, яйцеголовые наняли для работы на себя отряд "Долга"... Нам бы хотелось охранять ученых, но пялиться каждый день на эти запорные лица "Долга" просто того не стоит.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_42">
+		<text>Говорят, путь туда идёт через Юпитер... через завод, не через планету. Ха, шутка старая, но рабочая.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_43">
+		<text>Знаешь, я понятия не имею. Просто не могу найти время поехать туда... Я бы спросил у Пилота в лагере, да? Он свободный сталкер и знает местность лучше, чем кто-либо другой.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_44">
+		<text>Бро, если бы я знал, я бы уже давно туда пошёл. Уход от долга, хулиганов и всей этой борьбы того стоил бы...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_5">
+		<text>Можете ли вы порекомендовать кого-нибудь, кто не слишком скован, кто был бы готов сделать шаг в пользу Припяти?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_51">
+		<text>Извини, друг, я никого не знаю в Затоне... Послушай моего совета и спроси у наших ребят в Янове.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_52">
+		<text>Знаешь бункер учёных? Там сейчас движ. Сначала Гарри собрался в Припять, теперь и армеец из бункера туда рвётся. Гарри одиночка, а вот тот вояка как раз может быть тем, кто тебе нужен.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_53">
+		<text>Вано в Янове хорош не хуже любого. Он порядочный парень и мог бы присоединиться к Freedom в любое время, если бы захотел. Я так понимаю, он не в восторге от нашей борьбы с Долгом... или любой другой борьбы, если уж на то пошло. Это его взгляд на вещи, и мы его уважаем!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_54">
+		<text>Конечно. Один из наших видел у сухого озера отряд. Припять они, скорее всего, знают как свои пять пальцев. И смелости им не занимать - монолитовцы всё-таки.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_55">
+		<text>Ага. Страйдер, лидер наших новобранцев... кажется, ему не по себе в наших рядах. Его мальчики прекрасно адаптировались, но он здесь не так уж и счастлив... Поговорите с ним - мне неприятно видеть, как хороший человек оказывается там, где его сердце не лежит...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_57">
+		<text>Нет, без понятия.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_6">
+		<text>Нашёл странный ствол. Знаешь, кто может в таком разбираться?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_62">
+		<text>Вы не нашли руководства к нему, не так ли? Нет? Тогда без понятия.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_7">
+		<text>Кого я мог бы нанять для проведения измерений для ученых?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_71">
+		<text>Думаю, наши ребята справятся с этой задачей. У свободы есть своя доля умных людей, и если мы чего-то не знаем, мы спросим в бункере. Мы будем рады возможности помочь науке! Поговорите с Локи в Янове - я уверен, он скажет то же самое.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_72">
+		<text>Мы с ребятами с радостью бы это сделали, но Дьюти сейчас охраняет бункер. Зайти к ученым и так проблема, но находиться там каждый день было бы вредно для здоровья, это уж точно.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_8">
+		<text>Я нашел очень странный артефакт. Можете подсказать покупателя?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_81">
+		<text>Тебе нужен коллекционер, приятель. В Янове вы его не найдете, ведь сюда даже некоторые сталкеры боятся приходить. Лучше спросите в Затоне, там немного тише.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_83">
+		<text>Ты знаешь Борода, бармена из лагеря вольных сталкеров? Он скупает артефакты и не обдирает вас слишком сильно. Хороший парень, с какой стороны ни посмотри. Очень жаль, правда, что он у нас не работает.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_9">
+		<text>Неподалеку я нашел целое логово кровососов. Что мы будем делать?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_91">
+		<text>Чувак, ты должен предупредить вольных сталкеров - в конце концов, их главный лагерь находится здесь. Дикая природа Зоны, конечно, ценна, но меня больше беспокоят люди в этом месте.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_98">
+		<text>Ладно, забудь об этом.</text>
+	</string>
+
+	<!-- About Quests Stalker -->
+	<string id="about_quests_dialog_stalkers_0">
+		<text>Слышали ли здесь какие-нибудь новости в последнее время?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_1">
+		<text>Как что?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_10">
+		<text>Что ты думаешь о Нимбле?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_101">
+		<text>Не имел удовольствия... Лучше спросите у завсегдатаев Скадовска.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_11">
+		<text>Ты слышал что-нибудь об Оазисе?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_111">
+		<text>Я слышал все об Оазисе! Это легенда, миф... каждый сталкер ожидает от этого чего-то другого, и каждый из них утверждает, что знает точное местонахождение. Жаль, что единственное, что объединяет эти места, это то, что до них чертовски трудно добраться.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_112">
+		<text>Ну, говорят, раны там заживают мгновенно, а энергия восполняется за считанные минуты... Говорят, в Оазисе не могут длиться ни болезни, ни недуги, даже радиационное отравление! Но единственное, что я знаю наверняка, это его местонахождение... Хотите знать? Это в центре Зоны! Но ты должен держать это между нами, ни слова никому!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_113">
+		<text>Я слышал, что любой мутант, которого ты там встретишь, просто пройдет мимо, даже не взглянув на тебя. Еще говорят, что там есть артефакт под названием Сердце Оазиса... Никто точно не знает, что он делает, но одно можно сказать наверняка: трогать его нельзя. Тому, кто его возьмет, больше не будет места в Зоне... Местоположение? Блин, все знают, что это в Припяти под колесом обозрения! Я имею в виду, где еще это может быть?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_12">
+		<text>Вы когда-нибудь встречали сталкера по имени Сорока?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_121">
+		<text>Конечно... Хотя понятия не имею, где он сейчас.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_122">
+		<text>Хм... Никогда о нем не слышал...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_13">
+		<text>Знаете ли вы, кто мог украсть вещи из личного ящика?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_131">
+		<text>Э-э, нет. Спроси старших на Янове, может, они помогут.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_14">
+		<text>Кто мог бы помочь мне с расшифровкой чего-либо здесь?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_141">
+		<text>Нитро на Янове, кто же ещё. Он тащится от всей этой сложной техно-херни куда больше, чем от стрельбы.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_143">
+		<text>Никто из тех, кого я знаю. Спросите в Янове - у них там эксперт какой-то есть.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_15">
+		<text>У меня есть КПК трейдера Duty. Вы знаете кого-нибудь, кому это будет интересно?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_151">
+		<text>Знаешь Сову в Скадовске? Думаю, он был бы рад заполучить это в свои руки. Ему нравится вмешиваться в деликатные дела...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_152">
+		<text>Был такой Сова на Скадовске, в Затоне. Он торгует информацией... твой КПК его может заинтересовать.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_16">
+		<text>Где я могу найти здесь инструменты?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_161">
+		<text>Один сталкер говорил, что его старик до 86-го работал в цехах подстанции. Там было полно оборудования, так что и инструменты могли остаться. Может, уже ржавый хлам, но проверить стоит.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_162">
+		<text>Вы знаете лесопилку в лесу на холме? Там должны быть какие-то инструменты, если только кто-то не добрался до них первым. Хотя я в этом сомневаюсь: чем ближе ты подходишь к этому месту, тем больше тебе хочется обосраться и убежать к чертям. Страшно даже не радиация, на этом оставлю...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_163">
+		<text>Ну, завод «Юпитер» находится прямо здесь, и там наверняка есть какие-нибудь инструменты. Лично я бы не стал приближаться к самому заводу... от этого места у меня мурашки по коже. Вы могли бы посмотреть на складах Юпитера, тех, что сбоку от завода.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_164">
+		<text>Слышал, в Припяти есть пара мест, где можно нарыть технический хлам. Одно из них - старый советский универмаг. Раньше это было чуть ли не единственное место с полезным товаром.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_165">
+		<text>Откуда мне знать? Загляните в старые мастерские или магазины, там может быть что-нибудь полезное.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_166">
+		<text>Честно говоря, последнее место, где я видел приличные инструменты, это бункер Сидоровича на Кордоне. Конечно, за них придется заплатить, но они новые и не такие уж и дорогие.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_167">
+		<text>Знаешь, приятель, я в Зону не за инструментами пришёл. Сам подумай, нахрена тебе радиоактивный молоток?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_168">
+		<text>Ходили слухи, что в старом сервисном центре можно подобрать всякую всячину... Возможно, там тоже можно найти инструменты. Но, как и во всем остальном: единственный способ получить что-то хорошее - это добраться до него первым.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_169">
+		<text>Хороший вопрос... На вашем месте я бы проверил старый поезд под мостом. Не спрашивай, почему... Чутье подсказывает, что ты можешь что-нибудь найти.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_17">
+		<text>Кто может разблокировать модуль памяти?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_171">
+		<text>Дай подумать... Нитро на Янове точно сделает. Ещё есть Тукарев у учёных - профи. Но смотри сам: Нитро заметно дешевле.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_172">
+		<text>Ну, тебе понадобится техник, но единственный здесь - Кардан. Дело в том, что после стольких лет на дне бутылки он не совсем в безопасности со сложной электроникой. На вашем месте я бы поспрашивал в «Юпитере» - там есть нужные эксперты.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_18">
+		<text>Кто мог взломать стальной контейнер?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_181">
+		<text>Кардан в Скадовске, кажется. Я имею в виду, что смотреть на то, как он вскрывает висячие замки, одно удовольствие.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_182">
+		<text>Наверное, какой-то техник. Хотя Нитро, вероятно, на это не пойдет - он не любит грубые вещи.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_183">
+		<text>Ха, ты это в Припяти спрашиваешь?! Мой совет: ищи такого спеца подальше от центра Зоны.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_19">
+		<text>Я ищу сталкера по имени Коряга. Знаешь, где я могу его найти?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_191">
+		<text>Лучше спроси у Борода, бармена из Скадовска. Обычно он знает, где находятся сталкеры.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_193">
+		<text>Коряга? Откуда мне знать. Лучше спроси на Затоне, он там часто мелькает.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_2">
+		<text>Знаете ли вы что-нибудь о разбившихся вертолетах?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_20">
+		<text>Кому интересна информация об основателе Duty?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_201">
+		<text>Я бы поговорил с Совой, торговцем информацией в Скадовске. Могу поспорить, что ему будет интересна достоверная информация о такой легенде.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_21">
+		<text>Я сам видел один... Не похоже, что он разбился, но и летал не очень хорошо. Он раскачивался из стороны в сторону, пока не приземлился на плато на юге Затона... Было бы интересно посмотреть, выжил ли кто-нибудь... Если бы мы только знали, как туда подняться. Вообще-то, я слышал, что Ной с психобаржи может знать...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_22">
+		<text>Слышал, тут неподалёку несколько военных вертушек грохнулось... Историй куча, но одну помню точно: одна села на резервную площадку, которую сами же вояки когда-то заминировали. Ирония, блядь. Старик мой говорил: не рой яму другому - сам в неё свалишься.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_23">
+		<text>Кореш рассказывал: пошёл в Железный лес за артами и слышит сзади грохот. Оборачивается - на него вертушка летит на полном ходу, столбы валит, всё крушит. Он дал дёру, и чудом в аномалию не влетел. Лес найдёшь легко, его издалека видно. Но там и полтеров до жопы, так что ухо востро.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_24">
+		<text>Я слышал, что один из них приземлился на южном плато, но подняться туда непросто. Еще я слышал, что кто-то заметил Ноя на краю этого плато, а это значит, что психопат знает, как добраться до него.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_25">
+		<text>Я сам не видел ни одного, но ходят слухи, что один врезался прямо в завод... Но проверять никто не хочет - слишком опасное место.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_26">
+		<text>Один сталкер рассказал мне, что видел, как несколько военных вертолетов попали в какую-то беду... Он видел, как на одном из них загорелся двигатель, а затем он упал прямо в болото, полное аномалий. Добраться туда можно достаточно легко, но само болото - это чертов кошмар... Людям здесь не место, поверьте мне.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_3">
+		<text>Вы видели поблизости военных?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_30">
+		<text>Кого могут заинтересовать карты местности между Затоном и Юпитером?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_301">
+		<text>Пилот, кто еще, черт возьми? Он гид, понимаешь? Постоянно ездит между Скадовском и Яновом, так что вашим картам он наверняка найдет применение.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_302">
+		<text>Это не Затон и не Юпитер, поэтому эти карты здесь бесполезны, верно? Поспрашивайте в этих местах, и, возможно, вам повезет больше!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_31">
+		<text>Сам не видел, но слышал байку: вояки спускались с южного плато со стороны очистных. Сначала всё по уму, на тросах и прочей херне, а потом плюнули и съехали на жопах. Зонный бобслей, блин.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_32">
+		<text>На Скадовске слышал: человек пять вояк вылезли из дренажного тоннеля у болота. Грязные вусмерть, а одного вообще от болотного кровососа не отличишь - с головы до ног в слизи.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_33">
+		<text>Не лично, а мой друг видел, как воинская часть атаковала группу наемников у перерабатывающего пункта. Но к тому времени, когда он нашел хорошее место, чтобы насладиться представлением, все уже закончилось, потому что болваны отступили. Потерь с обеих сторон тоже нет... типично, не так ли?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_34">
+		<text>Судя по всему, вокруг баржи Ноя было замечено около десяти кувшинов. Теперь, учитывая, что псих в этот момент был жив, он, вероятно, пришел к какому-то соглашению с ними... что совсем на него похоже. Очевидно, никто не хотел спрашивать Ноя о том, что произошло - никогда не знаешь, чего ожидать от этого сумасшедшего сукиного сына.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_35">
+		<text>Ночью что-то рвануло, а потом в Янове рассказали: нашли мёртвого вояку на старом минном поле и брошенный армейский вертолёт рядом. Похоже, в темноте не поняли, где сели, и попёрли через мины.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_36">
+		<text>Я вообще-то не видел военных... но слышал слухи, что среди учёных тусуется какой-то болван. История гласит, что сталкер Гарри нашел его, когда тот зашел в ракетный комплекс искать своих приятелей. Теперь комплекс кишит зомби, которые не совсем дружелюбны к бродячим людям, поэтому Гарри фактически спас его от неминуемой смерти.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_37">
+		<text>Нет, но слышал, что вояку видели у ЗРК «Волхов». Я, правда, слабо в это верю: могли и приврать, или просто зомбака с солдатом перепутали.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_38">
+		<text>Военный? Ну, я слышал, как люди говорили, что мимо завода «Юпитер» пробиралась «целая воинская часть под предводительством сталкера», но я не обратил особого внимания на эти слухи.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_4">
+		<text>Знаете ли вы, как добраться до Припяти?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_40">
+		<text>Кого я мог бы нанять для защиты ученых?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_401">
+		<text>Вы знаете Спартака и его команду? Знаешь, сталкеры в Затоне? Они хорошие люди и достойные бойцы - они были там, сделали это и получили футболку. У меня такое ощущение, что им бы понравилась идея охранять ученых.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_402">
+		<text>Вы столкнулись с отрядом Хэтчета возле мастерских подстанции в Затоне? У них, как и у всех наемников, есть свои проблемы, но они хотя бы сначала задают вопросы, а потом стреляют. Думаю, если вам удастся записать их на эту работу, ученые будут довольны, да и сталкеры тоже смогут немного расслабиться. Все счастливы, да?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_403">
+		<text>Эм... Ничего не приходит на ум... Нет, извини.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_41">
+		<text>Точно знаю одно: из Затона туда не попасть. Все, кто рвался в Припять, ушли в сторону Юпитера, так что там и расспрашивай.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_42">
+		<text>Слухи ходят, будто под «Юпитером» есть тайные туннели в Припять. Только такие сказки обычно травят после второй рюмки, а сам «Юпитер» такой ад, что туда лишний раз никто не суётся.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_43">
+		<text>Почём мне знать, брат? Есть вопросы попроще? Могу сказать одно: найди Пилота и поговори с ним. Если кто и поможет, то он.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_44">
+		<text>Ха, знал бы дорогу в Припять - меня бы тут не было. Думаешь, зачем я к центру Зоны рвусь? В Припяти артов как грязи.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_5">
+		<text>Подскажешь кого-нибудь свободного, кто согласится идти на Припять?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_51">
+		<text>Не думаю, что тут найдётся такой. Все, кто хотел поближе к центру Зоны, ушли на Юпитер. Я бы там поспрашивал.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_52">
+		<text>Вы слышали о придурке, который сейчас работает с учёными? Я думаю, ему нечего терять, если он поедет с тобой. Учёные в ближайшее время не уедут, он не сможет дойти до Кордона самостоятельно, так что, возможно, он настолько глуп, что поедет с вами в Припять!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_53">
+		<text>Знаешь Вано на станции Янов? Честный мужик, сталкер толковый, но доверчивый до беды. Ему с аномалиями проще, чем с людьми.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_54">
+		<text>Слушай, слышал, что у высохшего озера к югу от ЗРК видели отряд. Говорят, не сталкеры, не Свобода и не Долг - монолитовцы. Так что если нужен попутчик до Припяти, вот тебе вариант. Ха, шучу.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_55">
+		<text>Знаешь Страйдера, командира нового отряда Свободы? По его роже видно: Янов ему поперёк горла. Поговори с ним, может и согласится.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_56">
+		<text>Знаешь Страйдера, командира нового отряда Долга? По его роже видно: Янов ему поперёк горла. Поговори с ним, может и согласится.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_57">
+		<text>Хм... Никто в голову не приходит.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_6">
+		<text>Нашёл странный ствол. Подскажешь, кто может в нём разбираться?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_62">
+		<text>Кто знает? Я бы спросил экспертов... ну, знаете, техников и все такое...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_63">
+		<text>Думаю, приятель, спросить Кардана в Скадовске не помешает. Он обращается с оружием, и он молодец... Возможно, у него даже осталась клетка-другая в мозгу, несмотря на его пьянство...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_7">
+		<text>Кого я мог бы нанять для проведения измерений для ученых?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_71">
+		<text>Знаешь охотника Гонту? Думаю, он с парнями не откажется поработать на учёных. Если мутанты прижмут, такие бойцы как раз нужны.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_72">
+		<text>Вы слышали о Гризли, Торбе и Митае, сталкерах Янова? Они работают втроем, и они чертовски круты! Я думаю, они подходят для такой работы... пока Митаю удалось хоть раз избежать неприятностей.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_73">
+		<text>Без понятия, чувак. У нас здесь достаточно своего дерьма, о котором стоит беспокоиться.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_8">
+		<text>Нашёл очень странный артефакт. Кому его можно продать?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_81">
+		<text>Вряд ли. Тут народ берёт привычное. Поспрашивай на Затоне, там ближе к краю Зоны.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_83">
+		<text>Я бы показал это Бороде, бармену в Скадовске. Говорят, он работает с коллекционерами из внешнего мира, а эти коты всегда сходят с ума от странных вещей.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_9">
+		<text>Неподалеку я нашел целое логово кровососов. Что мы будем делать?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_91">
+		<text>Ого. Об этом надо рассказать Бороде на Скадовске: либо мы их прижмём, либо они нас порвут.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_98">
+		<text>Ладно, забудь об этом.</text>
+	</string>
+	<string id="about_skadovsk_dialog_bandit_0">
+		<text>Где здесь ближайший лагерь сталкеров?</text>
+	</string>
+	<string id="about_skadovsk_dialog_bandit_1">
+		<text>Ты чё, тупой? Про сталкерские лагеря не знаю, но ближайшая точка тут - Скадовск. Кину координаты, даже бесплатно. Добрый я сегодня.</text>
+	</string>
+	<string id="about_skadovsk_dialog_stalkers_0">
+		<text>Где здесь ближайший лагерь сталкеров?</text>
+	</string>
+	<string id="about_skadovsk_dialog_stalkers_1">
+		<text>Я загружу координаты в твой КПК... Скадовск - единственный крупный лагерь здесь.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_27">
+		<text>Слышал о нескольких авариях... Подробностей не знаю - сплетни не по мне. Извините, если это вам не сильно поможет.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_28">
+		<text>Чувак, у меня и без твоих вертушек забот хватает. Да, падать на вертолёте, наверное, больно до усрачки, но больше мне сказать нечего.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_27">
+		<text>О чем ты говоришь, панк? Чтобы увидеть здесь вертолет, нужно выкурить какое-нибудь настоящее жесткое дерьмо, потому что настоящим здесь нечего делать.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_27">
+		<text>Хм? Нет, чувак, меня не волнует такое дерьмо. Это ни капельки не помогает моей миссии по распространению знаний, понимаете, о чем я?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_27">
+		<text>Наш патруль наблюдал за снижением вертолетов, но подробности этого были доложены лично подполковнику. Это по принципу служебной необходимости, и мне действительно не нужно знать эти вещи.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_50">
+		<text>Где можно найти костюм с замкнутой системой дыхания?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_501">
+		<text>Где взять - хз, но правильная сумма творит чудеса, если знать кому занести. Поговори с Шустрым. Договоритесь - достанет тебе шмот.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_502">
+		<text>Откуда мне знать? Я и сам тут недавно. Лучше спроси на Затоне, наши братки там всё знают.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_503">
+		<text>Ни малейшего понятия. Зачем ты планируешь сунуть нос в аномалию? Слушай, если ты найдешь какие-нибудь артефакты, дай нам знать. Мы сейчас приедем... Чтобы поздравить вас с хорошо выполненной работой!</text>
+	</string>
+	<string id="about_quests_dialog_dolg_50">
+		<text>Где найти костюм с дыхательным модулем замкнутого цикла?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_501">
+		<text>Откуда мне знать? Хотя... На Скадовске есть один тип, говорят, может достать почти что угодно. Сидит на верхней палубе, кличка Шустрый.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_502">
+		<text>Не, сюда никто с таким редким костюмом не попрётся. Поспрашивай на Затоне, там хоть ближе к цивилизации.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_503">
+		<text>Понятия не имею, где его искать... Такие костюмы редкость даже среди членов «Долга». Их выдают только за особые отличия в бою или проведении операций в крайне аномальных районах.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_50">
+		<text>Где найти костюм с дыхательным модулем замкнутого цикла?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_501">
+		<text>Слышал, сталкеры говорили про одного барыгу со связями, Шустрого. Он почти всё может достать: снарягу, стволы и прочее.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_502">
+		<text>Хороший вопрос, чувак... Мы никогда не носим их здесь, во Свободе... На твоем месте я бы спросил сталкеров в Затоне. Возможно, там есть кто-то, кто занимается подобным бизнесом.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_503">
+		<text>Хех, тебе эта штука зачем? В бою толку немного... Хотя бывает полезна: дышать легче, и солнце по глазам не так бьёт.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_50">
+		<text>Где найти костюм с дыхательным модулем замкнутого цикла?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_501">
+		<text>Я бы ставил на Шустрого. Третья палуба Скадовска. Этот тип и снег в пустыне достанет, но ценник у него конский.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_502">
+		<text>Дай подумать... Был на Затоне такой человек, Шустрый. Проверь, может ещё там. Слышал, он по дорогому снаряжению спец.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_503">
+		<text>Чувак, ты говоришь о таком, будто это канцелярия. Такие костюмы редкость. Если урвёшь - считай повезло.</text>
+	</string>
+
+	<!-- Call of Chernobyl -->
+	<string id="dm_dialog_add_trade">
+		<text>Итак... Я слышал, ты занимаешься торговлей на стороне.</text>
+	</string>
+	<string id="dm_dialog_add_repair">
+		<text>Слух прошёл, ты с железом на "ты". Сможешь починить мою снарягу?</text>
+	</string>
+	<string id="dm_dialog_character_history">
+		<text>Расскажи мне о себе.</text>
+	</string>
+
+	<!-- General -->
+	<string id="actor_break_dialog_0">
+		<text>До свидания.</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>Увидимся позже.</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>Мир.</text>
+	</string>
+	<string id="actor_break_dialog_3">
+		<text>Пока.</text>
+	</string>
+
+	<!-- Wish Granter -->
+	<string id="st_wish_1">
+		<text>Я хочу, чтобы Зона исчезла!</text>
+	</string>
+	<string id="st_wish_2">
+		<text>Человечество коррумпировано. Человечеством надо управлять!</text>
+	</string>
+	<string id="st_wish_3">
+		<text>Я желаю мира во всем мире!</text>
+	</string>
+	<string id="st_wish_4">
+		<text>Желаю всех богатств Зоны!</text>
+	</string>
+	<string id="st_wish_5">
+		<text>Сделай меня бессмертным!</text>
+	</string>
+	<string id="st_wish_99">
+		<text>[ничего не сказать]</text>
+	</string>
+
+	<!-- Alundaio -->
+	<string id="axr_phrase_npc_start_wounded">
+		<text>Помоги мне.</text>
+	</string>
+	<string id="axr_phrase_actor_has_medkit">
+		<text>Я помогу тебе.</text>
+	</string>
+	<string id="axr_phrase_actor_dont_has_medkit">
+		<text>Извини. Я не могу тебе помочь.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_trade">
+		<text>Я хотел бы обменять оборудование.</text>
+	</string>
+	<string id="dm_dialog_become_companion_greeting">
+		<text>Похоже, у тебя здесь есть цель.</text>
+	</string>
+	<string id="dm_dialog_companion_I_have_a_question">
+		<text>Ага? Возможно... У меня есть вопрос.</text>
+	</string>
+	<string id="dm_dialog_companion_question_answer_1">
+		<text>Что это такое?</text>
+	</string>
+	<string id="dm_dialog_companion_question_answer_2">
+		<text>Спроси другого одинокого парня.</text>
+	</string>
+	<string id="dm_dialog_actor_answer_1">
+		<text>Интересно...</text>
+	</string>
+	<string id="dm_dialog_actor_answer_2">
+		<text>Э... Извини, что обрываю, но мне пора.</text>
+	</string>
+	<string id="dm_dialog_companion_can_i_come_with_1">
+		<text>Давай пойдём вместе. Что скажешь?</text>
+	</string>
+	<string id="dm_dialog_companion_can_we_come_with_2">
+		<text>Мне и моим парням нужна помощь, чтобы пройти Зону. Не против, если присоединимся?</text>
+	</string>
+	<string id="dm_dialog_companion_can_i_come_with_2">
+		<text>Давай дальше работать одной командой. Что скажешь?</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_1">
+		<text>Тогда смотри в оба и целься нормально.</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_2">
+		<text>Ладно. Но если сдохнешь, хабар твой мой.</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_3">
+		<text>Нет. Неинтересно.</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_4">
+		<text>Проваливай!</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_alone_1">
+		<text>Спасибо, брат. Обещаю, мешаться не буду.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_alone_2">
+		<text>Отлично. Мне правда нужна помощь.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_alone_3">
+		<text>Круто, мужик. Спасибо.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_alone_1">
+		<text>Ладно. Всё равно спасибо...</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_alone_2">
+		<text>Эй, мужик! Ты вообще с чего взъелся?</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_1">
+		<text>Приятно это слышать! Давайте, ребята!</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_2">
+		<text>Хорошо. Эй, парни, этот сталкер нас проведёт. За ним.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_3">
+		<text>Погнали. Нам ещё долго топать.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_1">
+		<text>Как скажешь.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_2">
+		<text>Убей этого придурка!</text>
+	</string>
+	<string id="axr_phrase_companion_ask_for_command">
+		<text>Что вам нужно?</text>
+	</string>
+	<string id="axr_phrase_actor_give_command">
+		<text>[Отдать команду]</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat">
+		<text>Давайте поговорим о тактике...</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat_type_camper">
+		<text>Я хочу, чтобы ты был осторожнее в бою.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat_type_default">
+		<text>Действуй в бою как обычно.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat_type_monolith">
+		<text>Дави врага по полной!</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stay_close">
+		<text>Держись рядом со мной и прикрой мою спину.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_keep_distance">
+		<text>Я хочу, чтобы ты держался на расстоянии.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stealth">
+		<text>Тсс... Ложись и молчи.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stop_stealth">
+		<text>Ладно. Дальше идём как обычно.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_relax">
+		<text>Расслабься пока. Скажу, когда выдвигаться.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_relax_over">
+		<text>Хорошо. Пора идти.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_leave">
+		<text>Дальше мне нужно идти одному.</text>
+	</string>
+	<string id="axr_phrase_companion_are_you_sure">
+		<text>Вы уверены?</text>
+	</string>
+	<string id="axr_phrase_actor_acknowledge_1">
+		<text>Да.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_wait">
+		<text>Останься здесь и держи позицию.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_follow">
+		<text>Нужно, чтобы ты шёл за мной.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_ignore_combat">
+		<text>Пока ни в кого не стреляй.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_dont_ignore_combat">
+		<text>Открывай огонь по врагу при контакте.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_ignore_combat_but_help_actor">
+		<text>Не нападайте ни на кого, если они не нападут первыми на меня.</text>
+	</string>
+	<string id="axr_phrase_companion_acknowledge_1">
+		<text>Понял.</text>
+	</string>
+	<string id="axr_phrase_companion_acknowledge_2">
+		<text>Хорошо, чувак.</text>
+	</string>
+	<string id="axr_phrase_companion_acknowledge_3">
+		<text>Конечно, что ты хочешь, чтобы я сделал?</text>
+	</string>
+	<string id="axr_phrase_companion_goodbye_1">
+		<text>Спасибо за компанию. Увидимся.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_nevermind">
+		<text>Неважно.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_hide_in_cover">
+		<text>Быстро! В укрытие!</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_patrol_menu">
+		<text>Хочу, чтобы ты патрулировал район.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_start_patrol">
+		<text>Начать патрулирование.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stop_patrol">
+		<text>Прекратите патрулирование.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_patrol_remove_waypoints">
+		<text>Забудь все свои точки маршрута.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_patrol_add_waypoints">
+		<text>Добавьте это место в свой текущий патруль.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_gather_items">
+		<text>Подбирай снарягу по пути, может пригодиться.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_loot_corpses">
+		<text>Обыскивай трупы, бери всё полезное.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_gather_items_stop">
+		<text>Не подбирай валяющуюся снарягу.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_loot_corpses_stop">
+		<text>Мёртвых не трогай.</text>
+	</string>
+	<string id="axr_phrase_friend_companion_ask_join">
+		<text>Эй, давай вместе ходить. В Зоне так надёжнее.</text>
+	</string>
+	<string id="axr_phrase_friend_companion_answer_join">
+		<text>Конечно, идея отличная. Веди.</text>
+	</string>
+	<string id="axr_phrase_friend_companion_ask_join_hostage">
+		<text>Ты пойдешь со мной, чтобы спасти своего товарища?</text>
+	</string>
+	<string id="axr_phrase_friend_companion_answer_join_hostage">
+		<text>Да, ему нужна наша помощь! Веди.</text>
+	</string>
+</string_table>
